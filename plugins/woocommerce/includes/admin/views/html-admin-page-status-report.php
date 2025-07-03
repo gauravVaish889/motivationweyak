@@ -887,7 +887,8 @@ if ( 0 < $mu_plugins_count ) :
 
 				$additional_info = '';
 
-				if ( ! empty( $_page['shortcode'] ) || ! empty( $_page['block'] ) ) {
+				// We only state the used type on the Checkout and the Cart page.
+				if ( in_array( $_page['block'], array( 'woocommerce/checkout', 'woocommerce/cart' ), true ) ) {
 					// We check first if, in a blocks theme, the template content does not load the page content.
 					if ( CartCheckoutUtils::is_overriden_by_custom_template_content( $_page['block'] ) ) {
 						$additional_info = __( "This page's content is overridden by custom template content", 'woocommerce' );
@@ -1088,15 +1089,12 @@ if ( 0 < $mu_plugins_count ) :
 </table>
 
 <?php
+	// phpcs:disable WooCommerce.Commenting.CommentHooks.MissingSinceComment
 	/**
 	 * Action fired when the WooCommerce system status report is rendered.
-	 *
-	 * @since 2.4.0 Introduced hook.
-	 * @since 9.8.0 Made SSR report data available to callbacks.
-	 *
-	 * @param array|WP_Error $report Report data.
 	 */
-	do_action( 'woocommerce_system_status_report', $report );
+	do_action( 'woocommerce_system_status_report' );
+	// phpcs:enable WooCommerce.Commenting.CommentHooks.MissingSinceComment
 ?>
 
 <table class="wc_status_table widefat" cellspacing="0">

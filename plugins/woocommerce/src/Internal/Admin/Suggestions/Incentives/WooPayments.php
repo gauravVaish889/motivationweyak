@@ -258,7 +258,6 @@ class WooPayments extends Incentive {
 					'payment_method' => 'woocommerce_payments',
 					'return'         => 'ids',
 					'limit'          => 1,
-					'orderby'        => 'none',
 				)
 			)
 		) ) {

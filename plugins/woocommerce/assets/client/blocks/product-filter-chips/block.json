@@ -14,9 +14,7 @@
 		"woocommerce/product-filter-attribute",
 		"woocommerce/product-filter-status"
 	],
-	"supports": {
-		"interactivity": true
-	},
+	"supports": {},
 	"usesContext": [
 		"filterData"
 	],

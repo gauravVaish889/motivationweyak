@@ -318,10 +318,6 @@ class BlockTemplateUtils {
 			'checkout-header.html',
 			'coming-soon-social-links.html',
 			'mini-cart.html',
-			'simple-product-add-to-cart-with-options.html',
-			'external-product-add-to-cart-with-options.html',
-			'variable-product-add-to-cart-with-options.html',
-			'grouped-product-add-to-cart-with-options.html',
 		);
 
 		/*

@@ -42,8 +42,10 @@ if ( ! function_exists( 'wc_admin_get_feature_config' ) ) {
 			'async-product-editor-category-field' => false,
 			'launch-your-store' => true,
 			'product-editor-template-system' => false,
+			'blueprint' => false,
+			'reactify-classic-payments-settings' => false,
 			'use-wp-horizon' => false,
-			'add-to-cart-with-options-stepper-layout' => true,
+			'add-to-cart-with-options-stepper-layout' => false,
 			'blockified-add-to-cart' => false,
 		);
 	}

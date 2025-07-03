@@ -5,7 +5,6 @@ namespace Automattic\WooCommerce\Admin\Features\OnboardingTasks\Tasks;
 
 use Automattic\WooCommerce\Admin\Features\Features;
 use Automattic\WooCommerce\Admin\Features\PaymentGatewaySuggestions\Init;
-use Automattic\WooCommerce\Utilities\FeaturesUtil;
 
 /**
  * Payments Task
@@ -91,7 +90,7 @@ class AdditionalPayments extends Payments {
 		// Go ahead if either of the features are enabled.
 		// If the payment-gateway-suggestions are disabled,
 		// we are still good to go because we can use the default suggestions.
-		if ( ! FeaturesUtil::feature_is_enabled( 'reactify-classic-payments-settings' ) &&
+		if ( ! Features::is_enabled( 'reactify-classic-payments-settings' ) &&
 			! Features::is_enabled( 'payment-gateway-suggestions' ) ) {
 			// Hide task if both features are not enabled.
 			return false;
@@ -103,7 +102,7 @@ class AdditionalPayments extends Payments {
 
 		// Always show task if the React-based Payments settings page is enabled and
 		// there are any gateways enabled (i.e. the Payments task is complete).
-		if ( FeaturesUtil::feature_is_enabled( 'reactify-classic-payments-settings' ) &&
+		if ( Features::is_enabled( 'reactify-classic-payments-settings' ) &&
 			self::has_gateways() ) {
 			return true;
 		}
@@ -134,7 +133,7 @@ class AdditionalPayments extends Payments {
 	 */
 	public function get_action_url() {
 		// If the React-based Payments settings page is enabled, link to the new Payments settings page.
-		if ( FeaturesUtil::feature_is_enabled( 'reactify-classic-payments-settings' ) ) {
+		if ( Features::is_enabled( 'reactify-classic-payments-settings' ) ) {
 			// We auto-expand the "Other" section to show the additional payment methods.
 			return admin_url( 'admin.php?page=wc-settings&tab=checkout&other_pes_section=expanded' );
 		}

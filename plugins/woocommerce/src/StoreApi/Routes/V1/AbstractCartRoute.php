@@ -157,7 +157,6 @@ abstract class AbstractCartRoute extends AbstractRoute {
 		$response->header( 'Nonce-Timestamp', time() );
 		$response->header( 'User-ID', get_current_user_id() );
 		$response->header( 'Cart-Token', $this->get_cart_token() );
-		$response->header( 'Cart-Hash', WC()->cart->get_cart_hash() );
 
 		return $response;
 	}

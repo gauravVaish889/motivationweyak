@@ -1,0 +1,28 @@
+@use "../utilities" as *;
+
+.tp-order-details {
+    .tp-order-details-top {
+        .tp-order-details-icon {
+            span {
+                color: #010f1c;
+                border: 1px solid rgba(0, 0, 0, 0.41);
+            }
+        }
+
+        .tp-order-details-content {
+
+            .tp-order-details-title,
+            p {
+                color: #010f1c;
+            }
+        }
+    }
+
+    .tp-order-details-item {
+
+        h4,
+        p {
+            color: #010f1c;
+        }
+    }
+}

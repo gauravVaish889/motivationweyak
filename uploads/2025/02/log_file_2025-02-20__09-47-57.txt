@@ -1,0 +1,98 @@
+
+---Downloaded files---
+The import files for: Online Academy were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/new-moti
+Data file = /var/www/html/new-moti/wp-content/themes/edcare/sample-data//english/contents-demo.xml
+Widget file = /var/www/html/new-moti/wp-content/themes/edcare/sample-data//english/widget-settings.json
+Customizer file = /var/www/html/new-moti/wp-content/themes/edcare/sample-data//english/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Categories - Category - Imported
+Tp :: Blog Sidebar Post - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Product Sidebar : 
+
+Product Search - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Products list - Products - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

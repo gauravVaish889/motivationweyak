@@ -304,6 +304,7 @@
 		$template_html = $template_html.replace( '/*<![CDATA[*/', '' );
 		$template_html = $template_html.replace( '/*]]>*/', '' );
 
+		form.$singleVariation.html( $template_html );
 		form.$form.find( 'input[name="variation_id"], input.variation_id' ).val( variation.variation_id ).trigger( 'change' );
 
 		// Hide or show qty input
@@ -330,18 +331,12 @@
 			purchasable = false;
 		}
 
-		// Add a delay before updating the live region to ensure screen readers pick up the content changes.
-		setTimeout( function() {
-			form.$singleVariation.html( $template_html );
-
-			// Reveal
-			if ( form.$singleVariation.text().trim() ) {
-				form.$singleVariation.slideDown( 200 ).trigger( 'show_variation', [ variation, purchasable ] );
-			} else {
-				form.$singleVariation.show().trigger( 'show_variation', [ variation, purchasable ] );
-			}
-		}, 300);
-
+		// Reveal
+		if ( form.$singleVariation.text().trim() ) {
+			form.$singleVariation.slideDown( 200 ).trigger( 'show_variation', [ variation, purchasable ] );
+		} else {
+			form.$singleVariation.show().trigger( 'show_variation', [ variation, purchasable ] );
+		}
 	};
 
 	/**

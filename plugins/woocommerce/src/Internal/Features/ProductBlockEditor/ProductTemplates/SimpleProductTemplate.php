@@ -7,9 +7,6 @@ namespace Automattic\WooCommerce\Internal\Features\ProductBlockEditor\ProductTem
 
 use Automattic\WooCommerce\Admin\Features\Features;
 use Automattic\WooCommerce\Admin\Features\ProductBlockEditor\ProductTemplates\ProductFormTemplateInterface;
-use Automattic\WooCommerce\Enums\CatalogVisibility;
-use Automattic\WooCommerce\Enums\ProductStockStatus;
-use Automattic\WooCommerce\Enums\ProductTaxStatus;
 use WC_Tax;
 
 /**
@@ -296,7 +293,7 @@ class SimpleProductTemplate extends AbstractProductFormTemplate implements Produ
 						'options'  => array(
 							array(
 								'label' => __( 'Product and shipping', 'woocommerce' ),
-								'value' => ProductTaxStatus::TAXABLE,
+								'value' => 'taxable',
 							),
 							array(
 								'label' => __( 'Only shipping', 'woocommerce' ),
@@ -354,9 +351,6 @@ class SimpleProductTemplate extends AbstractProductFormTemplate implements Produ
 						'woocommerce'
 					),
 					'property' => 'short_description',
-					'lock'     => array(
-						'move' => true,
-					),
 				),
 			)
 		);
@@ -390,9 +384,6 @@ class SimpleProductTemplate extends AbstractProductFormTemplate implements Produ
 					'helpText' => null,
 					'label'    => null,
 					'property' => 'description',
-					'lock'     => array(
-						'move' => true,
-					),
 				),
 			)
 		);
@@ -574,7 +565,7 @@ class SimpleProductTemplate extends AbstractProductFormTemplate implements Produ
 				'order'      => 20,
 				'attributes' => array(
 					'label'      => __( 'Hide in product catalog', 'woocommerce' ),
-					'visibility' => CatalogVisibility::SEARCH,
+					'visibility' => 'search',
 				),
 			)
 		);
@@ -585,7 +576,7 @@ class SimpleProductTemplate extends AbstractProductFormTemplate implements Produ
 				'order'      => 30,
 				'attributes' => array(
 					'label'      => __( 'Hide from search results', 'woocommerce' ),
-					'visibility' => CatalogVisibility::CATALOG,
+					'visibility' => 'catalog',
 				),
 			)
 		);
@@ -860,15 +851,15 @@ class SimpleProductTemplate extends AbstractProductFormTemplate implements Produ
 					'options'  => array(
 						array(
 							'label' => __( 'In stock', 'woocommerce' ),
-							'value' => ProductStockStatus::IN_STOCK,
+							'value' => 'instock',
 						),
 						array(
 							'label' => __( 'Out of stock', 'woocommerce' ),
-							'value' => ProductStockStatus::OUT_OF_STOCK,
+							'value' => 'outofstock',
 						),
 						array(
 							'label' => __( 'On backorder', 'woocommerce' ),
-							'value' => ProductStockStatus::ON_BACKORDER,
+							'value' => 'onbackorder',
 						),
 					),
 				),
@@ -890,9 +881,6 @@ class SimpleProductTemplate extends AbstractProductFormTemplate implements Produ
 					'property'    => 'purchase_note',
 					'label'       => __( 'Post-purchase note', 'woocommerce' ),
 					'placeholder' => __( 'Enter an optional note attached to the order confirmation message sent to the shopper.', 'woocommerce' ),
-					'lock'        => array(
-						'move' => true,
-					),
 				),
 			)
 		);

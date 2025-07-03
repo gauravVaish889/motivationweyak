@@ -41,7 +41,6 @@ use Automattic\WooCommerce\Internal\DependencyManagement\ServiceProviders\Layout
 use Automattic\WooCommerce\Internal\DependencyManagement\ServiceProviders\ComingSoonServiceProvider;
 use Automattic\WooCommerce\Internal\DependencyManagement\ServiceProviders\StatsServiceProvider;
 use Automattic\WooCommerce\Internal\DependencyManagement\ServiceProviders\ImportExportServiceProvider;
-use Automattic\WooCommerce\Internal\DependencyManagement\ServiceProviders\EmailEditorServiceProvider;
 
 /**
  * PSR11 compliant dependency injection container for WooCommerce.
@@ -172,7 +171,6 @@ final class Container {
 			CostOfGoodsSoldServiceProvider::class,
 			AdminSettingsServiceProvider::class,
 			AdminSuggestionsServiceProvider::class,
-			EmailEditorServiceProvider::class,
 		);
 	}
 }

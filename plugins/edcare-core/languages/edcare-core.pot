@@ -1,0 +1,4348 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Acadia Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-24 06:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: tpcore"
+
+#: include/elementor/about/about-tab.php:55
+msgid " :: About Tab"
+msgstr ""
+
+#: include/elementor/about/about-team-single.php:59
+msgid " :: About Team Single"
+msgstr ""
+
+#: include/elementor/about/about-year-slider.php:59
+msgid " :: About Year Slider"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:59
+msgid " :: Academic Programs"
+msgstr ""
+
+#: include/elementor/common/advanced-tab.php:52
+msgid " :: Advanced Tab"
+msgstr ""
+
+#: include/elementor/banner/banner.php:58
+msgid " :: Banner"
+msgstr ""
+
+#: include/elementor/blog/blog-category.php:47
+msgid " :: Blog Category"
+msgstr ""
+
+#: include/elementor/blog/blog-grid.php:52
+msgid " :: Blog Grid"
+msgstr ""
+
+#: include/elementor/blog/blog-hero.php:47
+msgid " :: Blog Hero"
+msgstr ""
+
+#: include/elementor/blog/blog-post.php:52
+msgid " :: Blog Post"
+msgstr ""
+
+#: include/elementor/blog/blog-post-list.php:52
+msgid " :: Blog Post List"
+msgstr ""
+
+#: include/elementor/brand/brand-slider.php:59
+msgid " :: Brand Slider"
+msgstr ""
+
+#: include/elementor/breadcrumb/default-breadcrumb.php:51
+msgid " :: Breadcrumb"
+msgstr ""
+
+#: include/elementor/university/campus-link.php:60
+msgid " :: Campus Link"
+msgstr ""
+
+#: include/elementor/university/campus-slider.php:60
+msgid " :: Campus Slider"
+msgstr ""
+
+#: include/elementor/contact/contact-box.php:58
+msgid " :: Contact Box"
+msgstr ""
+
+#: include/elementor/contact/contact-plan.php:58
+msgid " :: Contact PLAN"
+msgstr ""
+
+#: include/elementor/common/counter.php:59
+msgid " :: Counter"
+msgstr ""
+
+#: include/elementor/course/course-card.php:51
+msgid " :: Course Card"
+msgstr ""
+
+#: include/elementor/course/course-instructor.php:50
+msgid " :: Course Instructor"
+msgstr ""
+
+#: include/elementor/course/course-search.php:52
+msgid " :: Course Search"
+msgstr ""
+
+#: include/elementor/course/course-tab.php:50
+msgid " :: Course Tab"
+msgstr ""
+
+#: include/elementor/event/events.php:50
+msgid " :: Event Post"
+msgstr ""
+
+#: include/elementor/faq/faq.php:59
+msgid " :: FAQ"
+msgstr ""
+
+#: include/elementor/footer/footer-language.php:59
+msgid " :: Footer Language"
+msgstr ""
+
+#: include/elementor/footer/footer-links.php:59
+msgid " :: Footer Links"
+msgstr ""
+
+#: include/elementor/footer/footer-social.php:59
+msgid " :: Footer Social"
+msgstr ""
+
+#: include/elementor/header/header-builder.php:60
+msgid " :: Header 1"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:52
+msgid " :: Header 2"
+msgstr ""
+
+#: include/elementor/header/header-builder-3.php:51
+msgid " :: Header 3"
+msgstr ""
+
+#: include/elementor/header/header-builder-4.php:52
+msgid " :: Header 4"
+msgstr ""
+
+#: include/elementor/header/header-builder-5.php:52
+msgid " :: Header 5"
+msgstr ""
+
+#: include/elementor/header/header-ecommerce.php:52
+msgid " :: Header Ecommerce"
+msgstr ""
+
+#: include/elementor/header/header-inner.php:60
+msgid " :: Header Inner"
+msgstr ""
+
+#: include/elementor/heading/heading.php:58
+msgid " :: Heading"
+msgstr ""
+
+#: include/elementor/hero/hero-banner.php:59
+msgid " :: Hero Banner"
+msgstr ""
+
+#: include/elementor/hero/hero-shop.php:53
+msgid " :: Hero Shop Slider"
+msgstr ""
+
+#: include/elementor/hero/hero-slider.php:53
+msgid " :: Hero Slider"
+msgstr ""
+
+#: include/elementor/common/icon-box.php:59
+msgid " :: Icon Box"
+msgstr ""
+
+#: include/elementor/image/image.php:58
+msgid " :: Image"
+msgstr ""
+
+#: include/elementor/image/image-shape.php:56
+msgid " :: Image Shape"
+msgstr ""
+
+#: include/elementor/instagram/instagram.php:58
+msgid " :: Instagram"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:53
+msgid " :: Kindergarten"
+msgstr ""
+
+#: include/elementor/common/link-list.php:55
+msgid " :: Link List"
+msgstr ""
+
+#: include/elementor/common/link-text.php:51
+msgid " :: Link Text"
+msgstr ""
+
+#: include/elementor/menu/home-demo.php:44
+msgid " :: Menu (Home)"
+msgstr ""
+
+#: include/elementor/common/mission-sticky.php:58
+msgid " :: Mission Sticky"
+msgstr ""
+
+#: include/elementor/offcanvas/offcanvas-mobile-menu.php:55
+msgid " :: Offcanvas Mobile Menu"
+msgstr ""
+
+#: include/elementor/price/price-box.php:59
+msgid " :: Price Box"
+msgstr ""
+
+#: include/elementor/woocommerce/product-card.php:52
+msgid " :: Product"
+msgstr ""
+
+#: include/elementor/header-side/search.php:53
+msgid " :: Search"
+msgstr ""
+
+#: include/elementor/services/services.php:59
+msgid " :: Services"
+msgstr ""
+
+#: include/elementor/woocommerce/shop-hero.php:55
+msgid " :: Shop Hero Slider"
+msgstr ""
+
+#: include/elementor/team/team-box.php:52
+msgid " :: Team"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:60
+msgid " :: Testimonial Slider"
+msgstr ""
+
+#: include/elementor/common/text-slider.php:59
+msgid " :: Text Slider"
+msgstr ""
+
+#: include/elementor/buttons/button.php:60
+msgid " :: Theme Button"
+msgstr ""
+
+#: include/elementor/university/university-instructor.php:60
+msgid " :: University Instructor"
+msgstr ""
+
+#: include/elementor/university/university-tab.php:52
+msgid " :: University Tab"
+msgstr ""
+
+#: include/elementor/video/video-play-mp4.php:58
+msgid " :: Video Play (MP4)"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:1025
+msgid " link"
+msgstr ""
+
+#: include/common/common-functions.php:173
+#: include/traits/tp-style-trait.php:1009
+msgid " Link Type"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:1047
+msgid " Page"
+msgstr ""
+
+#: include/post/post-functions.php:27
+msgid " Share this post:"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:996
+msgid " Text"
+msgstr ""
+
+#. 1: Plugin name 2: Elementor
+#: acadia-core.php:225
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: acadia-core.php:249 acadia-core.php:274
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: include/elementor/team/team-box.php:347
+#: include/elementor/team/team-box.php:361
+#: include/elementor/team/team-box.php:375
+#: include/elementor/testimonial/testimonial-slider.php:477
+msgid "#"
+msgstr ""
+
+#: include/traits/tp-post-trait.php:52
+#, php-format
+msgid "%s - Layout"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:259
+#, php-format
+msgid "%s Meta"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:17
+#, php-format
+msgid "%s Query"
+msgstr ""
+
+#: include/traits/tp-animation-trait.php:78
+#: include/traits/tp-animation-trait.php:90
+#: include/traits/tp-animation-trait.php:174
+#: include/traits/tp-animation-trait.php:186
+msgid "0.3s"
+msgstr ""
+
+#: include/elementor/hero/hero-slider.php:407
+msgid "01"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:35 include/traits/tp-column-trait.php:53
+#: include/traits/tp-column-trait.php:71 include/traits/tp-column-trait.php:89
+#: include/traits/tp-column-trait.php:107
+msgid "1 Columns"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:409
+msgid "10 Seats"
+msgstr ""
+
+#: include/elementor/hero/hero-banner.php:184
+msgid "12"
+msgstr ""
+
+#: include/elementor/about/about-year-slider.php:212
+msgid "1996"
+msgstr ""
+
+#: include/elementor/about/about-year-slider.php:163
+msgid "1999"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:36 include/traits/tp-column-trait.php:54
+#: include/traits/tp-column-trait.php:72 include/traits/tp-column-trait.php:90
+#: include/traits/tp-column-trait.php:108
+msgid "2 Columns"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:273
+msgid "2 Star"
+msgstr ""
+
+#: include/elementor/course/course-card.php:185
+msgid "20 min"
+msgstr ""
+
+#: include/elementor/about/about-year-slider.php:215
+msgid "2001"
+msgstr ""
+
+#: include/widgets/tp-blog-post-sidebar.php:98
+#: include/widgets/tp-services-list.php:66
+msgid "3"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:37 include/traits/tp-column-trait.php:55
+#: include/traits/tp-column-trait.php:73 include/traits/tp-column-trait.php:91
+#: include/traits/tp-column-trait.php:109
+msgid "3 Columns"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:274
+msgid "3 Star"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:383
+msgid "4 age"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:38 include/traits/tp-column-trait.php:56
+#: include/traits/tp-column-trait.php:74 include/traits/tp-column-trait.php:92
+#: include/traits/tp-column-trait.php:110
+msgid "4 Columns"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:275
+msgid "4 Star"
+msgstr ""
+
+#: include/elementor/blog/blog-category.php:151
+msgid "5"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:276
+msgid "5 Star"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:39 include/traits/tp-column-trait.php:57
+#: include/traits/tp-column-trait.php:75 include/traits/tp-column-trait.php:93
+#: include/traits/tp-column-trait.php:111
+msgid "6 Columns"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:396
+msgid "9 am - 5 pm"
+msgstr ""
+
+#. %s Nav menu URL
+#: include/elementor/header/header-builder-2.php:418
+#: include/elementor/header/header-builder-3.php:253
+#: include/elementor/header/header-builder-4.php:348
+#: include/elementor/header/header-builder-5.php:290
+#: include/elementor/header/header-builder.php:295
+#: include/elementor/header/header-ecommerce.php:422
+#: include/elementor/header/header-inner.php:299
+#, php-format
+msgid ""
+"<strong>There are no menus in your site.</strong><br>Go to the <a "
+"href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#: include/elementor/common/link-list.php:243
+#: include/elementor/footer/footer-links.php:221
+msgid "About"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:157
+msgid "About List"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:329
+msgid "About Tab List"
+msgstr ""
+
+#. Name of the plugin
+#: acadia-core.php:226
+msgid "Acadia Core"
+msgstr ""
+
+#: include/elementor/faq/faq.php:139
+msgid "Accordion"
+msgstr ""
+
+#: include/elementor/faq/faq.php:162
+msgid "Accordion Item"
+msgstr ""
+
+#: include/elementor/university/campus-link.php:166
+#: include/elementor/university/campus-link.php:188
+msgid "Accounting"
+msgstr ""
+
+#: include/traits/tp-animation-trait.php:42
+#: include/traits/tp-animation-trait.php:138
+msgid "Active Animation"
+msgstr ""
+
+#: include/elementor/price/price-box.php:321
+msgid "Active Feature"
+msgstr ""
+
+#: include/elementor/common/link-list.php:171
+msgid "Active Link"
+msgstr ""
+
+#: include/elementor/university/university-tab.php:140
+msgid "Active Tab"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:200
+msgid "Active This"
+msgstr ""
+
+#: include/elementor/buttons/button.php:200
+#: include/elementor/common/kindergarten.php:603
+#: include/elementor/common/link-text.php:147
+msgid "Add Icon ?"
+msgstr ""
+
+#: include/custom-post/portfolio.php:39 include/custom-post/services.php:39
+msgid "Add New"
+msgstr ""
+
+#: include/custom-post/breadcrumb.php:28 include/custom-post/footer.php:30
+#: include/custom-post/header.php:27 include/custom-post/offcanvas.php:26
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: include/custom-post/portfolio.php:38
+msgid "Add New Portfolio"
+msgstr ""
+
+#: include/custom-post/portfolio.php:93
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: include/custom-post/services.php:38
+msgid "Add New Service"
+msgstr ""
+
+#: include/custom-post/services.php:93
+msgid "Add New Service Category"
+msgstr ""
+
+#: include/custom-post/breadcrumb.php:27 include/custom-post/footer.php:29
+#: include/custom-post/header.php:26 include/custom-post/offcanvas.php:25
+msgid "Add New Template"
+msgstr ""
+
+#: include/custom-post/portfolio.php:98 include/custom-post/services.php:98
+msgid "Add or remove items"
+msgstr ""
+
+#: include/elementor/course/course-tab.php:147
+msgid "Add Tab Shape?"
+msgstr ""
+
+#: include/elementor/team/team-box.php:467
+msgid "Add your dribbble link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:321
+msgid "Add your email link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:348
+msgid "Add your facebook link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:428
+msgid "Add your flickr link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:493
+msgid "Add your github link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:415
+msgid "Add your Google Plus link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:454
+msgid "Add your hehance link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:376
+msgid "Add your instagram link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:389
+msgid "Add your linkedin link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:334
+msgid "Add your phone link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:480
+msgid "Add your pinterest link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:308
+msgid "Add your profile link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:362
+msgid "Add your twitter link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:441
+msgid "Add your vimeo link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:402
+msgid "Add your youtube link"
+msgstr ""
+
+#: include/widgets/tp-footer-address.php:81
+msgid "Address Information :"
+msgstr ""
+
+#: include/widgets/tp-footer-address.php:96
+msgid "Address Link"
+msgstr ""
+
+#: include/widgets/tp-footer-address.php:90
+msgid "Address Text"
+msgstr ""
+
+#: include/elementor/common/advanced-tab.php:130
+msgid "Advanced Tabs"
+msgstr ""
+
+#: include/elementor/university/campus-link.php:191
+msgid "Advertising"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:381
+msgid "Age"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:810
+#: include/elementor/breadcrumb/default-breadcrumb.php:208
+#: include/elementor/buttons/button.php:291
+#: include/elementor/common/academic-programs.php:355
+#: include/elementor/common/counter.php:233
+#: include/elementor/common/kindergarten.php:340
+#: include/elementor/services/services.php:265
+#: include/elementor/team/team-box.php:592
+#: include/elementor/university/university-instructor.php:200
+msgid "Alignment"
+msgstr ""
+
+#: include/elementor/event/events.php:224
+msgid "All"
+msgstr ""
+
+#: include/elementor/course/course-tab.php:253
+msgid "All Courses"
+msgstr ""
+
+#: include/custom-post/portfolio.php:37 include/custom-post/services.php:37
+msgid "All Items"
+msgstr ""
+
+#: include/custom-post/portfolio.php:89
+msgid "All Portfolio Category"
+msgstr ""
+
+#: include/custom-post/services.php:89
+msgid "All Service Category"
+msgstr ""
+
+#: include/custom-post/breadcrumb.php:31 include/custom-post/footer.php:33
+#: include/custom-post/header.php:30 include/custom-post/offcanvas.php:29
+msgid "All Templates"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:604
+#: include/elementor/common/kindergarten.php:392
+#: include/elementor/common/text-slider.php:186
+#: include/elementor/contact/contact-plan.php:218
+msgid "Animation"
+msgstr ""
+
+#: include/traits/tp-animation-trait.php:88
+#: include/traits/tp-animation-trait.php:184
+msgid "Animation Delay"
+msgstr ""
+
+#: include/traits/tp-animation-trait.php:76
+#: include/traits/tp-animation-trait.php:172
+msgid "Animation Duration"
+msgstr ""
+
+#: include/traits/tp-animation-trait.php:55
+#: include/traits/tp-animation-trait.php:151
+msgid "Animation Type"
+msgstr ""
+
+#: include/elementor/price/price-box.php:423
+msgid "Another Great Feature"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:634
+#: include/elementor/team/team-box.php:636
+msgid "Arrow Style"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:595
+#: include/elementor/common/kindergarten.php:383
+#: include/elementor/common/text-slider.php:177
+#: include/elementor/contact/contact-plan.php:209
+msgid "Art Direction"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:99 include/elementor/event/events.php:254
+msgid "Ascending"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:295
+msgid "Author"
+msgstr ""
+
+#: include/elementor/blog/blog-post.php:168
+#: include/elementor/testimonial/testimonial-slider.php:587
+msgid "Avator Image"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:495
+msgid "Background"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:199 include/traits/tp-style-trait.php:220
+#: include/traits/tp-style-trait.php:570 include/traits/tp-style-trait.php:634
+#: include/traits/tp-style-trait.php:1124
+#: include/traits/tp-style-trait.php:1180
+#: include/elementor/buttons/button.php:475
+#: include/elementor/buttons/button.php:566
+#: include/elementor/common/link-list.php:305
+#: include/elementor/common/link-list.php:377
+#: include/elementor/menu/home-demo.php:438
+#: include/elementor/menu/home-demo.php:509
+#: include/elementor/services/services.php:520
+#: include/elementor/team/team-box.php:271
+msgid "Background Color"
+msgstr ""
+
+#: include/elementor/event/events.php:364
+msgid "Background color"
+msgstr ""
+
+#: controls/tpbggradient.php:150 controls/tpgradient.php:144
+msgctxt "Background Control"
+msgid "Angle"
+msgstr ""
+
+#: controls/tpbggradient.php:182 controls/tpgradient.php:176
+msgctxt "Background Control"
+msgid "Bottom Center"
+msgstr ""
+
+#: controls/tpbggradient.php:183 controls/tpgradient.php:177
+msgctxt "Background Control"
+msgid "Bottom Left"
+msgstr ""
+
+#: controls/tpbggradient.php:184 controls/tpgradient.php:178
+msgctxt "Background Control"
+msgid "Bottom Right"
+msgstr ""
+
+#: controls/tpbggradient.php:176 controls/tpgradient.php:170
+msgctxt "Background Control"
+msgid "Center Center"
+msgstr ""
+
+#: controls/tpbggradient.php:177 controls/tpgradient.php:171
+msgctxt "Background Control"
+msgid "Center Left"
+msgstr ""
+
+#: controls/tpbggradient.php:178 controls/tpgradient.php:172
+msgctxt "Background Control"
+msgid "Center Right"
+msgstr ""
+
+#: controls/tpbggradient.php:81 controls/tpgradient.php:79
+msgctxt "Background Control"
+msgid "Color"
+msgstr ""
+
+#: controls/tpbggradient.php:63
+msgctxt "Background Control"
+msgid ""
+"Gradient color not work editor mode. If you set gradient color please view "
+"the result live preview page."
+msgstr ""
+
+#: controls/tpbggradient.php:138 controls/tpgradient.php:133
+msgctxt "Background Control"
+msgid "Linear"
+msgstr ""
+
+#: controls/tpbggradient.php:94 controls/tpbggradient.php:120
+#: controls/tpgradient.php:92 controls/tpgradient.php:116
+msgctxt "Background Control"
+msgid "Location"
+msgstr ""
+
+#: controls/tpbggradient.php:173 controls/tpgradient.php:167
+msgctxt "Background Control"
+msgid "Position"
+msgstr ""
+
+#: controls/tpbggradient.php:139 controls/tpgradient.php:134
+msgctxt "Background Control"
+msgid "Radial"
+msgstr ""
+
+#: controls/tpbggradient.php:109
+msgctxt "Background Control"
+msgid "Second Color"
+msgstr ""
+
+#: controls/tpgradient.php:106
+msgctxt "Background Control"
+msgid "Second Color (No effect for custom SVG)"
+msgstr ""
+
+#: controls/tpbggradient.php:62 controls/tpgradient.php:62
+msgctxt "Background Control"
+msgid "Select Color Type"
+msgstr ""
+
+#: controls/tpbggradient.php:84
+msgctxt "Background Control"
+msgid "Start Color"
+msgstr ""
+
+#: controls/tpgradient.php:82
+msgctxt "Background Control"
+msgid "Text Color"
+msgstr ""
+
+#: controls/tpbggradient.php:179 controls/tpgradient.php:173
+msgctxt "Background Control"
+msgid "Top Center"
+msgstr ""
+
+#: controls/tpbggradient.php:180 controls/tpgradient.php:174
+msgctxt "Background Control"
+msgid "Top Left"
+msgstr ""
+
+#: controls/tpbggradient.php:181 controls/tpgradient.php:175
+msgctxt "Background Control"
+msgid "Top Right"
+msgstr ""
+
+#: controls/tpbggradient.php:135 controls/tpgradient.php:130
+msgctxt "Background Control"
+msgid "Type"
+msgstr ""
+
+#: include/elementor/menu/home-demo.php:279
+msgid "Banner"
+msgstr ""
+
+#: include/elementor/banner/banner.php:135
+msgid "Banner Controls"
+msgstr ""
+
+#: include/elementor/menu/home-demo.php:303
+msgid "Banner Title"
+msgstr ""
+
+#: include/elementor/footer/footer-social.php:289
+#: include/elementor/team/team-box.php:453
+msgid "Behance"
+msgstr ""
+
+#: include/traits/tp-post-trait.php:61
+msgid "Blog 1"
+msgstr ""
+
+#: include/elementor/common/link-list.php:318
+#: include/elementor/common/link-list.php:390
+#: include/elementor/menu/home-demo.php:451
+#: include/elementor/menu/home-demo.php:522
+msgid "Border"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:593 include/traits/tp-style-trait.php:645
+#: include/elementor/common/academic-programs.php:789
+#: include/elementor/team/team-box.php:790
+msgid "Border Color"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:613
+#: include/elementor/banner/banner.php:254
+#: include/elementor/buttons/button.php:508
+#: include/elementor/buttons/button.php:596
+#: include/elementor/common/academic-programs.php:718
+#: include/elementor/common/link-text.php:358
+#: include/elementor/common/link-text.php:425
+#: include/elementor/team/team-box.php:719
+msgid "Border Radius"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:1152
+#: include/traits/tp-style-trait.php:1208
+msgid "Border Redius"
+msgstr ""
+
+#: include/elementor/breadcrumb/default-breadcrumb.php:200
+msgid "Bottom"
+msgstr ""
+
+#: include/traits/tp-animation-trait.php:62
+#: include/traits/tp-animation-trait.php:158
+msgid "bounceIn"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:605 include/traits/tp-style-trait.php:656
+#: include/traits/tp-style-trait.php:1136
+#: include/traits/tp-style-trait.php:1192
+msgid "Box Shadow"
+msgstr ""
+
+#: include/elementor/common/text-slider.php:164
+msgid "Brand Identity"
+msgstr ""
+
+#: include/elementor/brand/brand-slider.php:137
+#: include/elementor/brand/brand-slider.php:179
+msgid "Brand Item"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:598
+#: include/elementor/common/icon-box.php:146
+#: include/elementor/common/kindergarten.php:386
+#: include/elementor/common/text-slider.php:180
+#: include/elementor/contact/contact-plan.php:212
+msgid "Branding"
+msgstr ""
+
+#: include/elementor/common/icon-box.php:159
+msgid ""
+"Branding is one of the most important ingredients for the success of any "
+"business."
+msgstr ""
+
+#: include/custom-post/breadcrumb.php:12 include/custom-post/breadcrumb.php:14
+#: include/elementor/breadcrumb/default-breadcrumb.php:243
+msgid "Breadcrumb"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:553
+#: include/elementor/header/header-builder-2.php:431
+#: include/elementor/header/header-builder-3.php:266
+#: include/elementor/header/header-builder-4.php:361
+#: include/elementor/header/header-builder-5.php:303
+#: include/elementor/header/header-builder.php:308
+#: include/elementor/header/header-ecommerce.php:435
+#: include/elementor/header/header-inner.php:312
+#: include/elementor/hero/hero-shop.php:243
+#: include/elementor/hero/hero-slider.php:274
+msgid "Button"
+msgstr ""
+
+#: include/elementor/services/services.php:388
+msgid "Button Icon"
+msgstr ""
+
+#: include/elementor/buttons/button.php:486
+msgid "Button Line Color"
+msgstr ""
+
+#: include/elementor/hero/hero-slider.php:315
+msgid "Button Link"
+msgstr ""
+
+#: include/elementor/buttons/button.php:255
+#: include/elementor/common/kindergarten.php:657
+#: include/elementor/header/header-builder.php:357
+#: include/elementor/header/header-ecommerce.php:330
+#: include/elementor/menu/home-demo.php:353
+#: include/elementor/services/services.php:335
+msgid "Button link"
+msgstr ""
+
+#: include/elementor/buttons/button.php:239
+#: include/elementor/common/kindergarten.php:641
+#: include/elementor/header/header-builder.php:344
+#: include/elementor/header/header-ecommerce.php:317
+#: include/elementor/hero/hero-slider.php:300
+#: include/elementor/menu/home-demo.php:337
+#: include/elementor/services/services.php:318
+msgid "Button Link Type"
+msgstr ""
+
+#: include/elementor/buttons/button.php:623
+#: include/elementor/common/link-text.php:452
+msgid "Button Margin"
+msgstr ""
+
+#: include/elementor/buttons/button.php:635
+#: include/elementor/common/link-text.php:464
+msgid "Button Padding"
+msgstr ""
+
+#: include/elementor/buttons/button.php:325
+msgid "Button Style"
+msgstr ""
+
+#: include/elementor/buttons/button.php:144
+msgid "Button Style Type"
+msgstr ""
+
+#: include/elementor/banner/banner.php:211
+#: include/elementor/buttons/button.php:170
+#: include/elementor/common/kindergarten.php:573
+#: include/elementor/course/course-card.php:254
+#: include/elementor/course/course-instructor.php:146
+#: include/elementor/course/course-tab.php:136
+#: include/elementor/header/header-builder.php:332
+#: include/elementor/header/header-ecommerce.php:305
+#: include/elementor/hero/hero-shop.php:256
+#: include/elementor/hero/hero-shop.php:258
+#: include/elementor/hero/hero-slider.php:287
+#: include/elementor/hero/hero-slider.php:289
+#: include/elementor/menu/home-demo.php:323
+#: include/elementor/woocommerce/shop-hero.php:165
+msgid "Button Text"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:433
+#: include/elementor/university/university-instructor.php:229
+msgid "Button Title"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:310
+#: include/elementor/common/mission-sticky.php:220
+msgid "Button title"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:659
+#: include/elementor/header/header-builder-4.php:604
+#: include/elementor/header/header-builder-5.php:413
+#: include/elementor/header/header-ecommerce.php:737
+msgid "Cart"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:267
+#: include/elementor/header/header-builder-2.php:321
+#: include/elementor/header/header-builder-2.php:334
+#: include/elementor/header/header-ecommerce.php:473
+#: include/elementor/header/header-ecommerce.php:486
+msgid "Category"
+msgstr ""
+
+#: include/elementor/blog/blog-category.php:149
+#: include/elementor/blog/blog-category.php:152
+msgid "Category Number"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:332
+#: include/elementor/header/header-ecommerce.php:484
+msgid "Category Text"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:229 include/traits/tp-style-trait.php:818
+#: include/elementor/breadcrumb/default-breadcrumb.php:216
+#: include/elementor/buttons/button.php:299
+#: include/elementor/common/academic-programs.php:363
+#: include/elementor/common/counter.php:241
+#: include/elementor/common/kindergarten.php:348
+#: include/elementor/services/services.php:273
+#: include/elementor/team/team-box.php:600
+#: include/elementor/university/university-instructor.php:208
+msgid "Center"
+msgstr ""
+
+#: include/custom-post/portfolio.php:99 include/custom-post/services.php:99
+msgid "Choose from the most used"
+msgstr ""
+
+#: include/elementor/buttons/button.php:215
+#: include/elementor/common/kindergarten.php:617
+#: include/elementor/common/link-text.php:162
+msgid "Choose Icon Position"
+msgstr ""
+
+#: include/elementor/hero/hero-banner.php:144
+#: include/elementor/image/image.php:146 include/elementor/image/image.php:182
+msgid "Choose Image"
+msgstr ""
+
+#: include/traits/tp-offcanvas-trait.php:25
+#: include/elementor/header/header-builder.php:402
+#: include/elementor/header/header-inner.php:334
+msgid "Choose Logo"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:370
+#: include/elementor/header/header-builder-3.php:205
+#: include/elementor/header/header-builder-4.php:288
+#: include/elementor/header/header-builder-5.php:232
+#: include/elementor/header/header-builder.php:237
+#: include/elementor/header/header-ecommerce.php:374
+#: include/elementor/header/header-inner.php:252
+msgid "Choose Logo Black"
+msgstr ""
+
+#: include/traits/tp-offcanvas-trait.php:35
+#: include/elementor/header/header-builder-4.php:298
+#: include/elementor/header/header-builder-5.php:242
+#: include/elementor/header/header-builder.php:247
+msgid "Choose Logo White"
+msgstr ""
+
+#: include/elementor/image/image-shape.php:179
+msgid "Choose Shape Image 1"
+msgstr ""
+
+#: include/elementor/image/image-shape.php:193
+msgid "Choose Shape Image 2"
+msgstr ""
+
+#: include/elementor/image/image-shape.php:207
+msgid "Choose Shape Image 3"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:396
+#: include/elementor/common/academic-programs.php:739
+#: include/elementor/team/team-box.php:740
+msgid "Color"
+msgstr ""
+
+#: controls/tpbggradient.php:73
+msgctxt "Color Control"
+msgid "Gradient"
+msgstr ""
+
+#: controls/tpbggradient.php:69
+msgctxt "Color Control"
+msgid "Solid"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:31
+msgid "Columns for Desktop"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:49
+msgid "Columns for Large"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:85
+msgid "Columns for Mobile"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:67
+msgid "Columns for Tablet"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:103
+msgid "Columns for XS Devices"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:309
+msgid "Comment"
+msgstr ""
+
+#: include/elementor/common/mission-sticky.php:242
+msgid "Community"
+msgstr ""
+
+#: include/widgets/tp-footer-contact.php:103
+msgid "Contact Information :"
+msgstr ""
+
+#: include/elementor/image/image.php:263
+msgid "Contain"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:167
+#: include/elementor/about/about-team-single.php:137
+#: include/elementor/hero/hero-banner.php:137
+#: include/elementor/testimonial/testimonial-slider.php:299
+#: include/elementor/university/university-instructor.php:138
+msgid "Content"
+msgstr ""
+
+#: include/elementor/hero/hero-slider.php:156
+msgid "Content Background Image"
+msgstr ""
+
+#: include/elementor/course/course-card.php:129
+#: include/elementor/course/course-instructor.php:138
+#: include/elementor/course/course-tab.php:128
+#: include/elementor/menu/home-demo.php:135
+msgid "Content Controls"
+msgstr ""
+
+#: include/elementor/menu/home-demo.php:212
+msgid "Content Controls 2"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:178
+msgid "Content Limit"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:601
+#: include/elementor/common/kindergarten.php:389
+#: include/elementor/common/text-slider.php:183
+#: include/elementor/contact/contact-plan.php:215
+msgid "Content Production"
+msgstr ""
+
+#: include/elementor/common/mission-sticky.php:271
+msgid "Content width"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:158
+#: include/elementor/common/link-list.php:151
+#: include/elementor/hero/hero-shop.php:133
+#: include/elementor/hero/hero-slider.php:133
+#: include/elementor/hero/hero-slider.php:381
+msgid "Control all the style settings from Style tab"
+msgstr ""
+
+#: include/elementor/contact/contact-plan.php:179
+msgid "Count"
+msgstr ""
+
+#: include/elementor/common/counter.php:137
+msgid "Counter"
+msgstr ""
+
+#: include/elementor/course/course-card.php:183
+msgid "Course Time"
+msgstr ""
+
+#: include/elementor/image/image.php:264
+msgid "Cover"
+msgstr ""
+
+#: include/elementor/common/mission-sticky.php:181
+#: include/elementor/common/mission-sticky.php:236
+msgid "Creativity"
+msgstr ""
+
+#: include/elementor/price/price-box.php:196
+msgid "Currency"
+msgstr ""
+
+#: include/elementor/price/price-box.php:201
+msgctxt "Currency Symbol"
+msgid "Baht"
+msgstr ""
+
+#: include/elementor/price/price-box.php:202
+msgctxt "Currency Symbol"
+msgid "BD Taka"
+msgstr ""
+
+#: include/elementor/price/price-box.php:203
+msgctxt "Currency Symbol"
+msgid "Dollar"
+msgstr ""
+
+#: include/elementor/price/price-box.php:204
+msgctxt "Currency Symbol"
+msgid "Euro"
+msgstr ""
+
+#: include/elementor/price/price-box.php:205
+msgctxt "Currency Symbol"
+msgid "Franc"
+msgstr ""
+
+#: include/elementor/price/price-box.php:206
+msgctxt "Currency Symbol"
+msgid "Guilder"
+msgstr ""
+
+#: include/elementor/price/price-box.php:207
+msgctxt "Currency Symbol"
+msgid "Krona"
+msgstr ""
+
+#: include/elementor/price/price-box.php:208
+msgctxt "Currency Symbol"
+msgid "Lira"
+msgstr ""
+
+#: include/elementor/price/price-box.php:209
+msgctxt "Currency Symbol"
+msgid "Peso"
+msgstr ""
+
+#: include/elementor/price/price-box.php:210
+msgctxt "Currency Symbol"
+msgid "Pound Sterling"
+msgstr ""
+
+#: include/elementor/price/price-box.php:211
+msgctxt "Currency Symbol"
+msgid "Real"
+msgstr ""
+
+#: include/elementor/price/price-box.php:212
+msgctxt "Currency Symbol"
+msgid "Ruble"
+msgstr ""
+
+#: include/elementor/price/price-box.php:213
+msgctxt "Currency Symbol"
+msgid "Rupee (Indian)"
+msgstr ""
+
+#: include/elementor/price/price-box.php:214
+msgctxt "Currency Symbol"
+msgid "Shekel"
+msgstr ""
+
+#: include/elementor/price/price-box.php:215
+msgctxt "Currency Symbol"
+msgid "Won"
+msgstr ""
+
+#: include/elementor/price/price-box.php:216
+msgctxt "Currency Symbol"
+msgid "Yen/Yuan"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:141
+#: include/elementor/price/price-box.php:217
+msgid "Custom"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:151
+msgid "Custom Date Format"
+msgstr ""
+
+#: include/elementor/common/link-list.php:200
+msgid "Custom link"
+msgstr ""
+
+#: include/elementor/price/price-box.php:226
+msgid "Custom Symbol"
+msgstr ""
+
+#: include/elementor/team/team-box.php:237
+msgid "Custome Url"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:136
+msgid "d-m-Y"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:137
+msgid "d/m/Y"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:281
+msgid "Date"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:132
+msgid "Date Format"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:312
+msgid "David Prutra"
+msgstr ""
+
+#: include/elementor/event/events.php:382
+msgid "Day color"
+msgstr ""
+
+#: include/elementor/event/events.php:374
+msgid "Day Typography"
+msgstr ""
+
+#: include/traits/tp-offcanvas-trait.php:63
+#: include/traits/tp-query-trait.php:135
+#: include/elementor/breadcrumb/default-breadcrumb.php:198
+#: include/elementor/header/header-builder-2.php:430
+#: include/elementor/header/header-builder-3.php:265
+#: include/elementor/header/header-builder-4.php:360
+#: include/elementor/header/header-builder-5.php:302
+#: include/elementor/header/header-builder.php:307
+#: include/elementor/header/header-builder.php:425
+#: include/elementor/header/header-ecommerce.php:434
+#: include/elementor/header/header-inner.php:311
+#: include/elementor/header/header-inner.php:356
+msgid "Default"
+msgstr ""
+
+#: include/elementor/header/header-ecommerce.php:297
+msgid "Default title"
+msgstr ""
+
+#: include/elementor/university/university-instructor.php:261
+msgid "Default-value"
+msgstr ""
+
+#: include/elementor/footer/footer-links.php:148
+msgid "Demo Title"
+msgstr ""
+
+#: include/widgets/tp-blog-post-sidebar.php:99
+#: include/widgets/tp-services-list.php:67
+msgid "DESC"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:100 include/elementor/event/events.php:255
+msgid "Descending"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:797 include/traits/tp-style-trait.php:923
+#: include/elementor/about/about-year-slider.php:182
+#: include/elementor/common/academic-programs.php:246
+#: include/elementor/common/icon-box.php:157
+#: include/elementor/common/kindergarten.php:304
+#: include/elementor/common/mission-sticky.php:189
+#: include/elementor/contact/contact-box.php:153
+#: include/elementor/contact/contact-plan.php:170
+#: include/elementor/course/course-card.php:140
+#: include/elementor/faq/faq.php:171 include/elementor/hero/hero-banner.php:167
+#: include/elementor/hero/hero-slider.php:259
+#: include/elementor/services/services.php:291
+msgid "Description"
+msgstr ""
+
+#: include/elementor/course/course-card.php:154
+#: include/elementor/event/events.php:207
+msgid "Description Limit"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:130
+#: include/elementor/blog/blog-category.php:121
+#: include/elementor/blog/blog-grid.php:126
+#: include/elementor/blog/blog-hero.php:121
+#: include/elementor/blog/blog-post-list.php:126
+#: include/elementor/blog/blog-post.php:126
+#: include/elementor/event/events.php:136
+#: include/elementor/image/image-shape.php:131
+#: include/elementor/menu/home-demo.php:114
+#: include/elementor/offcanvas/offcanvas-mobile-menu.php:131
+msgid "Design Layout"
+msgstr ""
+
+#: include/elementor/footer/footer-social.php:144
+msgid "Design Style"
+msgstr ""
+
+#: include/elementor/about/about-team-single.php:158
+msgid "Designation"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:323
+msgid "Designer"
+msgstr ""
+
+#: include/elementor/course/course-instructor.php:148
+#: include/elementor/university/university-instructor.php:230
+msgid "Details"
+msgstr ""
+
+#: include/widgets/tp-footer-address.php:22
+msgid "Diego :: Address (footer)"
+msgstr ""
+
+#: include/widgets/tp-footer-contact.php:22
+msgid "Diego :: Contact (footer)"
+msgstr ""
+
+#: include/widgets/tp-footer-address.php:23
+msgid "Diego Address Widget For Footer"
+msgstr ""
+
+#: include/widgets/tp-footer-contact.php:23
+msgid "Diego Contact Widget For Footer"
+msgstr ""
+
+#: include/elementor/hero/hero-shop.php:307
+msgid "Dot Style"
+msgstr ""
+
+#: include/elementor/team/team-box.php:466
+msgid "Dribbble"
+msgstr ""
+
+#: include/elementor/footer/footer-social.php:293
+msgid "Dribble"
+msgstr ""
+
+#: include/elementor/common/counter.php:210
+#: include/elementor/price/price-box.php:240
+msgid "Duration"
+msgstr ""
+
+#: include/custom-post/breadcrumb.php:29 include/custom-post/footer.php:31
+#: include/custom-post/header.php:28 include/custom-post/offcanvas.php:27
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: include/custom-post/portfolio.php:41 include/custom-post/services.php:41
+msgid "Edit Item"
+msgstr ""
+
+#: include/custom-post/portfolio.php:94
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: include/custom-post/services.php:94
+msgid "Edit Service Category"
+msgstr ""
+
+#: acadia-core.php:227 acadia-core.php:251
+msgid "Elementor"
+msgstr ""
+
+#: include/elementor/team/team-box.php:320
+msgid "Email"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:158
+msgid "Enable Arrow Navigation?"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:279
+#: include/elementor/header/header-builder-4.php:238
+#: include/elementor/header/header-builder-5.php:208
+#: include/elementor/header/header-ecommerce.php:225
+msgid "Enable Cart?"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:226
+msgid "Enable Category?"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:143
+#: include/elementor/hero/hero-shop.php:141
+#: include/elementor/hero/hero-slider.php:141
+msgid "Enable Dots Navigation?"
+msgstr ""
+
+#: include/elementor/header/header-inner.php:203
+msgid "Enable Header Right?"
+msgstr ""
+
+#: include/elementor/header/header-ecommerce.php:272
+msgid "Enable Header Top"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:240
+#: include/elementor/header/header-builder-4.php:226
+#: include/elementor/header/header-ecommerce.php:238
+msgid "Enable Login?"
+msgstr ""
+
+#: include/elementor/team/team-box.php:138
+msgid "Enable Navigation Arrow ?"
+msgstr ""
+
+#: include/elementor/header/header-inner.php:216
+msgid "Enable Offcanvas?"
+msgstr ""
+
+#: include/elementor/header/header-ecommerce.php:251
+msgid "Enable Search?"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:142
+msgid "Enable Shape Line?"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:201
+#: include/elementor/header/header-builder-3.php:182
+#: include/elementor/header/header-builder-4.php:201
+#: include/elementor/header/header-builder-5.php:183
+#: include/elementor/header/header-builder.php:191
+#: include/elementor/header/header-ecommerce.php:200
+#: include/elementor/header/header-inner.php:190
+msgid "Enable Sticky"
+msgstr ""
+
+#: include/elementor/common/mission-sticky.php:191
+msgid ""
+"Encouraging behaviours which encompass notions of originality, and problem-"
+"solving in all that we do."
+msgstr ""
+
+#: include/traits/tp-style-trait.php:999
+#: include/elementor/buttons/button.php:173
+#: include/elementor/common/kindergarten.php:576
+#: include/elementor/header/header-builder.php:335
+#: include/elementor/header/header-ecommerce.php:308
+#: include/elementor/hero/hero-shop.php:259
+#: include/elementor/hero/hero-slider.php:290
+#: include/elementor/menu/home-demo.php:326
+msgid "Enter button text"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:152
+msgid "Enter your custom date format."
+msgstr ""
+
+#: include/elementor/about/about-year-slider.php:184
+msgid ""
+"Etiam quis sapien in orci feugiat suscipit quis eget risus. Morbi in dapibus "
+"magna, et congue tortor. Students loved the system, but the teachers "
+"struggled to manage the paperwork and manual tracking."
+msgstr ""
+
+#: include/elementor/event/events.php:325
+msgid "Event Button Text"
+msgstr ""
+
+#: include/elementor/event/events.php:165
+msgid "Event Category"
+msgstr ""
+
+#: include/elementor/event/events.php:183
+msgid "Event count"
+msgstr ""
+
+#: include/elementor/event/events.php:242
+msgid "Event End Date"
+msgstr ""
+
+#: include/elementor/event/events.php:159
+msgid "Event Info"
+msgstr ""
+
+#: include/elementor/event/events.php:250
+msgid "Event Order"
+msgstr ""
+
+#: include/elementor/event/events.php:241
+msgid "Event Start Date"
+msgstr ""
+
+#: include/elementor/event/events.php:220
+msgid "Event status filter By"
+msgstr ""
+
+#: include/elementor/event/events.php:174
+msgid "Event Tag"
+msgstr ""
+
+#: include/elementor/price/price-box.php:404
+msgid "Exciting Feature"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:44
+msgid "Exclude Categories"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:55
+msgid "Exclude Item"
+msgstr ""
+
+#: include/elementor/event/events.php:226
+msgid "Expire Event"
+msgstr ""
+
+#: include/post/post-functions.php:52
+#: include/elementor/footer/footer-social.php:253
+#: include/elementor/footer/footer-social.php:281
+#: include/elementor/team/team-box.php:346
+#: include/elementor/university/university-instructor.php:279
+msgid "Facebook"
+msgstr ""
+
+#: include/widgets/tp-footer-about.php:140
+msgid "Facebook Link"
+msgstr ""
+
+#: include/traits/tp-animation-trait.php:59
+#: include/traits/tp-animation-trait.php:155
+msgid "fadeInDown"
+msgstr ""
+
+#: include/traits/tp-animation-trait.php:60
+#: include/traits/tp-animation-trait.php:156
+msgid "fadeInLeft"
+msgstr ""
+
+#: include/traits/tp-animation-trait.php:61
+#: include/traits/tp-animation-trait.php:157
+msgid "fadeInRight"
+msgstr ""
+
+#: include/traits/tp-animation-trait.php:58
+#: include/traits/tp-animation-trait.php:154
+msgid "fadeInUp"
+msgstr ""
+
+#: include/elementor/price/price-box.php:402
+msgid "Feature Text"
+msgstr ""
+
+#: include/custom-post/portfolio.php:47 include/custom-post/services.php:47
+msgid "Featured Image"
+msgstr ""
+
+#: include/elementor/price/price-box.php:312
+msgid "Features"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:185
+#: include/elementor/about/about-year-slider.php:147
+#: include/elementor/brand/brand-slider.php:147
+#: include/elementor/common/academic-programs.php:174
+#: include/elementor/common/advanced-tab.php:181
+#: include/elementor/common/kindergarten.php:170
+#: include/elementor/common/text-slider.php:147
+#: include/elementor/footer/footer-social.php:173
+#: include/elementor/hero/hero-shop.php:156
+#: include/elementor/hero/hero-slider.php:172
+#: include/elementor/menu/home-demo.php:146
+#: include/elementor/menu/home-demo.php:226
+#: include/elementor/team/team-box.php:155
+#: include/elementor/testimonial/testimonial-slider.php:254
+#: include/elementor/university/campus-link.php:150
+#: include/elementor/university/campus-slider.php:162
+#: include/elementor/university/university-tab.php:151
+msgid "Field condition"
+msgstr ""
+
+#: include/elementor/image/image.php:265
+msgid "fill"
+msgstr ""
+
+#: include/custom-post/portfolio.php:55 include/custom-post/services.php:55
+msgid "Filter items list"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:312
+msgid "Find out More"
+msgstr ""
+
+#: include/elementor/team/team-box.php:427
+msgid "Flickr"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:629
+msgid "Focus"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:96
+#: include/elementor/services/services.php:420
+msgid "Font Size"
+msgstr ""
+
+#: include/custom-post/footer.php:12 include/custom-post/footer.php:14
+msgid "Footer"
+msgstr ""
+
+#: include/elementor/footer/footer-social.php:161
+msgid "Footer Social"
+msgstr ""
+
+#: include/traits/tp-offcanvas-trait.php:64
+#: include/elementor/buttons/button.php:149
+msgid "Full Width"
+msgstr ""
+
+#: include/elementor/common/link-text.php:138
+msgid "Get To Know Me"
+msgstr ""
+
+#: include/elementor/team/team-box.php:492
+msgid "Github"
+msgstr ""
+
+#. %s Nav menu URL
+#: include/elementor/header/header-builder-2.php:409
+#: include/elementor/header/header-builder-3.php:244
+#: include/elementor/header/header-builder-4.php:339
+#: include/elementor/header/header-builder-5.php:281
+#: include/elementor/header/header-builder.php:286
+#: include/elementor/header/header-ecommerce.php:413
+#: include/elementor/header/header-inner.php:290
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: include/elementor/price/price-box.php:300
+msgid "Gold Membership"
+msgstr ""
+
+#: include/elementor/team/team-box.php:414
+msgid "Google Plus"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:334
+msgid "Gorki Campus"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:762 include/traits/tp-style-trait.php:891
+#: include/elementor/banner/banner.php:168
+#: include/elementor/breadcrumb/default-breadcrumb.php:162
+#: include/elementor/common/academic-programs.php:214
+#: include/elementor/common/kindergarten.php:272
+#: include/elementor/hero/hero-shop.php:210
+#: include/elementor/hero/hero-slider.php:227
+#: include/elementor/services/services.php:233
+#: include/elementor/team/team-box.php:560
+msgid "H1"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:766 include/traits/tp-style-trait.php:895
+#: include/elementor/banner/banner.php:172
+#: include/elementor/breadcrumb/default-breadcrumb.php:166
+#: include/elementor/common/academic-programs.php:218
+#: include/elementor/common/kindergarten.php:276
+#: include/elementor/hero/hero-shop.php:214
+#: include/elementor/hero/hero-slider.php:231
+#: include/elementor/services/services.php:237
+#: include/elementor/team/team-box.php:564
+msgid "H2"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:770 include/traits/tp-style-trait.php:899
+#: include/elementor/banner/banner.php:176
+#: include/elementor/breadcrumb/default-breadcrumb.php:170
+#: include/elementor/common/academic-programs.php:222
+#: include/elementor/common/kindergarten.php:280
+#: include/elementor/hero/hero-shop.php:218
+#: include/elementor/hero/hero-slider.php:235
+#: include/elementor/services/services.php:241
+#: include/elementor/team/team-box.php:568
+msgid "H3"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:774 include/traits/tp-style-trait.php:903
+#: include/elementor/banner/banner.php:180
+#: include/elementor/breadcrumb/default-breadcrumb.php:174
+#: include/elementor/common/academic-programs.php:226
+#: include/elementor/common/kindergarten.php:284
+#: include/elementor/hero/hero-shop.php:222
+#: include/elementor/hero/hero-slider.php:239
+#: include/elementor/services/services.php:245
+#: include/elementor/team/team-box.php:572
+msgid "H4"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:778 include/traits/tp-style-trait.php:907
+#: include/elementor/banner/banner.php:184
+#: include/elementor/breadcrumb/default-breadcrumb.php:178
+#: include/elementor/common/academic-programs.php:230
+#: include/elementor/common/kindergarten.php:288
+#: include/elementor/hero/hero-shop.php:226
+#: include/elementor/hero/hero-slider.php:243
+#: include/elementor/services/services.php:249
+#: include/elementor/team/team-box.php:576
+msgid "H5"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:782 include/traits/tp-style-trait.php:911
+#: include/elementor/banner/banner.php:188
+#: include/elementor/breadcrumb/default-breadcrumb.php:182
+#: include/elementor/common/academic-programs.php:234
+#: include/elementor/common/kindergarten.php:292
+#: include/elementor/hero/hero-shop.php:230
+#: include/elementor/hero/hero-slider.php:247
+#: include/elementor/services/services.php:253
+#: include/elementor/team/team-box.php:580
+msgid "H6"
+msgstr ""
+
+#: include/elementor/about/about-team-single.php:160
+msgid "Head Coach"
+msgstr ""
+
+#: include/custom-post/header.php:11 include/custom-post/header.php:13
+msgid "Header"
+msgstr ""
+
+#: include/elementor/price/price-box.php:267
+msgid "Header Controls"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:194
+#: include/elementor/header/header-builder-3.php:175
+#: include/elementor/header/header-builder-4.php:194
+#: include/elementor/header/header-builder-5.php:176
+#: include/elementor/header/header-builder.php:184
+#: include/elementor/header/header-ecommerce.php:193
+#: include/elementor/header/header-inner.php:182
+msgid "Header Info"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:257
+#: include/elementor/header/header-builder.php:323
+msgid "Header Right"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:213
+#: include/elementor/header/header-builder-4.php:213
+#: include/elementor/header/header-builder-5.php:195
+#: include/elementor/header/header-builder.php:203
+#: include/elementor/header/header-ecommerce.php:213
+msgid "Header Right On/Off"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:265
+#: include/elementor/header/header-builder.php:215
+#: include/elementor/header/header-inner.php:229
+msgid "Header Search Switch"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:496
+#: include/elementor/header/header-ecommerce.php:558
+msgid "Header Sticky"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:459
+#: include/elementor/header/header-ecommerce.php:521
+msgid "Header Style"
+msgstr ""
+
+#: include/elementor/header/header-ecommerce.php:265
+msgid "Header Top"
+msgstr ""
+
+#: include/elementor/banner/banner.php:289
+#: include/elementor/common/academic-programs.php:692
+#: include/elementor/image/image.php:246 include/elementor/image/image.php:315
+#: include/elementor/team/team-box.php:693
+msgid "Height"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:170 include/traits/tp-query-trait.php:212
+#: include/traits/tp-query-trait.php:270 include/traits/tp-query-trait.php:284
+#: include/traits/tp-query-trait.php:298 include/traits/tp-query-trait.php:312
+#: include/traits/tp-style-trait.php:719 include/traits/tp-style-trait.php:855
+#: include/traits/tp-style-trait.php:987
+#: include/elementor/blog/blog-category.php:161
+#: include/elementor/breadcrumb/default-breadcrumb.php:137
+#: include/elementor/breadcrumb/default-breadcrumb.php:149
+#: include/elementor/buttons/button.php:161
+#: include/elementor/buttons/button.php:187
+#: include/elementor/buttons/button.php:203
+#: include/elementor/common/academic-programs.php:146
+#: include/elementor/common/academic-programs.php:161
+#: include/elementor/common/academic-programs.php:424
+#: include/elementor/common/counter.php:151
+#: include/elementor/common/counter.php:166
+#: include/elementor/common/kindergarten.php:145
+#: include/elementor/common/kindergarten.php:419
+#: include/elementor/common/kindergarten.php:564
+#: include/elementor/common/kindergarten.php:590
+#: include/elementor/common/kindergarten.php:606
+#: include/elementor/common/link-text.php:150
+#: include/elementor/course/course-card.php:143
+#: include/elementor/course/course-tab.php:150
+#: include/elementor/header/header-builder-2.php:204
+#: include/elementor/header/header-builder-2.php:216
+#: include/elementor/header/header-builder-2.php:229
+#: include/elementor/header/header-builder-2.php:243
+#: include/elementor/header/header-builder-2.php:268
+#: include/elementor/header/header-builder-2.php:282
+#: include/elementor/header/header-builder-3.php:185
+#: include/elementor/header/header-builder-4.php:204
+#: include/elementor/header/header-builder-4.php:216
+#: include/elementor/header/header-builder-4.php:229
+#: include/elementor/header/header-builder-4.php:241
+#: include/elementor/header/header-builder-5.php:186
+#: include/elementor/header/header-builder-5.php:198
+#: include/elementor/header/header-builder-5.php:211
+#: include/elementor/header/header-builder.php:194
+#: include/elementor/header/header-builder.php:206
+#: include/elementor/header/header-builder.php:218
+#: include/elementor/header/header-ecommerce.php:203
+#: include/elementor/header/header-ecommerce.php:216
+#: include/elementor/header/header-ecommerce.php:228
+#: include/elementor/header/header-ecommerce.php:241
+#: include/elementor/header/header-ecommerce.php:254
+#: include/elementor/header/header-ecommerce.php:275
+#: include/elementor/header/header-inner.php:193
+#: include/elementor/header/header-inner.php:206
+#: include/elementor/header/header-inner.php:219
+#: include/elementor/header/header-inner.php:232
+#: include/elementor/hero/hero-shop.php:144
+#: include/elementor/hero/hero-slider.php:144
+#: include/elementor/image/image-shape.php:167
+#: include/elementor/menu/home-demo.php:314
+#: include/elementor/price/price-box.php:278
+#: include/elementor/services/services.php:307
+#: include/elementor/team/team-box.php:141
+#: include/elementor/testimonial/testimonial-slider.php:547
+#: include/elementor/testimonial/testimonial-slider.php:562
+#: include/elementor/university/university-tab.php:143
+msgid "Hide"
+msgstr ""
+
+#: include/elementor/common/link-list.php:240
+msgid "Home"
+msgstr ""
+
+#: include/elementor/menu/home-demo.php:192
+#: include/elementor/menu/home-demo.php:258
+msgid "Home 1"
+msgstr ""
+
+#: include/elementor/menu/home-demo.php:195
+#: include/elementor/menu/home-demo.php:261
+msgid "Home 2"
+msgstr ""
+
+#: include/elementor/menu/home-demo.php:198
+#: include/elementor/menu/home-demo.php:264
+msgid "Home 3"
+msgstr ""
+
+#: include/elementor/menu/home-demo.php:177
+#: include/elementor/menu/home-demo.php:243
+msgid "Home Demo"
+msgstr ""
+
+#: include/elementor/hero/hero-shop.php:317
+#: include/elementor/university/campus-slider.php:235
+msgid "Horizontal Position"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:408 include/traits/tp-style-trait.php:1164
+#: include/elementor/buttons/button.php:532
+#: include/elementor/common/academic-programs.php:762
+#: include/elementor/common/link-list.php:356
+#: include/elementor/common/link-text.php:382
+#: include/elementor/menu/home-demo.php:489
+#: include/elementor/team/team-box.php:763
+msgid "Hover"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://themepure.net/"
+msgstr ""
+
+#: include/common/common-functions.php:191
+#: include/traits/tp-style-trait.php:1030
+#: include/elementor/buttons/button.php:260
+#: include/elementor/common/academic-programs.php:549
+#: include/elementor/common/kindergarten.php:662
+#: include/elementor/common/link-list.php:205
+#: include/elementor/footer/footer-links.php:177
+#: include/elementor/header/header-builder.php:362
+#: include/elementor/header/header-ecommerce.php:335
+#: include/elementor/hero/hero-slider.php:320
+#: include/elementor/menu/home-demo.php:358
+#: include/elementor/services/services.php:340
+#: include/elementor/team/team-box.php:242
+msgid "https://your-link.com"
+msgstr ""
+
+#: include/elementor/banner/banner.php:155
+msgid "Huge Sale! Dont miss Out"
+msgstr ""
+
+#: include/common/common-functions.php:86
+#: include/common/common-functions.php:122 include/traits/tp-icon-trait.php:22
+#: include/traits/tp-icon-trait.php:65 include/traits/tp-style-trait.php:78
+#: include/elementor/common/academic-programs.php:280
+#: include/elementor/common/academic-programs.php:320
+#: include/elementor/common/academic-programs.php:452
+#: include/elementor/common/academic-programs.php:493
+#: include/elementor/common/kindergarten.php:190
+#: include/elementor/common/kindergarten.php:225
+#: include/elementor/footer/footer-social.php:194
+#: include/elementor/footer/footer-social.php:235
+#: include/elementor/instagram/instagram.php:165
+#: include/elementor/instagram/instagram.php:200
+#: include/elementor/price/price-box.php:338
+#: include/elementor/price/price-box.php:375
+#: include/elementor/services/services.php:150
+#: include/elementor/services/services.php:401
+#: include/elementor/testimonial/testimonial-slider.php:174
+#: include/elementor/testimonial/testimonial-slider.php:407
+#: include/elementor/testimonial/testimonial-slider.php:442
+#: include/elementor/video/video-play-mp4.php:160
+#: include/elementor/video/video-play-mp4.php:195
+msgid "Icon"
+msgstr ""
+
+#: include/elementor/breadcrumb/default-breadcrumb.php:336
+msgid "Icon Bar Color"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:329
+msgid "Icon Bg Color"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:316
+msgid "Icon Border Radius"
+msgstr ""
+
+#: include/elementor/common/icon-box.php:134
+msgid "Icon Box Contents"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:85
+#: include/elementor/breadcrumb/default-breadcrumb.php:292
+#: include/elementor/buttons/button.php:460
+#: include/elementor/buttons/button.php:550
+#: include/elementor/common/link-text.php:334
+#: include/elementor/common/link-text.php:400
+#: include/elementor/services/services.php:408
+msgid "Icon Color"
+msgstr ""
+
+#: include/elementor/buttons/button.php:342
+#: include/elementor/common/link-text.php:215
+msgid "Icon Image Size"
+msgstr ""
+
+#: include/elementor/buttons/button.php:646
+#: include/elementor/common/link-text.php:475
+msgid "Icon Margin"
+msgstr ""
+
+#: include/elementor/buttons/button.php:374
+#: include/elementor/common/link-text.php:247
+msgid "Icon Size"
+msgstr ""
+
+#: include/elementor/buttons/button.php:406
+#: include/elementor/common/link-text.php:279
+msgid "Icon SVG Size"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:447
+#: include/elementor/common/kindergarten.php:185
+msgid "Icon Type"
+msgstr ""
+
+#: include/elementor/event/events.php:238
+msgid "Id"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:109
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: include/common/common-functions.php:85 include/traits/tp-icon-trait.php:21
+#: include/traits/tp-style-trait.php:122 include/traits/tp-style-trait.php:283
+#: include/traits/tp-style-trait.php:304
+#: include/elementor/brand/brand-slider.php:163
+#: include/elementor/common/academic-programs.php:284
+#: include/elementor/common/academic-programs.php:305
+#: include/elementor/common/academic-programs.php:456
+#: include/elementor/common/academic-programs.php:477
+#: include/elementor/common/kindergarten.php:194
+#: include/elementor/common/kindergarten.php:211
+#: include/elementor/contact/contact-plan.php:149
+#: include/elementor/footer/footer-social.php:193
+#: include/elementor/instagram/instagram.php:169
+#: include/elementor/instagram/instagram.php:186
+#: include/elementor/price/price-box.php:337
+#: include/elementor/services/services.php:149
+#: include/elementor/services/services.php:446
+#: include/elementor/team/team-box.php:182
+#: include/elementor/testimonial/testimonial-slider.php:173
+#: include/elementor/testimonial/testimonial-slider.php:411
+#: include/elementor/testimonial/testimonial-slider.php:428
+#: include/elementor/university/campus-slider.php:176
+#: include/elementor/university/university-instructor.php:147
+#: include/elementor/university/university-instructor.php:308
+#: include/elementor/video/video-play-mp4.php:164
+#: include/elementor/video/video-play-mp4.php:181
+#: include/elementor/woocommerce/shop-hero.php:154
+msgid "Image"
+msgstr ""
+
+#: include/elementor/image/image.php:171
+msgid "Image Controls"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:148
+#: include/elementor/blog/blog-post.php:194
+#: include/elementor/services/services.php:471
+#: include/elementor/testimonial/testimonial-slider.php:613
+msgid "Image Height"
+msgstr ""
+
+#: include/elementor/instagram/instagram.php:233
+msgid "Image List"
+msgstr ""
+
+#: include/elementor/image/image.php:136
+msgid "Image Section"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:166
+#: include/elementor/about/about-year-slider.php:247
+msgid "Image shape"
+msgstr ""
+
+#: include/traits/tp-offcanvas-trait.php:52
+#: include/elementor/header/header-builder-2.php:382
+#: include/elementor/header/header-builder-3.php:217
+#: include/elementor/header/header-builder-4.php:312
+#: include/elementor/header/header-builder-5.php:254
+#: include/elementor/header/header-builder.php:259
+#: include/elementor/header/header-builder.php:414
+#: include/elementor/header/header-ecommerce.php:386
+#: include/elementor/header/header-inner.php:263
+#: include/elementor/header/header-inner.php:345
+msgid "Image Size"
+msgstr ""
+
+#: include/elementor/hero/hero-slider.php:380
+msgid "Image Slider"
+msgstr ""
+
+#: include/elementor/banner/banner.php:246
+msgid "Image Style"
+msgstr ""
+
+#: include/elementor/image/image.php:226
+msgid "Image Styles"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:130
+#: include/elementor/blog/blog-post.php:177
+#: include/elementor/services/services.php:454
+#: include/elementor/testimonial/testimonial-slider.php:596
+msgid "Image Width"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:33
+msgid "Include Categories"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:66
+msgid "Include Item"
+msgstr ""
+
+#: include/elementor/team/team-box.php:174
+msgid "Information"
+msgstr ""
+
+#: include/elementor/buttons/button.php:148
+msgid "Inline"
+msgstr ""
+
+#: include/custom-post/portfolio.php:51 include/custom-post/services.php:51
+msgid "Insert into item"
+msgstr ""
+
+#: include/elementor/footer/footer-social.php:285
+#: include/elementor/team/team-box.php:374
+msgid "Instagram"
+msgstr ""
+
+#: include/elementor/instagram/instagram.php:135
+msgid "Instagram Controls"
+msgstr ""
+
+#: include/elementor/instagram/instagram.php:160
+msgid "Instagram Icon Type"
+msgstr ""
+
+#: include/widgets/tp-footer-about.php:148
+msgid "Instagram Link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:257
+msgid "Internal Page"
+msgstr ""
+
+#: include/elementor/price/price-box.php:275
+msgid "Is Active Price?"
+msgstr ""
+
+#: include/widgets/tp-footer-about.php:22
+msgid "Ishpat :: About (footer)"
+msgstr ""
+
+#: include/widgets/tp-footer-about.php:23
+msgid "Ishpat About Widget For Footer"
+msgstr ""
+
+#: include/widgets/tp-footer-about.php:39
+#: include/widgets/tp-footer-about.php:42
+msgid "Ishpat Logo"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:366
+msgid "Iteam Margin"
+msgstr ""
+
+#: include/elementor/contact/contact-box.php:135
+#: include/elementor/footer/footer-links.php:242
+msgid "Item"
+msgstr ""
+
+#: include/custom-post/portfolio.php:35 include/custom-post/services.php:35
+msgid "Item Archives"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:260
+msgid "Item Image"
+msgstr ""
+
+#: include/elementor/common/mission-sticky.php:231
+msgid "Item List"
+msgstr ""
+
+#: include/elementor/university/campus-slider.php:204
+msgid "item#1"
+msgstr ""
+
+#: include/elementor/university/campus-slider.php:207
+msgid "item#2"
+msgstr ""
+
+#: include/custom-post/portfolio.php:53 include/custom-post/services.php:53
+msgid "Items list"
+msgstr ""
+
+#: include/custom-post/portfolio.php:54 include/custom-post/services.php:54
+msgid "Items list navigation"
+msgstr ""
+
+#: include/elementor/university/university-instructor.php:188
+msgid "James Warren"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:369
+msgid "Jhone jaouy"
+msgstr ""
+
+#: include/elementor/team/team-box.php:212
+msgid "Job Title"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:427
+#: include/elementor/header/header-builder-3.php:262
+#: include/elementor/header/header-builder-4.php:357
+#: include/elementor/header/header-builder-5.php:299
+#: include/elementor/header/header-builder.php:304
+#: include/elementor/header/header-ecommerce.php:431
+#: include/elementor/header/header-inner.php:308
+msgid "Last Menu Item"
+msgstr ""
+
+#: include/elementor/footer/footer-social.php:136
+msgid "Layout"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:140
+#: include/elementor/blog/blog-category.php:130
+#: include/elementor/blog/blog-grid.php:135
+#: include/elementor/blog/blog-hero.php:130
+#: include/elementor/blog/blog-post-list.php:135
+#: include/elementor/blog/blog-post.php:135
+#: include/elementor/event/events.php:145
+#: include/elementor/footer/footer-social.php:147
+#: include/elementor/image/image-shape.php:140
+#: include/elementor/menu/home-demo.php:123
+#: include/elementor/offcanvas/offcanvas-mobile-menu.php:140
+msgid "Layout 1"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:141
+#: include/elementor/blog/blog-post.php:136
+#: include/elementor/event/events.php:146
+#: include/elementor/image/image-shape.php:141
+#: include/elementor/menu/home-demo.php:124
+msgid "Layout 2"
+msgstr ""
+
+#: include/elementor/event/events.php:147
+#: include/elementor/image/image-shape.php:142
+msgid "Layout 3"
+msgstr ""
+
+#: include/elementor/common/link-list.php:133
+msgid "Layout Style"
+msgstr ""
+
+#: include/elementor/common/link-list.php:127
+msgid "Layout Style Section"
+msgstr ""
+
+#: include/elementor/common/mission-sticky.php:222
+msgid "Learn More"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:25
+msgid "Leave blank or enter -1 for all."
+msgstr ""
+
+#: include/traits/tp-query-trait.php:225 include/traits/tp-style-trait.php:814
+#: include/elementor/breadcrumb/default-breadcrumb.php:212
+#: include/elementor/buttons/button.php:219
+#: include/elementor/buttons/button.php:295
+#: include/elementor/common/academic-programs.php:359
+#: include/elementor/common/counter.php:237
+#: include/elementor/common/kindergarten.php:344
+#: include/elementor/common/kindergarten.php:621
+#: include/elementor/common/link-text.php:166
+#: include/elementor/services/services.php:269
+#: include/elementor/team/team-box.php:596
+#: include/elementor/university/university-instructor.php:204
+msgid "Left"
+msgstr ""
+
+#: include/elementor/offcanvas/offcanvas-mobile-menu.php:165
+msgid "LG Device"
+msgstr ""
+
+#: include/elementor/buttons/button.php:184
+#: include/elementor/common/kindergarten.php:587
+msgid "Line Effect"
+msgstr ""
+
+#: include/elementor/buttons/button.php:577
+msgid "Line Hover Color"
+msgstr ""
+
+#: include/common/common-functions.php:186
+msgid "Link"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:544
+msgid "link"
+msgstr ""
+
+#: include/elementor/university/campus-link.php:139
+msgid "Link Item"
+msgstr ""
+
+#: include/elementor/footer/footer-links.php:208
+msgid "Link List"
+msgstr ""
+
+#: include/elementor/contact/contact-box.php:162
+msgid "Link Text"
+msgstr ""
+
+#: include/elementor/common/link-list.php:163
+msgid "Link Title"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:530
+#: include/elementor/common/link-list.php:184
+msgid "Link Type"
+msgstr ""
+
+#: include/elementor/team/team-box.php:388
+msgid "LinkedIn"
+msgstr ""
+
+#: include/post/post-functions.php:65
+msgid "Linkedin"
+msgstr ""
+
+#: include/widgets/tp-footer-about.php:152
+msgid "Linkedin Link"
+msgstr ""
+
+#: include/elementor/team/team-box.php:286
+msgid "Links"
+msgstr ""
+
+#: include/elementor/common/link-list.php:235
+msgid "Links - List"
+msgstr ""
+
+#: include/elementor/common/text-slider.php:137
+msgid "List"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:135
+#: include/elementor/common/kindergarten.php:134
+#: include/elementor/contact/contact-plan.php:139
+msgid "List Items"
+msgstr ""
+
+#: include/elementor/course/course-card.php:211
+msgid "Live video Image"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:792
+#: include/elementor/header/header-ecommerce.php:870
+msgid "Login"
+msgstr ""
+
+#: include/widgets/tp-footer-about.php:123
+msgid "Logo Link"
+msgstr ""
+
+#: include/widgets/tp-footer-about.php:128
+msgid "Logo Width"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:138
+msgid "m-d-Y"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:139
+msgid "m/d/Y"
+msgstr ""
+
+#: include/widgets/tp-footer-contact.php:118
+msgid "Mail Link"
+msgstr ""
+
+#: include/widgets/tp-footer-contact.php:112
+msgid "Mail Text"
+msgstr ""
+
+#: include/elementor/course/course-card.php:169
+msgid "Main Image"
+msgstr ""
+
+#: include/elementor/hero/hero-shop.php:132
+#: include/elementor/hero/hero-slider.php:132
+msgid "Main Slider"
+msgstr ""
+
+#: include/elementor/common/mission-sticky.php:133
+msgid "Main Thumbnail"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:244 include/traits/tp-style-trait.php:335
+#: include/traits/tp-style-trait.php:469 include/traits/tp-style-trait.php:515
+#: include/traits/tp-style-trait.php:680 include/traits/tp-style-trait.php:1235
+#: include/elementor/breadcrumb/default-breadcrumb.php:261
+#: include/elementor/common/academic-programs.php:646
+#: include/elementor/common/link-list.php:340
+#: include/elementor/common/link-list.php:412
+#: include/elementor/footer/footer-links.php:261
+#: include/elementor/menu/home-demo.php:473
+#: include/elementor/menu/home-demo.php:544
+#: include/elementor/services/services.php:539
+#: include/elementor/team/team-box.php:647
+msgid "Margin"
+msgstr ""
+
+#: include/elementor/offcanvas/offcanvas-mobile-menu.php:166
+msgid "MD Device"
+msgstr ""
+
+#: include/elementor/team/team-box.php:130
+msgid "Members"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:393
+#: include/elementor/header/header-builder-2.php:403
+#: include/elementor/header/header-builder-3.php:228
+#: include/elementor/header/header-builder-3.php:238
+#: include/elementor/header/header-builder-4.php:323
+#: include/elementor/header/header-builder-4.php:333
+#: include/elementor/header/header-builder-5.php:265
+#: include/elementor/header/header-builder-5.php:275
+#: include/elementor/header/header-builder.php:270
+#: include/elementor/header/header-builder.php:280
+#: include/elementor/header/header-ecommerce.php:397
+#: include/elementor/header/header-ecommerce.php:407
+#: include/elementor/header/header-inner.php:274
+#: include/elementor/header/header-inner.php:284
+msgid "Menu"
+msgstr ""
+
+#: include/elementor/footer/footer-links.php:172
+msgid "Menu link"
+msgstr ""
+
+#: include/elementor/footer/footer-links.php:156
+msgid "Menu Link Type"
+msgstr ""
+
+#: include/elementor/footer/footer-links.php:136
+msgid "Menu List Controls"
+msgstr ""
+
+#: include/elementor/footer/footer-links.php:146
+msgid "Menu List Title"
+msgstr ""
+
+#: include/elementor/offcanvas/offcanvas-mobile-menu.php:160
+msgid "Menu will hide from selected device"
+msgstr ""
+
+#: include/elementor/event/events.php:355
+msgid "Meta - Date"
+msgstr ""
+
+#: include/elementor/event/events.php:402
+msgid "Month Year color"
+msgstr ""
+
+#: include/elementor/event/events.php:394
+msgid "Month Year Typography"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:310
+msgid "Name"
+msgstr ""
+
+#: include/elementor/university/university-instructor.php:323
+msgid "Name Hover Color"
+msgstr ""
+
+#: include/elementor/breadcrumb/default-breadcrumb.php:304
+msgid "Nav Color"
+msgstr ""
+
+#: include/elementor/breadcrumb/default-breadcrumb.php:194
+msgid "Nav Postion"
+msgstr ""
+
+#: include/elementor/breadcrumb/default-breadcrumb.php:324
+msgid "Nav Spacing"
+msgstr ""
+
+#: include/elementor/university/campus-slider.php:225
+msgid "Nav Style"
+msgstr ""
+
+#: include/elementor/university/campus-slider.php:147
+msgid "Navigator"
+msgstr ""
+
+#: include/custom-post/breadcrumb.php:30 include/custom-post/footer.php:32
+#: include/custom-post/header.php:29 include/custom-post/offcanvas.php:28
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: include/custom-post/portfolio.php:40 include/custom-post/services.php:40
+msgid "New Item"
+msgstr ""
+
+#: include/custom-post/portfolio.php:92
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: include/custom-post/services.php:92
+msgid "New Service Category Name"
+msgstr ""
+
+#: page-settings/manager.php:24
+msgid "New Tab"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:559
+msgid "Next/Prev Arrow Show"
+msgstr ""
+
+#: include/traits/tp-animation-trait.php:45
+#: include/traits/tp-animation-trait.php:141
+#: include/traits/tp-query-trait.php:112
+#: include/elementor/about/about-tab.php:169
+#: include/elementor/about/about-tab.php:203
+#: include/elementor/about/about-year-slider.php:250
+#: include/elementor/common/link-list.php:174
+#: include/elementor/event/events.php:195
+#: include/elementor/event/events.php:265
+#: include/elementor/event/events.php:277
+#: include/elementor/event/events.php:289
+#: include/elementor/event/events.php:300
+#: include/elementor/event/events.php:314
+#: include/elementor/hero/hero-shop.php:246
+#: include/elementor/hero/hero-slider.php:277
+#: include/elementor/price/price-box.php:324
+#: include/elementor/team/team-box.php:296
+#: include/elementor/university/campus-slider.php:150
+msgid "No"
+msgstr ""
+
+#: include/custom-post/breadcrumb.php:34 include/custom-post/footer.php:36
+#: include/custom-post/header.php:33 include/custom-post/offcanvas.php:32
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: include/custom-post/breadcrumb.php:35 include/custom-post/footer.php:37
+#: include/custom-post/header.php:34 include/custom-post/offcanvas.php:33
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: include/elementor/event/events.php:618
+#: include/elementor/event/events.php:699
+#: include/elementor/event/events.php:820
+msgid "No Event Found"
+msgstr ""
+
+#: include/custom-post/portfolio.php:103
+msgid "No Portfolio Category"
+msgstr ""
+
+#: include/custom-post/services.php:103
+msgid "No Service Category"
+msgstr ""
+
+#: include/elementor/image/image.php:262
+#: include/elementor/price/price-box.php:200
+msgid "None"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:388 include/traits/tp-style-trait.php:554
+#: include/traits/tp-style-trait.php:1108
+#: include/elementor/buttons/button.php:443
+#: include/elementor/common/academic-programs.php:732
+#: include/elementor/common/link-list.php:275
+#: include/elementor/common/link-text.php:317
+#: include/elementor/menu/home-demo.php:408
+#: include/elementor/team/team-box.php:733
+msgid "Normal"
+msgstr ""
+
+#: include/custom-post/portfolio.php:102 include/custom-post/services.php:102
+msgid "Not Found"
+msgstr ""
+
+#: include/custom-post/portfolio.php:45 include/custom-post/services.php:45
+msgid "Not found"
+msgstr ""
+
+#: include/custom-post/portfolio.php:46 include/custom-post/services.php:46
+msgid "Not found in Trash"
+msgstr ""
+
+#: include/elementor/banner/banner.php:145
+msgid "NOVEL"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:301
+msgid ""
+"Nulla ut enim non magna placerat scelerisque sed eu dolor. Sed eu faucibus "
+"turpis. Ut bibendum tempor tempus. Ut scelerisque est posuere ex pretium "
+"laoreet."
+msgstr ""
+
+#: include/elementor/common/counter.php:181
+#: include/elementor/hero/hero-slider.php:405
+msgid "Number"
+msgstr ""
+
+#: include/elementor/common/text-slider.php:223
+msgid "Number Color"
+msgstr ""
+
+#: include/elementor/image/image.php:258
+msgid "Object Fit"
+msgstr ""
+
+#: include/elementor/price/price-box.php:427
+msgid "Obsolete Feature"
+msgstr ""
+
+#: include/custom-post/offcanvas.php:11 include/custom-post/offcanvas.php:13
+#: include/traits/tp-offcanvas-trait.php:17
+#: include/elementor/header/header-builder.php:394
+#: include/elementor/header/header-inner.php:326
+msgid "Offcanvas"
+msgstr ""
+
+#: include/elementor/offcanvas/offcanvas-mobile-menu.php:151
+msgid "Offcanvas Menu Controls"
+msgstr ""
+
+#: include/elementor/course/course-card.php:199
+msgid "Offline Students"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:78
+msgid "Offset"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:96
+msgid "Order"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:86
+msgid "Order By"
+msgstr ""
+
+#: include/elementor/event/events.php:234
+msgid "Order Event By"
+msgstr ""
+
+#: include/template/single-campaign.php:66
+msgid "our goal"
+msgstr ""
+
+#: include/elementor/header-side/header-side-1.php:48
+msgid "OUR TOP Program"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:256 include/traits/tp-style-trait.php:346
+#: include/traits/tp-style-trait.php:457 include/traits/tp-style-trait.php:503
+#: include/traits/tp-style-trait.php:669 include/traits/tp-style-trait.php:1224
+#: include/elementor/common/link-list.php:327
+#: include/elementor/common/link-list.php:399
+#: include/elementor/footer/footer-links.php:272
+#: include/elementor/header/header-builder-2.php:482
+#: include/elementor/header/header-ecommerce.php:544
+#: include/elementor/menu/home-demo.php:460
+#: include/elementor/menu/home-demo.php:531
+#: include/elementor/services/services.php:551
+msgid "Padding"
+msgstr ""
+
+#: include/elementor/contact/contact-box.php:155
+msgid "Page Description"
+msgstr ""
+
+#: include/elementor/contact/contact-box.php:164
+msgid "Page Link Text"
+msgstr ""
+
+#: include/elementor/contact/contact-box.php:146
+msgid "Page Title"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:221
+msgid "Pagination Alignment"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:209
+msgid "Pagination On/Off"
+msgstr ""
+
+#: include/elementor/common/text-slider.php:206
+msgid "Parcentage"
+msgstr ""
+
+#: include/custom-post/portfolio.php:90 include/custom-post/services.php:90
+msgid "Parent Item"
+msgstr ""
+
+#: include/custom-post/portfolio.php:36 include/custom-post/portfolio.php:91
+#: include/custom-post/services.php:36 include/custom-post/services.php:91
+msgid "Parent Item:"
+msgstr ""
+
+#: include/elementor/team/team-box.php:333
+msgid "Phone"
+msgstr ""
+
+#: include/widgets/tp-footer-contact.php:131
+msgid "Phone Link"
+msgstr ""
+
+#: include/widgets/tp-footer-contact.php:125
+msgid "Phone Text"
+msgstr ""
+
+#: acadia-core.php:276
+msgid "PHP"
+msgstr ""
+
+#: include/elementor/team/team-box.php:479
+msgid "Pinterest"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:581
+msgid "Placeholder Color"
+msgstr ""
+
+#: include/elementor/course/course-card.php:276
+msgid "Placeholder Text"
+msgstr ""
+
+#: include/custom-post/portfolio.php:100
+msgid "Popular Portfolio Category"
+msgstr ""
+
+#: include/custom-post/services.php:100
+msgid "Popular Service Category"
+msgstr ""
+
+#: include/custom-post/portfolio.php:59
+msgid "Portfolio"
+msgstr ""
+
+#: include/custom-post/portfolio.php:88
+msgid "Portfolio Categories"
+msgstr ""
+
+#: include/custom-post/portfolio.php:104
+msgid "Portfolio Category list"
+msgstr ""
+
+#: include/custom-post/portfolio.php:105
+msgid "Portfolio Category list navigation"
+msgstr ""
+
+#: include/custom-post/portfolio.php:33 include/custom-post/portfolio.php:34
+msgid "Portfolios"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:321
+msgid "Position"
+msgstr ""
+
+#: include/elementor/event/events.php:240
+msgid "Post Date"
+msgstr ""
+
+#: include/custom-post/portfolio.php:31
+msgctxt "Post Type General Name"
+msgid "Portfolios"
+msgstr ""
+
+#: include/custom-post/services.php:31
+msgctxt "Post Type General Name"
+msgid "Services"
+msgstr ""
+
+#: include/custom-post/portfolio.php:32
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: include/custom-post/services.php:32
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:24
+msgid "Posts Per Page"
+msgstr ""
+
+#: include/elementor/common/counter.php:201
+msgid "Prefix"
+msgstr ""
+
+#: include/elementor/course/course-card.php:256
+#: include/elementor/course/course-tab.php:138
+msgid "Preview This Course"
+msgstr ""
+
+#: include/elementor/price/price-box.php:252
+msgid "Price"
+msgstr ""
+
+#: include/elementor/price/price-box.php:188
+msgid "Pricing"
+msgstr ""
+
+#: include/elementor/university/university-instructor.php:174
+msgid "Principal"
+msgstr ""
+
+#: include/elementor/footer/footer-links.php:213
+msgid "Projects"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:323
+msgid "Radius"
+msgstr ""
+
+#: include/template/single-campaign.php:70
+msgid "Raised"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:198
+#: include/elementor/buttons/button.php:172
+#: include/elementor/common/kindergarten.php:575
+#: include/elementor/header/header-builder.php:334
+#: include/elementor/header/header-ecommerce.php:307
+#: include/elementor/menu/home-demo.php:325
+msgid "Read More"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:196
+msgid "Read More Button"
+msgstr ""
+
+#: include/custom-post/portfolio.php:49 include/custom-post/services.php:49
+msgid "Remove featured image"
+msgstr ""
+
+#: include/elementor/faq/faq.php:181
+msgid "Repeater Accordion"
+msgstr ""
+
+#: include/elementor/course/course-card.php:814
+msgid "reviews"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:233 include/traits/tp-style-trait.php:822
+#: include/elementor/breadcrumb/default-breadcrumb.php:220
+#: include/elementor/buttons/button.php:223
+#: include/elementor/buttons/button.php:303
+#: include/elementor/common/academic-programs.php:367
+#: include/elementor/common/counter.php:245
+#: include/elementor/common/kindergarten.php:352
+#: include/elementor/common/kindergarten.php:625
+#: include/elementor/common/link-text.php:170
+#: include/elementor/services/services.php:277
+#: include/elementor/team/team-box.php:604
+#: include/elementor/university/university-instructor.php:212
+msgid "Right"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:340
+msgid "Saint Petersburg Campus"
+msgstr ""
+
+#: include/elementor/common/mission-sticky.php:239
+msgid "Scholarship"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:32
+msgid "Screen width equal to or greater than 1200px"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:68
+msgid "Screen width equal to or greater than 768px"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:50
+msgid "Screen width equal to or greater than 992px"
+msgstr ""
+
+#: include/traits/tp-column-trait.php:86 include/traits/tp-column-trait.php:104
+msgid "Screen width less than 767px"
+msgstr ""
+
+#: include/custom-post/breadcrumb.php:33 include/custom-post/footer.php:35
+#: include/custom-post/header.php:32 include/custom-post/offcanvas.php:31
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: include/elementor/course/course-search.php:151
+#: include/elementor/course/course-search.php:177
+msgid "Search Courses...."
+msgstr ""
+
+#: include/menu/menu.php:30
+msgid "Search icon..."
+msgstr ""
+
+#: include/custom-post/portfolio.php:44 include/custom-post/services.php:44
+msgid "Search Item"
+msgstr ""
+
+#: include/custom-post/portfolio.php:101
+msgid "Search Portfolio Category"
+msgstr ""
+
+#: include/custom-post/services.php:101
+msgid "Search Service Category"
+msgstr ""
+
+#: include/elementor/blog/blog-category.php:158
+msgid "Search Switcher"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:709
+msgid "Section Button"
+msgstr ""
+
+#: include/elementor/menu/home-demo.php:187
+#: include/elementor/menu/home-demo.php:253
+#: include/elementor/university/university-instructor.php:274
+#: include/elementor/woocommerce/shop-hero.php:124
+msgid "Section Label"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:149
+msgid "Section Subtitle"
+msgstr ""
+
+#: include/elementor/common/advanced-tab.php:209
+#: include/elementor/university/university-tab.php:180
+msgid "Section Template"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:159
+#: include/elementor/testimonial/testimonial-slider.php:161
+msgid "Section Title"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:716 include/traits/tp-style-trait.php:852
+msgid "Section Title & Content"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:45
+msgid "Select a category to exclude"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:34
+msgid "Select a category to include or leave blank for all."
+msgstr ""
+
+#: include/elementor/common/advanced-tab.php:210
+#: include/elementor/university/university-tab.php:181
+msgid "Select a section template for as tab content"
+msgstr ""
+
+#: include/menu/menu.php:74
+msgid "Select A Template"
+msgstr ""
+
+#: include/elementor/buttons/button.php:277
+#: include/elementor/common/kindergarten.php:679
+#: include/elementor/header/header-builder.php:378
+#: include/elementor/header/header-ecommerce.php:351
+#: include/elementor/hero/hero-slider.php:336
+#: include/elementor/menu/home-demo.php:375
+msgid "Select Button Link Page"
+msgstr ""
+
+#: include/elementor/services/services.php:358
+msgid "Select Button Page"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:343
+#: include/elementor/header/header-ecommerce.php:495
+msgid "Select Cagetories"
+msgstr ""
+
+#: include/elementor/offcanvas/offcanvas-mobile-menu.php:159
+msgid "Select Device"
+msgstr ""
+
+#: include/common/common-functions.php:81 include/traits/tp-icon-trait.php:17
+#: include/elementor/footer/footer-social.php:189
+#: include/elementor/price/price-box.php:333
+#: include/elementor/services/services.php:145
+msgid "Select Icon Type"
+msgstr ""
+
+#: include/traits/tp-post-trait.php:58 include/traits/tp-style-trait.php:31
+#: include/elementor/about/about-tab.php:137
+#: include/elementor/blog/blog-category.php:127
+#: include/elementor/blog/blog-grid.php:132
+#: include/elementor/blog/blog-hero.php:127
+#: include/elementor/blog/blog-post-list.php:132
+#: include/elementor/blog/blog-post.php:132
+#: include/elementor/event/events.php:142
+#: include/elementor/image/image-shape.php:137
+#: include/elementor/menu/home-demo.php:120
+#: include/elementor/offcanvas/offcanvas-mobile-menu.php:137
+msgid "Select Layout"
+msgstr ""
+
+#: include/elementor/common/link-list.php:221
+msgid "Select Link Page"
+msgstr ""
+
+#: include/elementor/footer/footer-links.php:194
+msgid "Select Menu Page"
+msgstr ""
+
+#: include/common/common-functions.php:207
+#: include/elementor/common/academic-programs.php:566
+msgid "Select Page"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:169
+msgid "Select Quote Icon Type"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:269
+msgid "Select Rating Count"
+msgstr ""
+
+#: include/traits/tp-offcanvas-trait.php:84
+#: include/elementor/header/header-builder.php:445
+#: include/elementor/header/header-inner.php:376
+msgid "Select Template"
+msgstr ""
+
+#: include/traits/tp-offcanvas-trait.php:60
+#: include/elementor/header/header-builder.php:422
+#: include/elementor/header/header-inner.php:353
+msgid "Select Type"
+msgstr ""
+
+#: include/custom-post/portfolio.php:97 include/custom-post/services.php:97
+msgid "Separate items with commas"
+msgstr ""
+
+#: include/custom-post/services.php:59
+msgid "Service"
+msgstr ""
+
+#: include/custom-post/services.php:88
+msgid "Service Categories"
+msgstr ""
+
+#: include/custom-post/services.php:104
+msgid "Service Category list"
+msgstr ""
+
+#: include/custom-post/services.php:105
+msgid "Service Category list navigation"
+msgstr ""
+
+#: include/custom-post/services.php:33 include/custom-post/services.php:34
+#: include/elementor/common/link-list.php:246
+msgid "Services"
+msgstr ""
+
+#: include/elementor/services/services.php:137
+msgid "Services Content"
+msgstr ""
+
+#: include/custom-post/portfolio.php:48 include/custom-post/services.php:48
+msgid "Set featured image"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:122
+msgid "Set how many word you want to displa!"
+msgstr ""
+
+#: page-settings/manager.php:42 include/elementor/blog/blog-category.php:143
+#: include/elementor/breadcrumb/default-breadcrumb.php:127
+msgid "Settings"
+msgstr ""
+
+#: include/elementor/about/about-year-slider.php:240
+#: include/elementor/image/image-shape.php:157
+msgid "Shape"
+msgstr ""
+
+#: include/elementor/common/text-slider.php:234
+msgid "Shape Color"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:428
+#: include/elementor/testimonial/testimonial-slider.php:332
+msgid "Shape Image 1"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:527
+msgid "Shape Image 10"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:439
+#: include/elementor/testimonial/testimonial-slider.php:346
+msgid "Shape Image 2"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:450
+msgid "Shape Image 3"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:461
+msgid "Shape Image 4"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:472
+msgid "Shape Image 5"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:483
+msgid "Shape Image 6"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:494
+msgid "Shape Image 7"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:505
+msgid "Shape Image 8"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:516
+msgid "Shape Image 9"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:405
+msgid "Shape Image Controls"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:544
+msgid "Shape Image Show"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:154
+msgid "Shape Line Image"
+msgstr ""
+
+#: include/elementor/image/image-shape.php:164
+msgid "Shape On/Off"
+msgstr ""
+
+#: include/elementor/common/kindergarten.php:416
+msgid "Shape Switch"
+msgstr ""
+
+#: include/post/post-functions.php:87
+msgid "Share:"
+msgstr ""
+
+#: include/elementor/woocommerce/shop-hero.php:137
+#: include/elementor/woocommerce/shop-hero.php:146
+#: include/elementor/woocommerce/shop-hero.php:182
+#: include/elementor/woocommerce/shop-hero.php:185
+#: include/elementor/woocommerce/shop-hero.php:188
+msgid "Shoes Collection"
+msgstr ""
+
+#: include/elementor/banner/banner.php:213
+#: include/elementor/woocommerce/shop-hero.php:167
+msgid "Shop Now"
+msgstr ""
+
+#: include/widgets/tp-footer-about.php:132
+msgid "Short Description:"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:169 include/traits/tp-query-trait.php:211
+#: include/traits/tp-query-trait.php:269 include/traits/tp-query-trait.php:283
+#: include/traits/tp-query-trait.php:297 include/traits/tp-query-trait.php:311
+#: include/traits/tp-style-trait.php:718 include/traits/tp-style-trait.php:854
+#: include/traits/tp-style-trait.php:986
+#: include/elementor/blog/blog-category.php:160
+#: include/elementor/breadcrumb/default-breadcrumb.php:136
+#: include/elementor/breadcrumb/default-breadcrumb.php:148
+#: include/elementor/buttons/button.php:160
+#: include/elementor/buttons/button.php:186
+#: include/elementor/buttons/button.php:202
+#: include/elementor/common/academic-programs.php:145
+#: include/elementor/common/academic-programs.php:160
+#: include/elementor/common/academic-programs.php:423
+#: include/elementor/common/counter.php:150
+#: include/elementor/common/counter.php:165
+#: include/elementor/common/kindergarten.php:144
+#: include/elementor/common/kindergarten.php:418
+#: include/elementor/common/kindergarten.php:563
+#: include/elementor/common/kindergarten.php:589
+#: include/elementor/common/kindergarten.php:605
+#: include/elementor/common/link-text.php:149
+#: include/elementor/course/course-card.php:142
+#: include/elementor/course/course-tab.php:149
+#: include/elementor/header/header-builder-2.php:203
+#: include/elementor/header/header-builder-2.php:215
+#: include/elementor/header/header-builder-2.php:228
+#: include/elementor/header/header-builder-2.php:242
+#: include/elementor/header/header-builder-2.php:267
+#: include/elementor/header/header-builder-2.php:281
+#: include/elementor/header/header-builder-3.php:184
+#: include/elementor/header/header-builder-4.php:203
+#: include/elementor/header/header-builder-4.php:215
+#: include/elementor/header/header-builder-4.php:228
+#: include/elementor/header/header-builder-4.php:240
+#: include/elementor/header/header-builder-5.php:185
+#: include/elementor/header/header-builder-5.php:197
+#: include/elementor/header/header-builder-5.php:210
+#: include/elementor/header/header-builder.php:193
+#: include/elementor/header/header-builder.php:205
+#: include/elementor/header/header-builder.php:217
+#: include/elementor/header/header-ecommerce.php:202
+#: include/elementor/header/header-ecommerce.php:215
+#: include/elementor/header/header-ecommerce.php:227
+#: include/elementor/header/header-ecommerce.php:240
+#: include/elementor/header/header-ecommerce.php:253
+#: include/elementor/header/header-ecommerce.php:274
+#: include/elementor/header/header-inner.php:192
+#: include/elementor/header/header-inner.php:205
+#: include/elementor/header/header-inner.php:218
+#: include/elementor/header/header-inner.php:231
+#: include/elementor/hero/hero-shop.php:143
+#: include/elementor/hero/hero-slider.php:143
+#: include/elementor/image/image-shape.php:166
+#: include/elementor/menu/home-demo.php:313
+#: include/elementor/price/price-box.php:277
+#: include/elementor/services/services.php:306
+#: include/elementor/team/team-box.php:140
+#: include/elementor/testimonial/testimonial-slider.php:546
+#: include/elementor/testimonial/testimonial-slider.php:561
+#: include/elementor/university/university-tab.php:142
+msgid "Show"
+msgstr ""
+
+#: include/elementor/common/counter.php:148
+msgid "Show Border?"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:984
+#: include/elementor/buttons/button.php:158
+#: include/elementor/common/academic-programs.php:421
+#: include/elementor/common/kindergarten.php:561
+#: include/elementor/menu/home-demo.php:311
+msgid "Show Button"
+msgstr ""
+
+#: include/elementor/event/events.php:192
+msgid "Show Description"
+msgstr ""
+
+#: include/elementor/event/events.php:311
+msgid "Show Event Button"
+msgstr ""
+
+#: include/elementor/event/events.php:262
+msgid "Show Event Location"
+msgstr ""
+
+#: include/elementor/event/events.php:297
+msgid "Show Event Time"
+msgstr ""
+
+#: include/elementor/common/counter.php:163
+msgid "Show Icon?"
+msgstr ""
+
+#: include/elementor/services/services.php:304
+msgid "Show Link"
+msgstr ""
+
+#: include/elementor/breadcrumb/default-breadcrumb.php:146
+msgid "Show Nav"
+msgstr ""
+
+#: include/elementor/event/events.php:286
+msgid "Show Recurring Child Event"
+msgstr ""
+
+#: include/elementor/event/events.php:274
+msgid "Show Recurring Parent Events"
+msgstr ""
+
+#: include/elementor/team/team-box.php:293
+msgid "Show Social Links?"
+msgstr ""
+
+#: include/elementor/breadcrumb/default-breadcrumb.php:134
+msgid "Show Title"
+msgstr ""
+
+#: include/traits/tp-post-trait.php:37
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/traits/tp-post-trait.php:34
+msgid "Showing the single result"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:272
+msgid "Single Star"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:363
+#: include/elementor/header/header-builder-3.php:198
+#: include/elementor/header/header-builder-4.php:281
+#: include/elementor/header/header-builder-5.php:225
+#: include/elementor/header/header-builder.php:230
+#: include/elementor/header/header-ecommerce.php:367
+#: include/elementor/header/header-inner.php:245
+msgid "Site Logo"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:407
+msgid "Size"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:337
+msgid "Skolkovo Campus"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:299
+msgid "Slider Content"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:247
+#: include/elementor/about/about-year-slider.php:194
+msgid "Slider Image"
+msgstr ""
+
+#: include/elementor/hero/hero-slider.php:421
+msgid "Slider Image 1"
+msgstr ""
+
+#: include/elementor/hero/hero-slider.php:424
+msgid "Slider Image 2"
+msgstr ""
+
+#: include/elementor/hero/hero-slider.php:427
+msgid "Slider Image 3"
+msgstr ""
+
+#: include/elementor/university/campus-slider.php:139
+msgid "Slider Item"
+msgstr ""
+
+#: include/elementor/hero/hero-shop.php:272
+#: include/elementor/hero/hero-slider.php:350
+#: include/elementor/hero/hero-slider.php:416
+#: include/elementor/woocommerce/shop-hero.php:177
+msgid "Slider List"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:285
+msgid "Slider Title"
+msgstr ""
+
+#: include/elementor/hero/hero-shop.php:277
+#: include/elementor/hero/hero-slider.php:355
+msgid "Slider title 1"
+msgstr ""
+
+#: include/elementor/hero/hero-shop.php:280
+#: include/elementor/hero/hero-slider.php:358
+msgid "Slider title 2"
+msgstr ""
+
+#: include/elementor/hero/hero-shop.php:283
+#: include/elementor/hero/hero-slider.php:361
+msgid "Slider title 3"
+msgstr ""
+
+#: include/elementor/offcanvas/offcanvas-mobile-menu.php:167
+msgid "SM Device"
+msgstr ""
+
+#: include/elementor/university/university-instructor.php:247
+msgid "Social Item"
+msgstr ""
+
+#: include/widgets/tp-footer-about.php:136
+msgid "Social Links :"
+msgstr ""
+
+#: include/elementor/footer/footer-social.php:276
+msgid "Social List"
+msgstr ""
+
+#: include/elementor/price/price-box.php:419
+msgid "Standard Feature"
+msgstr ""
+
+#: include/elementor/common/mission-sticky.php:168
+msgid "Sticky item"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:366
+msgid "Stifin Shkaya"
+msgstr ""
+
+#: include/elementor/course/course-card.php:225
+msgid "Student Image"
+msgstr ""
+
+#: include/elementor/course/course-card.php:197
+msgid "Students Text"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:188
+#: include/elementor/about/about-year-slider.php:150
+#: include/elementor/brand/brand-slider.php:150
+#: include/elementor/common/academic-programs.php:177
+#: include/elementor/common/advanced-tab.php:184
+#: include/elementor/common/kindergarten.php:173
+#: include/elementor/common/link-list.php:136
+#: include/elementor/common/text-slider.php:150
+#: include/elementor/footer/footer-social.php:176
+#: include/elementor/hero/hero-shop.php:159
+#: include/elementor/hero/hero-slider.php:175
+#: include/elementor/menu/home-demo.php:149
+#: include/elementor/menu/home-demo.php:229
+#: include/elementor/team/team-box.php:158
+#: include/elementor/testimonial/testimonial-slider.php:257
+#: include/elementor/university/campus-link.php:153
+#: include/elementor/university/campus-slider.php:165
+#: include/elementor/university/university-tab.php:154
+msgid "Style 1"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:189
+#: include/elementor/common/academic-programs.php:178
+#: include/elementor/common/link-list.php:137
+#: include/elementor/hero/hero-shop.php:160
+#: include/elementor/hero/hero-slider.php:176
+#: include/elementor/menu/home-demo.php:150
+#: include/elementor/menu/home-demo.php:230
+#: include/elementor/team/team-box.php:159
+#: include/elementor/testimonial/testimonial-slider.php:258
+msgid "Style 2"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:179
+#: include/elementor/hero/hero-slider.php:177
+msgid "Style 3"
+msgstr ""
+
+#: include/widgets/tp-blog-post-sidebar.php:100
+msgid "style_1"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:729 include/traits/tp-style-trait.php:865
+#: include/elementor/hero/hero-banner.php:155
+#: include/elementor/hero/hero-shop.php:182
+#: include/elementor/hero/hero-slider.php:199
+msgid "Sub Title"
+msgstr ""
+
+#: include/elementor/banner/banner.php:143
+#: include/elementor/price/price-box.php:287
+#: include/elementor/testimonial/testimonial-slider.php:151
+#: include/elementor/university/university-instructor.php:173
+#: include/elementor/woocommerce/shop-hero.php:135
+msgid "Subtitle"
+msgstr ""
+
+#: include/elementor/hero/hero-shop.php:184
+#: include/elementor/hero/hero-slider.php:201
+msgid "Subtitle here"
+msgstr ""
+
+#: include/elementor/common/counter.php:193
+msgid "Suffix"
+msgstr ""
+
+#: include/common/common-functions.php:87 include/traits/tp-icon-trait.php:23
+#: include/traits/tp-style-trait.php:168
+#: include/elementor/footer/footer-social.php:195
+#: include/elementor/price/price-box.php:339
+#: include/elementor/services/services.php:151
+#: include/elementor/services/services.php:491
+#: include/elementor/testimonial/testimonial-slider.php:175
+msgid "SVG"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:288
+#: include/elementor/common/academic-programs.php:460
+#: include/elementor/common/kindergarten.php:198
+#: include/elementor/instagram/instagram.php:173
+#: include/elementor/testimonial/testimonial-slider.php:415
+#: include/elementor/video/video-play-mp4.php:168
+msgid "Svg"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:339
+#: include/elementor/common/academic-programs.php:513
+#: include/elementor/common/kindergarten.php:243
+#: include/elementor/instagram/instagram.php:218
+#: include/elementor/testimonial/testimonial-slider.php:460
+#: include/elementor/video/video-play-mp4.php:213
+msgid "Svg Code"
+msgstr ""
+
+#: include/common/common-functions.php:97 include/traits/tp-icon-trait.php:53
+#: include/elementor/footer/footer-social.php:208
+#: include/elementor/price/price-box.php:365
+msgid "SVG Code Here"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:340
+#: include/elementor/common/academic-programs.php:514
+#: include/elementor/common/kindergarten.php:244
+#: include/elementor/instagram/instagram.php:219
+#: include/elementor/testimonial/testimonial-slider.php:461
+#: include/elementor/video/video-play-mp4.php:214
+msgid "Svg Code Here"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:176
+#: include/elementor/services/services.php:498
+msgid "SVG Width"
+msgstr ""
+
+#: include/elementor/services/services.php:161
+#: include/elementor/testimonial/testimonial-slider.php:185
+msgid "SVG/Text Code Here"
+msgstr ""
+
+#: include/elementor/university/university-tab.php:130
+msgid "Tab Items"
+msgstr ""
+
+#: include/elementor/course/course-tab.php:159
+msgid "Tab Shape"
+msgstr ""
+
+#: include/elementor/common/advanced-tab.php:197
+#: include/elementor/university/university-tab.php:168
+msgid "Tab Title"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:275
+msgid "Tag Icon Type"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:261
+msgid "Tag Name"
+msgstr ""
+
+#: include/custom-post/portfolio.php:86
+msgctxt "Taxonomy General Name"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: include/custom-post/services.php:86
+msgctxt "Taxonomy General Name"
+msgid "Service Categories"
+msgstr ""
+
+#: include/custom-post/portfolio.php:87
+msgctxt "Taxonomy Singular Name"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: include/custom-post/services.php:87
+msgctxt "Taxonomy Singular Name"
+msgid "Service Categories"
+msgstr ""
+
+#: include/elementor/about/about-team-single.php:170
+msgid "Team Image"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:288
+msgid "Testimonial Avatar"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:138
+msgid "Testimonial Content"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:363
+#: include/elementor/university/campus-slider.php:201
+msgid "Testimonial Item"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:244
+msgid "Testimonial Repeater Item"
+msgstr ""
+
+#: include/elementor/footer/footer-links.php:250
+msgid "Text Border Color"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:559 include/traits/tp-style-trait.php:1113
+#: include/traits/tp-style-trait.php:1169
+#: include/elementor/breadcrumb/default-breadcrumb.php:273
+#: include/elementor/buttons/button.php:450
+#: include/elementor/buttons/button.php:539
+#: include/elementor/common/academic-programs.php:769
+#: include/elementor/common/link-list.php:293
+#: include/elementor/common/link-list.php:364
+#: include/elementor/common/link-text.php:324
+#: include/elementor/common/link-text.php:389
+#: include/elementor/menu/home-demo.php:426
+#: include/elementor/menu/home-demo.php:497
+#: include/elementor/team/team-box.php:770
+msgid "Text Color"
+msgstr ""
+
+#: controls/tpgradient.php:71
+msgctxt "Text Color Control"
+msgid "Gradient"
+msgstr ""
+
+#: controls/tpgradient.php:67
+msgctxt "Text Color Control"
+msgid "Solid"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:590
+#: include/elementor/common/kindergarten.php:378
+#: include/elementor/common/text-slider.php:172
+#: include/elementor/contact/contact-plan.php:204
+msgid "Text List"
+msgstr ""
+
+#: include/elementor/common/link-text.php:198
+msgid "Text Style"
+msgstr ""
+
+#: include/elementor/buttons/button.php:136
+msgid "Theme Button"
+msgstr ""
+
+#. Author of the plugin
+msgid "Theme_Pure"
+msgstr ""
+
+#. Description of the plugin
+msgid "Themepure elementor core plugin."
+msgstr ""
+
+#: include/common/common-functions.php:345
+#, php-format
+msgid "This input field has support for the following HTML tags: %1$s"
+msgstr ""
+
+#: include/elementor/faq/faq.php:164
+msgid "This is accordion item title"
+msgstr ""
+
+#: include/elementor/faq/faq.php:187
+msgid "This is accordion item title #1"
+msgstr ""
+
+#: include/elementor/faq/faq.php:190
+msgid "This is accordion item title #2"
+msgstr ""
+
+#: include/elementor/faq/faq.php:193
+msgid "This is accordion item title #3"
+msgstr ""
+
+#: include/elementor/faq/faq.php:196
+msgid "This is accordion item title #4"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:249
+#: include/elementor/common/kindergarten.php:307
+#: include/elementor/hero/hero-banner.php:172
+#: include/elementor/services/services.php:294
+msgid "This is description text here."
+msgstr ""
+
+#: include/elementor/price/price-box.php:289
+msgid "This is subtitle"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:263
+msgid "This is Tag text here."
+msgstr ""
+
+#: include/elementor/hero/hero-shop.php:198
+#: include/elementor/hero/hero-slider.php:215
+msgid "This is title"
+msgstr ""
+
+#: include/elementor/university/university-instructor.php:262
+msgid "This title won't show in frontend. Its only for Repeater Identification"
+msgstr ""
+
+#: include/elementor/banner/banner.php:200
+#: include/elementor/instagram/instagram.php:146
+#: include/elementor/menu/home-demo.php:161
+#: include/elementor/menu/home-demo.php:290
+msgid "Thumbnail"
+msgstr ""
+
+#: include/widgets/tp-footer-about.php:161
+msgid "Tiktok Link"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:394
+msgid "Time"
+msgstr ""
+
+#: page-settings/manager.php:50 page-settings/manager.php:52
+#: include/traits/tp-style-trait.php:744 include/traits/tp-style-trait.php:876
+#: include/elementor/about/about-tab.php:225
+#: include/elementor/about/about-team-single.php:146
+#: include/elementor/about/about-year-slider.php:171
+#: include/elementor/banner/banner.php:153
+#: include/elementor/breadcrumb/default-breadcrumb.php:253
+#: include/elementor/common/academic-programs.php:200
+#: include/elementor/common/advanced-tab.php:196
+#: include/elementor/common/counter.php:223
+#: include/elementor/common/icon-box.php:144
+#: include/elementor/common/kindergarten.php:258
+#: include/elementor/common/link-list.php:160
+#: include/elementor/common/link-text.php:136
+#: include/elementor/common/mission-sticky.php:179
+#: include/elementor/common/text-slider.php:162
+#: include/elementor/contact/contact-box.php:144
+#: include/elementor/contact/contact-plan.php:160
+#: include/elementor/event/events.php:239
+#: include/elementor/footer/footer-social.php:251
+#: include/elementor/header/header-ecommerce.php:295
+#: include/elementor/hero/hero-shop.php:195
+#: include/elementor/hero/hero-slider.php:212
+#: include/elementor/menu/home-demo.php:175
+#: include/elementor/menu/home-demo.php:241
+#: include/elementor/menu/home-demo.php:301
+#: include/elementor/price/price-box.php:298
+#: include/elementor/services/services.php:217
+#: include/elementor/team/team-box.php:197
+#: include/elementor/university/campus-link.php:165
+#: include/elementor/university/university-instructor.php:187
+#: include/elementor/university/university-instructor.php:259
+#: include/elementor/university/university-tab.php:167
+#: include/elementor/woocommerce/shop-hero.php:144
+msgid "Title"
+msgstr ""
+
+#: include/elementor/common/link-text.php:129
+msgid "Title & Description"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:227
+#: include/elementor/about/about-team-single.php:148
+#: include/elementor/about/about-year-slider.php:173
+msgid "Title here"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:758 include/traits/tp-style-trait.php:887
+#: include/elementor/banner/banner.php:164
+#: include/elementor/breadcrumb/default-breadcrumb.php:158
+#: include/elementor/common/academic-programs.php:210
+#: include/elementor/common/counter.php:261
+#: include/elementor/common/kindergarten.php:268
+#: include/elementor/hero/hero-shop.php:206
+#: include/elementor/hero/hero-slider.php:223
+#: include/elementor/services/services.php:229
+#: include/elementor/team/team-box.php:556
+msgid "Title HTML Tag"
+msgstr ""
+
+#: include/elementor/team/team-box.php:224
+msgid "Title Link Type"
+msgstr ""
+
+#: include/elementor/menu/home-demo.php:396
+msgid "Title Style"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:121
+msgid "Title Word Count"
+msgstr ""
+
+#: include/elementor/common/link-list.php:263
+msgid "Title/Content Style"
+msgstr ""
+
+#: include/template/single-campaign.php:74
+msgid "to go"
+msgstr ""
+
+#: include/elementor/breadcrumb/default-breadcrumb.php:199
+msgid "Top"
+msgstr ""
+
+#: include/elementor/header/header-ecommerce.php:284
+msgid "Top Bg Image"
+msgstr ""
+
+#: plugin.php:421
+msgid "TP - Feather Icons"
+msgstr ""
+
+#: plugin.php:495
+msgid "TP - Flaticons"
+msgstr ""
+
+#: plugin.php:564
+msgid "TP - Fontawesome Pro Light"
+msgstr ""
+
+#: plugin.php:60
+msgid "TP Addons"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:435
+msgid "Tp Button Title"
+msgstr ""
+
+#: acadia-core.php:250 acadia-core.php:275
+msgid "Tp Core"
+msgstr ""
+
+#: include/elementor/team/team-box.php:198
+msgid "TP Member Name"
+msgstr ""
+
+#: include/elementor/team/team-box.php:213
+msgid "TP Officer"
+msgstr ""
+
+#: include/elementor/contact/contact-plan.php:172
+msgid "Tp Slide Description"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:202
+#: include/elementor/common/kindergarten.php:260
+#: include/elementor/contact/contact-plan.php:162
+msgid "Tp Slide Title"
+msgstr ""
+
+#: include/elementor/hero/hero-banner.php:158
+#: include/elementor/services/services.php:220
+msgid "TP Title Here"
+msgstr ""
+
+#: include/custom-post/portfolio.php:29
+msgid "tp-portfolios"
+msgstr ""
+
+#: include/custom-post/services.php:29
+msgid "tp-services"
+msgstr ""
+
+#: include/post/post-functions.php:58 include/elementor/team/team-box.php:360
+#: include/elementor/university/university-instructor.php:286
+msgid "Twitter"
+msgstr ""
+
+#: include/widgets/tp-footer-about.php:144
+msgid "Twitter Link"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:733 include/traits/tp-style-trait.php:869
+msgid "Type Before Heading Text"
+msgstr ""
+
+#: include/elementor/university/campus-link.php:167
+#: include/elementor/university/university-instructor.php:231
+msgid "Type button Title"
+msgstr ""
+
+#: include/elementor/hero/hero-slider.php:262
+msgid "Type Content"
+msgstr ""
+
+#: include/elementor/team/team-box.php:214
+msgid "Type designation here"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:748 include/traits/tp-style-trait.php:880
+#: include/elementor/hero/hero-banner.php:159
+#: include/elementor/hero/hero-shop.php:199
+#: include/elementor/hero/hero-slider.php:216
+#: include/elementor/hero/hero-slider.php:263
+#: include/elementor/services/services.php:221
+msgid "Type Heading Text"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:801 include/traits/tp-style-trait.php:927
+#: include/elementor/common/academic-programs.php:250
+#: include/elementor/common/kindergarten.php:308
+#: include/elementor/hero/hero-banner.php:173
+#: include/elementor/services/services.php:295
+msgid "Type section description here"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:264
+msgid "Type section Tag here"
+msgstr ""
+
+#: include/elementor/university/university-instructor.php:175
+msgid "Type Subtitle"
+msgstr ""
+
+#: include/elementor/hero/hero-shop.php:185
+#: include/elementor/hero/hero-slider.php:202
+msgid "Type subtitle here"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:341
+#: include/elementor/common/academic-programs.php:515
+#: include/elementor/common/kindergarten.php:245
+#: include/elementor/instagram/instagram.php:220
+#: include/elementor/testimonial/testimonial-slider.php:462
+#: include/elementor/video/video-play-mp4.php:215
+msgid "Type Svg Code here"
+msgstr ""
+
+#: include/elementor/common/advanced-tab.php:198
+#: include/elementor/university/university-tab.php:169
+msgid "Type Tab Title"
+msgstr ""
+
+#: include/elementor/university/university-instructor.php:189
+msgid "Type title"
+msgstr ""
+
+#: include/elementor/team/team-box.php:199
+msgid "Type title here"
+msgstr ""
+
+#: include/elementor/hero/hero-slider.php:408
+msgid "Type your number here"
+msgstr ""
+
+#: include/elementor/header/header-ecommerce.php:298
+msgid "Type your title here"
+msgstr ""
+
+#: include/elementor/buttons/button.php:334
+#: include/elementor/common/link-text.php:207
+msgid "Typhography"
+msgstr ""
+
+#: include/traits/tp-style-trait.php:450
+#: include/elementor/common/link-list.php:284
+#: include/elementor/common/text-slider.php:215
+#: include/elementor/menu/home-demo.php:417
+msgid "Typography"
+msgstr ""
+
+#: include/elementor/event/events.php:225
+msgid "upcoming Event"
+msgstr ""
+
+#: include/custom-post/portfolio.php:42 include/custom-post/services.php:42
+msgid "Update Item"
+msgstr ""
+
+#: include/custom-post/portfolio.php:95
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: include/custom-post/services.php:95
+msgid "Update Service Category"
+msgstr ""
+
+#: include/common/common-functions.php:107 include/traits/tp-icon-trait.php:34
+#: include/elementor/footer/footer-social.php:219
+#: include/elementor/price/price-box.php:347
+#: include/elementor/services/services.php:171
+#: include/elementor/testimonial/testimonial-slider.php:195
+msgid "Upload Icon Image"
+msgstr ""
+
+#: include/elementor/common/academic-programs.php:189
+#: include/elementor/hero/hero-shop.php:171
+#: include/elementor/hero/hero-slider.php:394
+msgid "Upload Image"
+msgstr ""
+
+#: include/elementor/hero/hero-slider.php:188
+msgid "Upload Slider Image"
+msgstr ""
+
+#: include/custom-post/portfolio.php:52 include/custom-post/services.php:52
+msgid "Uploaded to this item"
+msgstr ""
+
+#: include/elementor/footer/footer-social.php:261
+#: include/elementor/image/image.php:208
+msgid "URL"
+msgstr ""
+
+#: include/custom-post/portfolio.php:50 include/custom-post/services.php:50
+msgid "Use as featured image"
+msgstr ""
+
+#: include/elementor/common/link-list.php:150
+msgid "Usefull Links"
+msgstr ""
+
+#: include/elementor/header/header-builder-2.php:298
+#: include/elementor/header/header-builder-2.php:307
+#: include/elementor/header/header-builder-4.php:257
+#: include/elementor/header/header-builder-4.php:266
+#: include/elementor/header/header-ecommerce.php:450
+#: include/elementor/header/header-ecommerce.php:459
+msgid "User Menu List"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:381
+msgid "Vedio Content"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:402
+msgid "Vedio Icon Type"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:475
+msgid "Vedio Link"
+msgstr ""
+
+#: include/elementor/testimonial/testimonial-slider.php:392
+#: include/elementor/testimonial/testimonial-slider.php:394
+msgid "Vedio Title"
+msgstr ""
+
+#: include/elementor/hero/hero-shop.php:339
+#: include/elementor/university/campus-slider.php:257
+msgid "Vertical Position"
+msgstr ""
+
+#: include/elementor/course/course-card.php:268
+msgid "Video Class Url"
+msgstr ""
+
+#: include/elementor/video/video-play-mp4.php:137
+msgid "Video Content"
+msgstr ""
+
+#: include/elementor/image/image.php:197
+msgid "Video Controls"
+msgstr ""
+
+#: include/elementor/video/video-play-mp4.php:155
+msgid "Video Icon Type"
+msgstr ""
+
+#: include/elementor/image/image.php:278
+msgid "Video Styles"
+msgstr ""
+
+#: include/elementor/video/video-play-mp4.php:230
+#: include/elementor/video/video-play-mp4.php:232
+msgid "Video Text"
+msgstr ""
+
+#: include/elementor/video/video-play-mp4.php:228
+msgid "Video Title"
+msgstr ""
+
+#: include/elementor/video/video-play-mp4.php:144
+msgid "Video URL"
+msgstr ""
+
+#: include/custom-post/breadcrumb.php:32 include/custom-post/footer.php:34
+#: include/custom-post/header.php:31 include/custom-post/offcanvas.php:30
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: include/custom-post/portfolio.php:43 include/custom-post/services.php:43
+msgid "View Item"
+msgstr ""
+
+#: include/custom-post/portfolio.php:96
+msgid "View Portfolio Category"
+msgstr ""
+
+#: include/custom-post/services.php:96
+msgid "View Service Category"
+msgstr ""
+
+#: include/post/post-functions.php:71 include/elementor/team/team-box.php:440
+msgid "Vimeo"
+msgstr ""
+
+#: include/elementor/video/video-play-mp4.php:148
+msgid "We recommended to put 'mp4' format video."
+msgstr ""
+
+#: include/elementor/team/team-box.php:307
+msgid "Website Address"
+msgstr ""
+
+#: include/elementor/header-side/header-side-1.php:30
+msgid "What are you looking for?"
+msgstr ""
+
+#: include/elementor/footer/footer-links.php:217
+msgid "What We Do"
+msgstr ""
+
+#: include/elementor/banner/banner.php:266
+#: include/elementor/common/academic-programs.php:666
+#: include/elementor/image/image.php:235 include/elementor/image/image.php:289
+#: include/elementor/team/team-box.php:667
+msgid "Width"
+msgstr ""
+
+#: include/traits/tp-post-trait.php:42
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/elementor/offcanvas/offcanvas-mobile-menu.php:164
+msgid "XL Device"
+msgstr ""
+
+#: include/elementor/offcanvas/offcanvas-mobile-menu.php:168
+msgid "XS Device"
+msgstr ""
+
+#: include/elementor/offcanvas/offcanvas-mobile-menu.php:163
+msgid "XXL Device"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:140
+msgid "Y-m-d"
+msgstr ""
+
+#: include/elementor/about/about-year-slider.php:161
+#: include/elementor/hero/hero-banner.php:181
+msgid "Year"
+msgstr ""
+
+#: include/elementor/about/about-year-slider.php:137
+msgid "Year  Slider"
+msgstr ""
+
+#: include/elementor/hero/hero-banner.php:193
+msgid "Year Content"
+msgstr ""
+
+#: include/elementor/hero/hero-banner.php:185
+msgid "Years"
+msgstr ""
+
+#: include/elementor/hero/hero-banner.php:196
+#: include/elementor/hero/hero-banner.php:197
+msgid "Years of Experience"
+msgstr ""
+
+#: include/traits/tp-animation-trait.php:44
+#: include/traits/tp-animation-trait.php:140
+#: include/traits/tp-query-trait.php:111
+#: include/elementor/about/about-tab.php:168
+#: include/elementor/about/about-tab.php:202
+#: include/elementor/about/about-year-slider.php:249
+#: include/elementor/common/link-list.php:173
+#: include/elementor/event/events.php:194
+#: include/elementor/event/events.php:264
+#: include/elementor/event/events.php:276
+#: include/elementor/event/events.php:288
+#: include/elementor/event/events.php:299
+#: include/elementor/event/events.php:313
+#: include/elementor/hero/hero-shop.php:245
+#: include/elementor/hero/hero-slider.php:276
+#: include/elementor/price/price-box.php:323
+#: include/elementor/team/team-box.php:295
+#: include/elementor/university/campus-slider.php:149
+msgid "Yes"
+msgstr ""
+
+#: include/elementor/course/course-card.php:186
+msgid "Your Course Time here"
+msgstr ""
+
+#: include/elementor/price/price-box.php:301
+msgid "Your Gold Membership Text"
+msgstr ""
+
+#: include/elementor/course/course-card.php:200
+msgid "Your Offline Students here"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:301
+msgid "Your Slider Content here"
+msgstr ""
+
+#: include/elementor/about/about-tab.php:287
+msgid "Your Slider Title here"
+msgstr ""
+
+#: include/traits/tp-query-trait.php:199
+#: include/elementor/banner/banner.php:146
+#: include/elementor/banner/banner.php:156
+#: include/elementor/banner/banner.php:214
+#: include/elementor/common/icon-box.php:147
+#: include/elementor/common/icon-box.php:160
+#: include/elementor/common/link-text.php:139
+#: include/elementor/course/course-card.php:257
+#: include/elementor/course/course-instructor.php:149
+#: include/elementor/course/course-tab.php:139
+#: include/elementor/header/header-builder-2.php:335
+#: include/elementor/header/header-ecommerce.php:487
+#: include/elementor/price/price-box.php:290
+#: include/elementor/woocommerce/shop-hero.php:168
+msgid "Your Text"
+msgstr ""
+
+#: include/elementor/footer/footer-social.php:268
+#: include/elementor/image/image.php:211
+msgid "Your URL"
+msgstr ""
+
+#: include/elementor/image/image.php:210
+msgid "yoururl.com/video"
+msgstr ""
+
+#: include/elementor/team/team-box.php:401
+msgid "Youtube"
+msgstr ""
+
+#: include/widgets/tp-footer-about.php:156
+msgid "Youtube Link"
+msgstr ""

@@ -10,7 +10,6 @@ namespace Automattic\WooCommerce\Admin\Features\ProductBlockEditor;
 use Automattic\WooCommerce\Admin\Features\Features;
 use Automattic\WooCommerce\Admin\Features\ProductBlockEditor\ProductTemplate;
 use Automattic\WooCommerce\Admin\PageController;
-use Automattic\WooCommerce\Enums\ProductType;
 use Automattic\WooCommerce\LayoutTemplates\LayoutTemplateRegistry;
 
 use Automattic\WooCommerce\Internal\Features\ProductBlockEditor\ProductTemplates\SimpleProductTemplate;
@@ -32,7 +31,7 @@ class Init {
 	 *
 	 * @var array
 	 */
-	private $supported_product_types = array( ProductType::SIMPLE );
+	private $supported_product_types = array( 'simple' );
 
 	/**
 	 * Registered product templates.
@@ -56,9 +55,9 @@ class Init {
 			return;
 		}
 
-		array_push( $this->supported_product_types, ProductType::VARIABLE );
-		array_push( $this->supported_product_types, ProductType::EXTERNAL );
-		array_push( $this->supported_product_types, ProductType::GROUPED );
+		array_push( $this->supported_product_types, 'variable' );
+		array_push( $this->supported_product_types, 'external' );
+		array_push( $this->supported_product_types, 'grouped' );
 
 		$this->redirection_controller = new RedirectionController();
 
@@ -161,7 +160,7 @@ class Init {
 			return;
 		}
 		wp_enqueue_style( 'wc-product-editor' );
-		wp_enqueue_style( 'wp-editor' );
+		wp_enqueue_style( 'wp-edit-blocks' );
 		wp_enqueue_style( 'wp-format-library' );
 		wp_enqueue_editor();
 		/**
@@ -197,7 +196,7 @@ class Init {
 			return $link;
 		}
 
-		if ( $product->get_type() === ProductType::SIMPLE ) {
+		if ( $product->get_type() === 'simple' ) {
 			return admin_url( 'admin.php?page=wc-admin&path=/product/' . $product->get_id() );
 		}
 
@@ -287,7 +286,7 @@ class Init {
 				'icon'               => 'shipping',
 				'layout_template_id' => 'simple-product',
 				'product_data'       => array(
-					'type' => ProductType::SIMPLE,
+					'type' => 'simple',
 				),
 			)
 		);
@@ -300,7 +299,7 @@ class Init {
 				'icon'               => 'group',
 				'layout_template_id' => 'simple-product',
 				'product_data'       => array(
-					'type' => ProductType::GROUPED,
+					'type' => 'grouped',
 				),
 			)
 		);
@@ -313,7 +312,7 @@ class Init {
 				'icon'               => 'link',
 				'layout_template_id' => 'simple-product',
 				'product_data'       => array(
-					'type' => ProductType::EXTERNAL,
+					'type' => 'external',
 				),
 			)
 		);

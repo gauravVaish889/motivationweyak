@@ -28,15 +28,17 @@ abstract class AbstractInterfaceServiceProvider extends AbstractServiceProvider 
 			return true;
 		}
 
-		$implements = array();
-		foreach ( $this->provides as $class ) {
-			$implements_more = class_implements( $class );
-			if ( $implements_more ) {
-				$implements = array_merge( $implements, $implements_more );
+		static $implements = array();
+		if ( empty( $implements ) ) {
+			foreach ( $this->provides as $class ) {
+				$implements_more = class_implements( $class );
+				if ( $implements_more ) {
+					$implements = array_merge( $implements, $implements_more );
+				}
 			}
-		}
 
-		$implements = array_unique( $implements );
+			$implements = array_unique( $implements );
+		}
 
 		return array_key_exists( $alias, $implements );
 	}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "eventin/related-events",
+  "title": "Related Events",
+  "category": "widgets",
+  "icon": "calendar",
+  "description": "Display related events for a particular event.",
+  "keywords": [
+    "event",
+    "related",
+    "calendar"
+  ],
+  "version": "1.0.0",
+  "textdomain": "eventin",
+  "attributes": {
+    "eventId": {
+      "type": "integer",
+      "default": 0
+    }
+  },
+  "supports": {
+    "align": true,
+    "html": false
+  }
+}

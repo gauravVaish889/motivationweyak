@@ -1,0 +1,4983 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: EdCare\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-22 06:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: edcare"
+
+#: tutor/single-course.php:121 tutor/single-course.php:425
+msgid "  Courses / "
+msgstr ""
+
+#: tutor/single-course.php:128 tutor/single-course.php:431
+msgid " / "
+msgstr ""
+
+#: tutor/single/lesson/comments-loop.php:30
+#: tutor/single/lesson/comments-loop.php:63
+msgid " ago"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:34
+msgid " ID"
+msgstr ""
+
+#: tutor/single/course/reviews.php:77
+msgid " Rating"
+msgid_plural " Ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tutor/loop/course-card-school.php:62
+msgid " reviews)"
+msgstr ""
+
+#: tutor/dashboard/my-courses.php:142
+msgid " Students"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:88
+#: eventin/templates/event/event-sidebar-meta-free.php:11
+msgid "#"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:109
+msgid "%"
+msgstr ""
+
+#: tutor/loop/course-price-edd.php:57 tutor/loop/course-price.php:59
+msgid "% Booked"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:302
+#: tutor/dashboard/notifications/profile-completion.php:40
+msgid "% Complete"
+msgstr ""
+
+#. 1: credit card type 2: last 4 digits
+#: woocommerce/myaccount/payment-methods.php:49
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr ""
+
+#. 1: formatted order total 2: total order items
+#: woocommerce/myaccount/my-orders.php:78 woocommerce/myaccount/orders.php:68
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:125
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tutor/dashboard/enrolled-courses.php:135 tutor/dashboard/wishlist.php:120
+#: tutor/loop/course-card-gym.php:107 tutor/loop/course-card-school.php:87
+#: tutor/loop/course-list-grid.php:91 tutor/loop/course-list.php:100
+#: tutor/loop/meta.php:67
+msgid "%d Lesson"
+msgid_plural "%d Lessons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tutor/dashboard/enrolled-courses.php:155 tutor/dashboard/wishlist.php:133
+#: tutor/loop/course-card-gym.php:119 tutor/loop/course-card-school.php:108
+#: tutor/loop/course-list-grid.php:103 tutor/loop/course-list.php:110
+#: tutor/loop/meta.php:80
+msgid "%d Student"
+msgid_plural "%d Students"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: time
+#: tutor/dashboard/question-answer/answers.php:41
+#: tutor/dashboard/question-answer/answers.php:76
+#: tutor/single/course/reviews-loop.php:30
+#: tutor/single/course/enrolled/announcements.php:39
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:55
+#: inc/woocommerce/single/product-single.php:73
+#, php-format
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/order/order-downloads.php:56
+msgid "&infin;"
+msgstr ""
+
+#: woocommerce/content-widget-product.php:46
+#: woocommerce/content-widget-reviews.php:45
+msgid "("
+msgstr ""
+
+#: tutor/loop/course-card-school.php:61
+msgid "( "
+msgstr ""
+
+#: woocommerce/content-widget-product.php:46
+#: woocommerce/content-widget-reviews.php:45 tutor/dashboard/reviews.php:35
+#: tutor/dashboard/reviews.php:41 tutor/dashboard/reviews/given-reviews.php:33
+#: tutor/dashboard/reviews/given-reviews.php:39
+msgid ")"
+msgstr ""
+
+#: inc/template-helper.php:959 inc/woocommerce/tp-woocommerce.php:96
+msgid "-"
+msgstr ""
+
+#: inc/kirki-customizer.php:2278
+msgid "1"
+msgstr ""
+
+#: inc/kirki-customizer.php:1501 inc/kirki-customizer.php:1532
+#: inc/kirki-customizer.php:1562 inc/kirki-customizer.php:1592
+#: inc/kirki-customizer.php:1622
+msgid "1 Column"
+msgstr ""
+
+#: inc/kirki-customizer.php:1510 inc/kirki-customizer.php:1541
+#: inc/kirki-customizer.php:1571 inc/kirki-customizer.php:1601
+#: inc/kirki-customizer.php:1631
+msgid "10 Column"
+msgstr ""
+
+#: inc/kirki-customizer.php:1341 tutor/single-course.php:91
+msgid "10,000+ unique online course list designs"
+msgstr ""
+
+#: inc/kirki-customizer.php:2279
+msgid "2"
+msgstr ""
+
+#: inc/kirki-customizer.php:1502 inc/kirki-customizer.php:1533
+#: inc/kirki-customizer.php:1563 inc/kirki-customizer.php:1593
+#: inc/kirki-customizer.php:1623
+msgid "2 Column"
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:82
+msgid "200x200"
+msgstr ""
+
+#: inc/kirki-customizer.php:2280
+msgid "3"
+msgstr ""
+
+#: inc/kirki-customizer.php:1503 inc/kirki-customizer.php:1534
+#: inc/kirki-customizer.php:1564 inc/kirki-customizer.php:1594
+#: inc/kirki-customizer.php:1624
+msgid "3 Column"
+msgstr ""
+
+#: inc/kirki-customizer.php:1772 inc/woocommerce/tp-woocommerce.php:433
+msgid "30 days easy returns"
+msgstr ""
+
+#: inc/kirki-customizer.php:2281
+msgid "4"
+msgstr ""
+
+#: inc/kirki-customizer.php:1504 inc/kirki-customizer.php:1535
+#: inc/kirki-customizer.php:1565 inc/kirki-customizer.php:1595
+#: inc/kirki-customizer.php:1625
+msgid "4 Column"
+msgstr ""
+
+#: inc/kirki-customizer.php:1189
+msgid "404 Page"
+msgstr ""
+
+#: inc/kirki-customizer.php:1190
+msgid "404 Page Settings."
+msgstr ""
+
+#: inc/common/edcare-breadcrumb.php:160
+msgid "4650"
+msgstr ""
+
+#: inc/kirki-customizer.php:1505 inc/kirki-customizer.php:1536
+#: inc/kirki-customizer.php:1566 inc/kirki-customizer.php:1596
+#: inc/kirki-customizer.php:1626
+msgid "5 Column"
+msgstr ""
+
+#: inc/kirki-customizer.php:1506 inc/kirki-customizer.php:1537
+#: inc/kirki-customizer.php:1567 inc/kirki-customizer.php:1597
+#: inc/kirki-customizer.php:1627
+msgid "6 Column"
+msgstr ""
+
+#: inc/kirki-customizer.php:1507 inc/kirki-customizer.php:1538
+#: inc/kirki-customizer.php:1568 inc/kirki-customizer.php:1598
+#: inc/kirki-customizer.php:1628
+msgid "7 Column"
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:83
+msgid "700x430"
+msgstr ""
+
+#: tutor/views/fragments/thumbnail-uploader.php:42
+msgid "700x430 pixels"
+msgstr ""
+
+#: inc/kirki-customizer.php:1508 inc/kirki-customizer.php:1539
+#: inc/kirki-customizer.php:1569 inc/kirki-customizer.php:1599
+#: inc/kirki-customizer.php:1629
+msgid "8 Column"
+msgstr ""
+
+#: inc/kirki-customizer.php:1509 inc/kirki-customizer.php:1540
+#: inc/kirki-customizer.php:1570 inc/kirki-customizer.php:1600
+#: inc/kirki-customizer.php:1630
+msgid "9 Column"
+msgstr ""
+
+#: tutor/single/course/instructors.php:21
+msgid "A course by"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:240
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:25
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: tutor/single/course/course-content.php:37
+msgid "About Course"
+msgstr ""
+
+#: tutor/single/lesson/content.php:162
+msgid "About Lesson"
+msgstr ""
+
+#. Name of the theme
+#: tutor/dashboard.php:92
+msgid "EdCare"
+msgstr ""
+
+#. Description of the theme
+msgid "EdCare - University &amp; Online Course WordPress Theme"
+msgstr ""
+
+#: inc/add_plugin.php:35
+msgid "edcare Core "
+msgstr ""
+
+#: inc/tp-metabox.php:104
+msgid "EdCare Course Meta"
+msgstr ""
+
+#: inc/kirki-customizer.php:8
+msgid "EdCare Customizer"
+msgstr ""
+
+#: inc/kirki-customizer.php:1255
+msgid "EdCare LMS"
+msgstr ""
+
+#: inc/kirki-customizer.php:1256
+msgid "EdCare LMS Settings."
+msgstr ""
+
+#: inc/template-helper.php:331 template-parts/offcanvas/offcanvas-1.php:36
+msgid "edcare Logo"
+msgstr ""
+
+#: header.php:56
+msgid "edcare preloader Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:9
+msgid "EdCare Theme Customizer."
+msgstr ""
+
+#: inc/kirki-customizer.php:1650
+msgid "EdCare Woocommerce"
+msgstr ""
+
+#: inc/kirki-customizer.php:1651
+msgid "EdCare Woocommerce Settings."
+msgstr ""
+
+#: tutor/dashboard/reviews/given-reviews.php:63
+msgid "Action: "
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:164 tutor/dashboard/enrolled-courses.php:21
+msgid "Active Courses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:103
+#: woocommerce/myaccount/my-address.php:202
+msgid "Add"
+msgstr ""
+
+#: inc/template-helper.php:878 inc/template-helper.php:1184
+msgid "Add Color Code"
+msgstr ""
+
+#: tutor/dashboard/announcements.php:82
+msgid "Add New Announcement"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:54
+#: woocommerce/myaccount/payment-methods.php:77
+msgid "Add payment method"
+msgstr ""
+
+#: inc/woocommerce/tp-woocommerce.php:148
+#: inc/woocommerce/tp-woocommerce.php:156
+msgid "Add to Cart"
+msgstr ""
+
+#: inc/woocommerce/product-action.php:46
+msgid "Add To Wishlist"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:102
+msgid "Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:126
+#: woocommerce/myaccount/my-address.php:221
+#: woocommerce/order/order-details-customer.php:71
+#: woocommerce/order/order-details-customer.php:136
+msgid "Address 1:"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:130
+#: woocommerce/myaccount/my-address.php:225
+#: woocommerce/order/order-details-customer.php:75
+#: woocommerce/order/order-details-customer.php:140
+msgid "Address 2:"
+msgstr ""
+
+#: inc/kirki-customizer.php:1021
+msgid "Adjust height of hero section."
+msgstr ""
+
+#: tutor/dashboard/announcements.php:94 tutor/dashboard/assignments.php:43
+#: tutor/dashboard/elements/filters.php:30
+msgid "All"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:230
+msgid "All Categories"
+msgstr ""
+
+#: inc/common/edcare-breadcrumb.php:37 inc/common/edcare-breadcrumb.php:156
+#: inc/common/edcare-breadcrumb.php:158
+msgid "All Courses"
+msgstr ""
+
+#: inc/add_plugin.php:165
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: eventin/templates/speaker/schedule-header.php:6
+msgid "All Sessions by"
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:176 tutor/dashboard/withdraw.php:234
+msgid "Amount"
+msgstr ""
+
+#: tutor/dashboard/announcements/create.php:47
+#: tutor/dashboard/announcements/update.php:48
+#: tutor/views/fragments/announcement-list.php:71
+msgid "Announcement Title"
+msgstr ""
+
+#: tutor/dashboard/announcements/create.php:49
+#: tutor/dashboard/announcements/update.php:50
+#: tutor/views/fragments/announcement-list.php:73
+msgid "Announcement title"
+msgstr ""
+
+#: inc/template-helper.php:1259 tutor/dashboard/announcements.php:63
+#: tutor/views/fragments/announcement-list.php:243
+msgid "Announcements"
+msgstr ""
+
+#: tutor/dashboard/question-answer/answers.php:20
+msgid "Answer"
+msgstr ""
+
+#: tutor/single/assignment/content.php:312
+msgid ""
+"Any standard Image, Document, Presentation, Sheet, PDF or Text file is "
+"allowed"
+msgstr ""
+
+#: woocommerce/cart/cart.php:166 woocommerce/checkout/form-coupon.php:35
+msgid "Apply"
+msgstr ""
+
+#: woocommerce/cart/cart.php:166 woocommerce/checkout/form-coupon.php:35
+msgid "Apply coupon"
+msgstr ""
+
+#: tutor/dashboard/instructor/apply_for_instructor.php:41
+msgid "Apply Now"
+msgstr ""
+
+#: tutor/views/fragments/announcement-list.php:214
+msgid ""
+"Are you sure you want to delete this Announcement permanently from the site? "
+"Please confirm your choice."
+msgstr ""
+
+#: tutor/dashboard/my-courses.php:292
+msgid ""
+"Are you sure you want to delete this course permanently from the site? "
+"Please confirm your choice."
+msgstr ""
+
+#: tutor/dashboard/reviews/given-reviews.php:161
+#: tutor/dashboard/reviews/given-reviews.php:288
+msgid ""
+"Are you sure you want to delete this review permanently from the site? "
+"Please confirm your choice."
+msgstr ""
+
+#: tutor/single/quiz/top.php:137
+msgid "Are you sure you want to skip this quiz? Please confirm your choice."
+msgstr ""
+
+#: tutor/dashboard/announcements.php:110 tutor/dashboard/assignments.php:59
+#: tutor/dashboard/elements/filters.php:46
+msgid "ASC"
+msgstr ""
+
+#: tutor/views/qna/qna-new.php:43
+msgid "Ask a New Question"
+msgstr ""
+
+#: tutor/views/qna/qna-new.php:49
+msgid "Ask Question"
+msgstr ""
+
+#: tutor/dashboard/assignments.php:34
+msgid "Assignment"
+msgstr ""
+
+#: tutor/single/assignment/content.php:263
+msgid "Assignment answer form"
+msgstr ""
+
+#: tutor/single/assignment/content.php:290
+msgctxt "Assignment attachment"
+msgid " file)"
+msgstr ""
+
+#: tutor/single/assignment/content.php:289
+msgctxt "Assignment attachment"
+msgid "Attach assignment files (Max: "
+msgstr ""
+
+#: tutor/dashboard/assignments/review.php:81
+msgid "Assignment Description:"
+msgstr ""
+
+#: tutor/dashboard/assignments/review.php:132
+msgid "Assignment evaluated"
+msgstr ""
+
+#: tutor/dashboard/assignments.php:77
+msgid "Assignment Name"
+msgstr ""
+
+#: tutor/single/assignment/content.php:259
+msgid "Assignment Submission"
+msgstr ""
+
+#: tutor/dashboard/assignments/review.php:25
+msgid "Assignments submission not found or not completed"
+msgstr ""
+
+#: inc/common/comments-form-list.php:107
+msgid "at"
+msgstr ""
+
+#: tutor/dashboard/assignments/review.php:93
+msgid "Attach assignment file(s)"
+msgstr ""
+
+#: tutor/single/assignment/content.php:212
+msgid "Attachments"
+msgstr ""
+
+#: tutor/views/quiz/contexts.php:65
+msgid "Attempt By"
+msgstr ""
+
+#: tutor/views/quiz/attempt-details.php:29
+msgid "Attempt not found or access permission denied"
+msgstr ""
+
+#: tutor/views/quiz/contexts.php:69
+msgid "Attempt Time"
+msgstr ""
+
+#: tutor/views/quiz/header-context/course-single-previous-attempts.php:52
+#: tutor/views/quiz/header-context/frontend-dashboard-my-attempts.php:50
+#: tutor/views/quiz/header-context/frontend-dashboard-students-attempts.php:51
+msgid "Attempt Time:"
+msgstr ""
+
+#: tutor/single/quiz/parts/meta.php:45
+msgid "Attempts Allowed"
+msgstr ""
+
+#: eventin/templates/event/related-events-free.php:75
+msgid "attend"
+msgstr ""
+
+#: eventin/templates/event/attendee-list-button.php:10
+msgid "ATTENDEE LIST"
+msgstr ""
+
+#: tutor/single/course/course-target-audience.php:24
+msgid "Audience"
+msgstr ""
+
+#: inc/tp-metabox.php:353
+msgid "Audio"
+msgstr ""
+
+#: woocommerce/cart/cart.php:87
+msgid "Available on backorder"
+msgstr ""
+
+#: inc/tp-metabox.php:442
+msgid "Avater"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:236
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:93
+msgid "Awaiting product image"
+msgstr ""
+
+#: tutor/dashboard/assignments/review.php:42
+#: tutor/dashboard/assignments/submitted.php:34
+#: tutor/single/quiz/parts/question.php:188
+#: tutor/views/quiz/header-context/backend-dashboard-students-attempts.php:27
+#: tutor/views/quiz/header-context/course-single-previous-attempts.php:24
+#: tutor/views/quiz/header-context/frontend-dashboard-my-attempts.php:21
+#: tutor/views/quiz/header-context/frontend-dashboard-students-attempts.php:22
+msgid "Back"
+msgstr ""
+
+#: 404.php:16
+msgid "Back To Home"
+msgstr ""
+
+#: inc/kirki-customizer.php:362
+msgid "Back To Top BG Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:339
+msgid "Back To Top Controls."
+msgstr ""
+
+#: inc/kirki-customizer.php:385
+msgid "Back To Top Icon Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:349
+msgid "Back To Top On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:338
+msgid "Back To Top Settings"
+msgstr ""
+
+#: inc/kirki-customizer.php:348
+msgid "Back To Top Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:504
+msgid "Background"
+msgstr ""
+
+#: inc/tp-metabox.php:89
+msgid "Background Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:505 inc/kirki-customizer.php:872
+msgid "Background conrols are pretty complex! (but useful if used properly)"
+msgstr ""
+
+#: inc/kirki-customizer.php:771 inc/kirki-customizer.php:1281
+msgid "Background conrols for breadcrumb"
+msgstr ""
+
+#: inc/kirki-customizer.php:1305
+msgid "Background conrols for lms single page"
+msgstr ""
+
+#: inc/tp-metabox.php:78
+msgid "Background Image"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:177
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: tutor/dashboard.php:136
+msgid "Become an instructor"
+msgstr ""
+
+#: inc/add_plugin.php:155
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:145
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:150
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-address.php:101
+#: woocommerce/order/order-details-customer.php:50
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:21
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:35
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:37
+msgid "Billing email"
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:166
+msgid "Bio"
+msgstr ""
+
+#: tutor/profile/bio.php:24
+msgid "Bio data is empty"
+msgstr ""
+
+#: tutor/public-profile.php:170 tutor/dashboard/my-profile.php:35
+msgid "Biography"
+msgstr ""
+
+#: inc/common/edcare-breadcrumb.php:25 inc/common/edcare-breadcrumb.php:28
+msgid "Blog"
+msgstr ""
+
+#: inc/kirki-customizer.php:1069
+msgid "Blog Author Meta On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:1119
+msgid "Blog BTN On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:1140
+msgid "Blog Button Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:1058
+msgid "Blog Category Meta On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:1089
+msgid "Blog Comments Meta On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:1079
+msgid "Blog Date Meta On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:1168
+msgid "Blog Related Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:832 inc/kirki-customizer.php:2005
+msgid "Blog Section Settings."
+msgstr ""
+
+#: inc/kirki-customizer.php:831
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/common/edcare-widgets.php:15
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/kirki-customizer.php:1099
+msgid "Blog Tags Meta On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:2211
+msgid "Body Typography Control"
+msgstr ""
+
+#: inc/tp-metabox.php:27
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/woocommerce/tp-woocommerce.php:361
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/tp-metabox.php:49
+msgid "Breadcrumb 1"
+msgstr ""
+
+#: inc/kirki-customizer.php:770
+msgid "Breadcrumb Background"
+msgstr ""
+
+#: inc/kirki-customizer.php:580
+msgid "Breadcrumb Courses Single On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:596
+msgid "Breadcrumb Custom/Elementor On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:595
+msgid "Breadcrumb Custom/Elementor Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:551 inc/kirki-customizer.php:566
+msgid "Breadcrumb On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:540
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/kirki-customizer.php:541
+msgid "Breadcrumb Settings."
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:52 woocommerce/myaccount/orders.php:111
+msgid "Browse products"
+msgstr ""
+
+#: tutor/single/course/add-to-cart-woocommerce.php:81
+msgid "Buy Course"
+msgstr ""
+
+#: inc/woocommerce/tp-woocommerce.php:152
+#: inc/woocommerce/tp-woocommerce.php:272
+#: inc/woocommerce/tp-woocommerce.php:397 tutor/loop/add-to-cart-edd.php:26
+msgid "Buy Now"
+msgstr ""
+
+#: tutor/course-embed.php:97 tutor/loop/course-author.php:32
+#: tutor/loop/course-card-school.php:133 tutor/single/course/lead-info.php:72
+#: tutor/single/course/enrolled/announcements.php:34
+msgid "By"
+msgstr ""
+
+#: woocommerce/content-widget-reviews.php:53
+msgid "by "
+msgstr ""
+
+#: tutor/dashboard/registration.php:144
+#: tutor/dashboard/instructor/registration.php:159
+msgid "By signing up, I agree with the website's"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: tutor/dashboard/my-courses.php:296 tutor/dashboard/withdraw.php:195
+#: tutor/modal/confirm.php:55 tutor/dashboard/announcements/create.php:65
+#: tutor/dashboard/announcements/details.php:41
+#: tutor/dashboard/announcements/update.php:64
+#: tutor/dashboard/reviews/given-reviews.php:142
+#: tutor/dashboard/reviews/given-reviews.php:269
+#: tutor/views/fragments/announcement-list.php:88
+#: tutor/views/fragments/announcement-list.php:168
+#: tutor/views/fragments/announcement-list.php:217
+#: tutor/views/qna/qna-new.php:30
+msgid "Cancel"
+msgstr ""
+
+#: tutor/dashboard/my-courses.php:258
+msgid "Cancel Submission"
+msgstr ""
+
+#: tutor/dashboard/purchase_history.php:142
+msgid "Cancelled"
+msgstr ""
+
+#: inc/kirki-customizer.php:1853 inc/kirki-customizer.php:1864
+msgid "Cart empty message"
+msgstr ""
+
+#: inc/kirki-customizer.php:1922
+msgid "Cart Page Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:1861
+msgid "Cartmini Empty Button Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:1850
+msgid "Cartmini Empty Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:1840
+msgid "Cartmini Empty Thumbnail"
+msgstr ""
+
+#: inc/kirki-customizer.php:1901
+msgid "Cartmini Switch"
+msgstr ""
+
+#: tutor/single/course/lead-info.php:78
+msgid "Categories:"
+msgstr ""
+
+#: tutor/single-course.php:163 tutor/single-course.php:484
+#: tutor/course-filter/filters.php:62 tutor/shortcode/instructor-filter.php:58
+msgid "Category"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:44
+#: inc/woocommerce/single/product-single.php:36
+msgid "Category:  "
+msgid_plural "Categories:  "
+msgstr[0] ""
+msgstr[1] ""
+
+#: tutor/single-course.php:718
+msgid "Certificate"
+msgstr ""
+
+#: tutor/single-course.php:252
+msgid "Certificate after completing"
+msgstr ""
+
+#: inc/kirki-customizer.php:896 inc/kirki-customizer.php:938
+#: inc/kirki-customizer.php:979
+msgid "Change Vertical Padding here"
+msgstr ""
+
+#: tutor/single/quiz/parts/open-ended.php:24
+#: tutor/single/quiz/parts/short-answer.php:24
+msgid "Character Remaining: "
+msgstr ""
+
+#: inc/kirki-customizer.php:1943
+msgid "Checkout Page Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:110 inc/kirki-customizer.php:644
+#: inc/kirki-customizer.php:1269 inc/kirki-customizer.php:1393
+#: inc/kirki-customizer.php:1415 inc/kirki-customizer.php:1440
+#: inc/kirki-customizer.php:1465 inc/kirki-customizer.php:1499
+#: inc/kirki-customizer.php:1530 inc/kirki-customizer.php:1560
+#: inc/kirki-customizer.php:1590 inc/kirki-customizer.php:1620
+#: inc/kirki-customizer.php:2276 inc/kirki-customizer.php:2338
+msgid "Choose an option"
+msgstr ""
+
+#: inc/kirki-customizer.php:1437
+msgid "Choose Card style here"
+msgstr ""
+
+#: tutor/single/assignment/content.php:301
+msgid "Choose file"
+msgstr ""
+
+#: inc/kirki-customizer.php:1462
+msgid "Choose filter style here"
+msgstr ""
+
+#: inc/kirki-customizer.php:1412
+msgid "Choose Grid view style"
+msgstr ""
+
+#: inc/kirki-customizer.php:1266
+msgid "Choose signle layout"
+msgstr ""
+
+#: inc/kirki-customizer.php:1390
+msgid "Choose view style"
+msgstr ""
+
+#: inc/kirki-customizer.php:2378
+msgid "Choose Your Color 1"
+msgstr ""
+
+#: inc/kirki-customizer.php:2388
+msgid "Choose Your Color 2"
+msgstr ""
+
+#: inc/kirki-customizer.php:2398
+msgid "Choose Your Color 3"
+msgstr ""
+
+#: inc/kirki-customizer.php:2408
+msgid "Choose Your Color 4"
+msgstr ""
+
+#: inc/kirki-customizer.php:2418
+msgid "Choose Your Color 5"
+msgstr ""
+
+#: inc/kirki-customizer.php:2428
+msgid "Choose Your Color 6"
+msgstr ""
+
+#: inc/kirki-customizer.php:609
+msgid "Chose Breadcrumb Style"
+msgstr ""
+
+#: inc/kirki-customizer.php:73
+msgid "Chose Header Style"
+msgstr ""
+
+#: inc/kirki-customizer.php:1660
+msgid "Chose Single Layout"
+msgstr ""
+
+#: inc/kirki-customizer.php:842
+msgid "Chose Single Style"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:80
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:79
+#: woocommerce/myaccount/my-address.php:134
+#: woocommerce/myaccount/my-address.php:229
+#: woocommerce/order/order-details-customer.php:79
+#: woocommerce/order/order-details-customer.php:144
+msgid "City:"
+msgstr ""
+
+#: inc/kirki-customizer.php:1272 inc/tp-metabox.php:117
+msgid "Classic"
+msgstr ""
+
+#: tutor/shortcode/instructor-filter.php:51
+#: woocommerce/single-product/add-to-cart/variable.php:48
+msgid "Clear"
+msgstr ""
+
+#: tutor/course-filter/filters.php:189
+msgid "Clear All Filters"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:123
+msgid "Click Here"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr ""
+
+#: tutor/email/send-reset-password.php:41
+msgid "Click here to reset your password"
+msgstr ""
+
+#: tutor/dashboard/my-courses.php:107
+msgid "Co-author"
+msgstr ""
+
+#: inc/template-helper.php:886 inc/template-helper.php:921
+#: inc/template-helper.php:1192 inc/template-helper.php:1226
+msgid "Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:2377
+msgid "Color 1"
+msgstr ""
+
+#: inc/kirki-customizer.php:2387
+msgid "Color 2"
+msgstr ""
+
+#: inc/kirki-customizer.php:2397
+msgid "Color 3"
+msgstr ""
+
+#: inc/kirki-customizer.php:2407
+msgid "Color 4"
+msgstr ""
+
+#: inc/kirki-customizer.php:2417
+msgid "Color 5"
+msgstr ""
+
+#: inc/kirki-customizer.php:2427
+msgid "Color 6"
+msgstr ""
+
+#: inc/kirki-customizer.php:1496
+msgid "Column for Extra Large Device, only for grid style"
+msgstr ""
+
+#: inc/kirki-customizer.php:1617
+msgid "Column for Extra Small Device, only for grid style"
+msgstr ""
+
+#: inc/kirki-customizer.php:1527
+msgid "Column for Large Device, only for grid style"
+msgstr ""
+
+#: inc/kirki-customizer.php:1557
+msgid "Column for Medium Device, only for grid style"
+msgstr ""
+
+#: inc/kirki-customizer.php:1587
+msgid "Column for Small Device, only for grid style"
+msgstr ""
+
+#: comments.php:13
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tutor/single/lesson/content.php:149
+msgid "Comments"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:122
+#: woocommerce/myaccount/my-address.php:217
+#: woocommerce/order/order-details-customer.php:67
+#: woocommerce/order/order-details-customer.php:132
+msgid "Company:"
+msgstr ""
+
+#: tutor/dashboard/enrolled-courses.php:170
+#: tutor/loop/enrolled-course-progress.php:23
+#: tutor/single/course/course-entry-box.php:99
+msgid "Complete"
+msgstr ""
+
+#: tutor/single/course/course-entry-box.php:190
+msgid "Complete Course"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:36
+#: tutor/dashboard/notifications/profile-completion.php:20
+msgid "Complete Your Profile"
+msgstr ""
+
+#: tutor/dashboard/notifications/profile-completion.php:22
+msgid "Complete your profile so people can know more about you! Go to Profile"
+msgstr ""
+
+#: tutor/dashboard/purchase_history.php:126
+msgid "Completed"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:193 tutor/dashboard/enrolled-courses.php:22
+msgid "Completed Courses"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:289
+msgid "Completed Lessons:"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:60
+msgid "Confirm new password"
+msgstr ""
+
+#: tutor/template-part/form-retrieve-password.php:45
+msgid "Confirm Password"
+msgstr ""
+
+#: tutor/dashboard/instructor/logged-in.php:64
+msgid "Congratulations! You are now registered as an instructor."
+msgstr ""
+
+#: inc/add_plugin.php:54
+msgid "Contact Form 7"
+msgstr ""
+
+#: tutor/loop/course-continue.php:38 tutor/loop/course-continue.php:42
+#: tutor/loop/course-continue.php:47
+#: tutor/single/course/course-entry-box.php:149
+msgid "Continue Learning"
+msgstr ""
+
+#: tutor/single/assignment/content.php:619
+msgid "Continue Lesson"
+msgstr ""
+
+#: tutor/single/course/continue-lesson.php:40
+msgid "Continue to lesson"
+msgstr ""
+
+#: tutor/views/quiz/attempt-details.php:701
+msgid "Correct"
+msgstr ""
+
+#: tutor/views/quiz/contexts.php:21 tutor/views/quiz/contexts.php:72
+#: tutor/views/quiz/contexts.php:99
+msgid "Correct Answer"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Country / region:"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:148
+#: woocommerce/myaccount/my-address.php:243
+#: woocommerce/order/order-details-customer.php:91
+#: woocommerce/order/order-details-customer.php:156
+msgid "Country:"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:33
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:32
+msgid "Coupon Code : "
+msgstr ""
+
+#: woocommerce/cart/cart.php:158
+msgid "Coupon:"
+msgstr ""
+
+#: tutor/public-profile.php:129 tutor/dashboard/assignments.php:101
+#: tutor/instructor/cover.php:39 tutor/instructor/default.php:33
+#: tutor/instructor/minimal-horizontal.php:31 tutor/instructor/minimal.php:35
+#: tutor/instructor/portrait-horizontal.php:36
+#: tutor/dashboard/announcements/details.php:31
+#: tutor/dashboard/assignments/review.php:49
+#: tutor/dashboard/assignments/submitted.php:40
+#: tutor/single/course/course-topics.php:219
+#: tutor/views/fragments/announcement-list.php:149
+#: tutor/views/quiz/contexts.php:18
+msgid "Course"
+msgid_plural "Courses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tutor/public-profile.php:142
+msgid "Course Completed"
+msgstr ""
+
+#: tutor/single/lesson/lesson_sidebar.php:41
+msgid "Course Content"
+msgstr ""
+
+#: tutor/single/course/course-topics.php:38
+msgid "Course Curriculum"
+msgstr ""
+
+#: inc/tp-metabox.php:140
+msgid "Course Deadline"
+msgstr ""
+
+#: inc/common/edcare-breadcrumb.php:41
+msgid "Course Details"
+msgstr ""
+
+#: tutor/public-profile.php:141
+msgid "Course Enrolled"
+msgstr ""
+
+#: inc/kirki-customizer.php:1349
+msgid "Course Found Title"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:345 tutor/dashboard/purchase_history.php:98
+msgid "Course Name"
+msgstr ""
+
+#. %s: course name
+#: tutor/single/lesson/required-enroll.php:18
+#, php-format
+msgid "Course name : %s"
+msgstr ""
+
+#: tutor/single/course/course-entry-box.php:90
+msgid "Course Progress"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:212
+#: tutor/course-filter/course-archive-filter-bar.php:409
+#: tutor/course-filter/course-archive-filter-bar.php:549
+#: tutor/course-filter/course-archive-filter-bar.php:630
+msgid "Course Title (a-z)"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:220
+#: tutor/course-filter/course-archive-filter-bar.php:412
+#: tutor/course-filter/course-archive-filter-bar.php:552
+#: tutor/course-filter/course-archive-filter-bar.php:633
+msgid "Course Title (z-a)"
+msgstr ""
+
+#: inc/kirki-customizer.php:1360
+msgid "Course Title Word Count"
+msgstr ""
+
+#: inc/kirki-customizer.php:1361
+msgid "Course Title Word Count, for archive page"
+msgstr ""
+
+#: tutor/dashboard/reviews.php:91
+msgid "Course Title:"
+msgstr ""
+
+#: tutor/dashboard/reviews/given-reviews.php:58
+msgid "Course Title: "
+msgstr ""
+
+#: tutor/views/fragments/announcement-list.php:294
+#: tutor/views/quiz/header-context/backend-dashboard-students-attempts.php:31
+#: tutor/views/quiz/header-context/frontend-dashboard-my-attempts.php:25
+#: tutor/views/quiz/header-context/frontend-dashboard-students-attempts.php:26
+msgid "Course:"
+msgstr ""
+
+#: tutor/dashboard/reviews/given-reviews.php:209
+msgid "Course: "
+msgstr ""
+
+#: tutor/public-profile.php:129 tutor/dashboard/announcements.php:91
+#: tutor/dashboard/assignments.php:40 tutor/instructor/cover.php:39
+#: tutor/instructor/default.php:33 tutor/instructor/minimal-horizontal.php:31
+#: tutor/instructor/minimal.php:35 tutor/instructor/portrait-horizontal.php:36
+#: tutor/dashboard/elements/filters.php:26
+msgid "Courses"
+msgstr ""
+
+#: inc/common/edcare-breadcrumb.php:160
+msgid "courses"
+msgstr ""
+
+#: tutor/public-profile.php:142
+msgid "Courses Completed"
+msgstr ""
+
+#: tutor/public-profile.php:141
+msgid "Courses Enrolled"
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:83
+msgid "Cover Photo Size"
+msgstr ""
+
+#: tutor/dashboard.php:155 tutor/dashboard.php:162
+msgid "Create a New Course"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:251
+msgid "Create Account"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:145
+msgid "Create an account"
+msgstr ""
+
+#: tutor/dashboard/announcements.php:77
+msgid "Create Announcement"
+msgstr ""
+
+#: tutor/dashboard/assignments.php:65 tutor/dashboard/elements/filters.php:51
+msgid "Create Date"
+msgstr ""
+
+#: tutor/dashboard/announcements/create.php:18
+msgid "Create New Announcement"
+msgstr ""
+
+#. %s: current balance
+#: tutor/dashboard/withdraw.php:72
+#, php-format
+msgid "Current Balance is %s"
+msgstr ""
+
+#: tutor/dashboard/settings/reset-password.php:30
+#: tutor/dashboard/settings/reset-password.php:31
+msgid "Current Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:52
+msgid "Current password (leave blank to leave unchanged)"
+msgstr ""
+
+#: inc/tp-metabox.php:33 inc/tp-metabox.php:181 inc/tp-metabox.php:231
+msgid "Custom"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Customer reviews"
+msgstr ""
+
+#: inc/template-helper.php:1248 tutor/dashboard.php:48
+#: tutor/dashboard/dashboard.php:136
+msgid "Dashboard"
+msgstr ""
+
+#: tutor/dashboard/announcements.php:116
+#: tutor/dashboard/purchase_history.php:101 tutor/dashboard/reviews.php:59
+#: woocommerce/myaccount/my-orders.php:15
+#: tutor/dashboard/assignments/submitted.php:77
+#: tutor/single/assignment/content.php:425
+#: tutor/views/fragments/announcement-list.php:240
+#: tutor/views/quiz/contexts.php:16 tutor/views/quiz/contexts.php:66
+msgid "Date"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:29
+msgid "Date:"
+msgstr ""
+
+#: tutor/single/quiz/top.php:76
+msgid "Day"
+msgstr ""
+
+#: inc/common/edcare-etn-breadcrumb.php:56
+#: tutor/single/assignment/content.php:63 tutor/single/quiz/top.php:76
+msgid "Days"
+msgstr ""
+
+#: tutor/single-course.php:277 tutor/single-course.php:692
+msgid "Deadline"
+msgstr ""
+
+#: tutor/single/assignment/content.php:141
+msgid "Deadline:"
+msgstr ""
+
+#: inc/kirki-customizer.php:1417 inc/tp-metabox.php:32 inc/tp-metabox.php:115
+#: inc/tp-metabox.php:180 inc/tp-metabox.php:230 inc/tp-metabox.php:295
+#: inc/tp-metabox.php:377
+msgid "Default"
+msgstr ""
+
+#: inc/kirki-customizer.php:1411
+msgid "Default Grid View"
+msgstr ""
+
+#: inc/kirki-customizer.php:1389
+msgid "Default View"
+msgstr ""
+
+#: tutor/dashboard/my-courses.php:267
+#: tutor/dashboard/announcements/details.php:44
+#: tutor/dashboard/reviews/given-reviews.php:109
+#: tutor/dashboard/reviews/given-reviews.php:231
+#: tutor/dashboard/settings/profile.php:100
+#: tutor/views/fragments/announcement-list.php:173
+#: tutor/views/fragments/announcement-list.php:321
+msgid "Delete"
+msgstr ""
+
+#: tutor/views/fragments/announcement-list.php:213
+msgid "Delete This Announcement?"
+msgstr ""
+
+#: tutor/dashboard/my-courses.php:291
+msgid "Delete This Course?"
+msgstr ""
+
+#: tutor/dashboard/announcements.php:111 tutor/dashboard/assignments.php:60
+#: tutor/dashboard/elements/filters.php:47
+msgid "DESC"
+msgstr ""
+
+#: tutor/single/lesson/sidebar_question_and_answer.php:48
+msgid "Describe what you're trying to achieve and where you're getting stuck"
+msgstr ""
+
+#: tutor/single/assignment/content.php:197
+#: tutor/single/assignment/content.php:381
+#: tutor/single/assignment/content.php:598
+#: woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""
+
+#: inc/kirki-customizer.php:665
+msgid "Desktop"
+msgstr ""
+
+#: tutor/dashboard/assignments.php:116 tutor/instructor/cover.php:43
+#: tutor/instructor/default.php:37 tutor/instructor/minimal-horizontal.php:35
+#: tutor/instructor/minimal.php:39 tutor/instructor/portrait-horizontal.php:40
+#: tutor/dashboard/assignments/submitted.php:104
+#: tutor/views/fragments/announcement-list.php:301
+#: tutor/views/quiz/attempt-table.php:210 tutor/views/quiz/contexts.php:25
+msgid "Details"
+msgstr ""
+
+#: inc/kirki-customizer.php:35 inc/kirki-customizer.php:65
+#: inc/kirki-customizer.php:131 inc/kirki-customizer.php:145
+#: inc/kirki-customizer.php:158 inc/kirki-customizer.php:289
+#: inc/kirki-customizer.php:354 inc/kirki-customizer.php:430
+#: inc/kirki-customizer.php:601 inc/kirki-customizer.php:1742
+#: inc/kirki-customizer.php:1758 inc/kirki-customizer.php:1795
+#: inc/kirki-customizer.php:1893 inc/kirki-customizer.php:1907
+#: inc/kirki-customizer.php:1928 inc/kirki-customizer.php:1949
+#: inc/kirki-customizer.php:2031 inc/kirki-customizer.php:2045
+#: inc/kirki-customizer.php:2295
+msgid "Disable"
+msgstr ""
+
+#: inc/add_plugin.php:166
+msgid "Dismiss this notice"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid "Display name"
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:178
+msgid "Display name publicly as"
+msgstr ""
+
+#: tutor/views/qna/qna-new.php:18
+msgid "Do you have any questions?"
+msgstr ""
+
+#: tutor/dashboard/reviews/given-reviews.php:160
+#: tutor/dashboard/reviews/given-reviews.php:287
+msgid "Do You Want to Delete This Review?"
+msgstr ""
+
+#: tutor/single/quiz/top.php:136
+msgid "Do You Want to Skip This Quiz?"
+msgstr ""
+
+#: tutor/dashboard/instructor/apply_for_instructor.php:29
+msgid "Do you want to start your career as an instructor?"
+msgstr ""
+
+#: tutor/login.php:45
+msgid "Don't have an account?"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:73
+msgid "Downlaods"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:24
+msgid "Downloads"
+msgstr ""
+
+#: tutor/dashboard/my-courses.php:64
+msgid "Draft"
+msgstr ""
+
+#: tutor/single/quiz/parts/image-matching.php:59
+#: tutor/single/quiz/parts/matching.php:85
+msgid "Drag your answer"
+msgstr ""
+
+#: tutor/dashboard/my-courses.php:220
+msgid "Duplicate"
+msgstr ""
+
+#: tutor/single-course.php:612 tutor/single/course/course-entry-box.php:39
+#: tutor/single/course/course-entry-box.php:40
+msgid "Duration"
+msgstr ""
+
+#: tutor/single/assignment/content.php:135
+msgid "Duration:"
+msgstr ""
+
+#: tutor/dashboard/registration.php:85 tutor/dashboard/registration.php:86
+#: tutor/dashboard/instructor/registration.php:92
+#: tutor/dashboard/instructor/registration.php:95
+msgid "E-Mail"
+msgstr ""
+
+#: tutor/single/assignment/content.php:434 tutor/views/quiz/contexts.php:23
+#: tutor/views/quiz/contexts.php:74
+msgid "Earned Marks"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:103
+#: woocommerce/myaccount/my-address.php:202
+#: tutor/dashboard/announcements/details.php:45
+#: tutor/dashboard/reviews/given-reviews.php:97
+#: tutor/dashboard/reviews/given-reviews.php:226
+#: tutor/single/assignment/content.php:539
+#: tutor/views/fragments/announcement-list.php:176
+#: tutor/views/fragments/announcement-list.php:315
+msgid "Edit"
+msgstr ""
+
+#: tutor/single/course/reviews.php:128
+msgid "Edit review"
+msgstr ""
+
+#: inc/tp-metabox.php:34 inc/tp-metabox.php:182 inc/tp-metabox.php:232
+msgid "Elementor"
+msgstr ""
+
+#: inc/kirki-customizer.php:642
+msgid "Elementor Breadcrumb Template"
+msgstr ""
+
+#: inc/kirki-customizer.php:2336
+msgid "Elementor Footer Template"
+msgstr ""
+
+#: inc/kirki-customizer.php:108
+msgid "Elementor Header Template"
+msgstr ""
+
+#: inc/add_plugin.php:30
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:198
+#: inc/common/comments-form-list.php:26 tutor/dashboard/my-profile.php:32
+#: woocommerce/myaccount/form-login.php:172
+#: woocommerce/myaccount/form-login.php:176
+#: woocommerce/myaccount/form-lost-password.php:37
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:44
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:37
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:78
+#: woocommerce/myaccount/my-address.php:113
+#: woocommerce/order/order-details-customer.php:59
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:27 woocommerce/cart/mini-cart.php:132
+msgid "empty-cart"
+msgstr ""
+
+#: inc/template-helper.php:165
+msgid "EN"
+msgstr ""
+
+#: inc/kirki-customizer.php:34 inc/kirki-customizer.php:64
+#: inc/kirki-customizer.php:130 inc/kirki-customizer.php:144
+#: inc/kirki-customizer.php:157 inc/kirki-customizer.php:288
+#: inc/kirki-customizer.php:353 inc/kirki-customizer.php:429
+#: inc/kirki-customizer.php:600 inc/kirki-customizer.php:1741
+#: inc/kirki-customizer.php:1757 inc/kirki-customizer.php:1794
+#: inc/kirki-customizer.php:1892 inc/kirki-customizer.php:1906
+#: inc/kirki-customizer.php:1927 inc/kirki-customizer.php:1948
+#: inc/kirki-customizer.php:2030 inc/kirki-customizer.php:2044
+#: inc/kirki-customizer.php:2294
+msgid "Enable"
+msgstr ""
+
+#: inc/kirki-customizer.php:1479
+msgid "Enable Custom Column?"
+msgstr ""
+
+#: inc/kirki-customizer.php:1923
+msgid "Enable For Cart Page"
+msgstr ""
+
+#: inc/kirki-customizer.php:1902
+msgid "Enable For Cartmini"
+msgstr ""
+
+#: inc/kirki-customizer.php:1944
+msgid "Enable For Checkout Page"
+msgstr ""
+
+#: inc/kirki-customizer.php:1157
+msgid "Enable Related Post?"
+msgstr ""
+
+#: eventin/templates/event/event-sidebar-meta-free.php:33
+msgid "End"
+msgstr ""
+
+#: eventin/templates/event-one.php:116
+msgid "End Date"
+msgstr ""
+
+#: eventin/templates/event-one.php:130
+msgid "End Time"
+msgstr ""
+
+#: inc/template-helper.php:109 inc/template-helper.php:147
+#: inc/template-helper.php:202 inc/template-helper.php:235
+#: inc/template-helper.php:261 inc/template-helper.php:294
+msgid "English"
+msgstr ""
+
+#: tutor/loop/course-price-edd.php:29
+#: tutor/loop/course-price-woocommerce.php:23 tutor/loop/course-price.php:31
+msgid "Enroll Course"
+msgstr ""
+
+#: eventin/templates/event/event-sidebar-meta-free.php:10
+#: tutor/single/course/course-entry-box.php:266
+msgid "Enroll Now"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:348
+msgid "Enrolled"
+msgstr ""
+
+#: inc/template-helper.php:1251 tutor/dashboard/dashboard.php:178
+#: tutor/dashboard/enrolled-courses.php:20
+msgid "Enrolled Courses"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:68
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/cart/cart.php:162
+msgid "Enter Coupon Code"
+msgstr ""
+
+#: tutor/template-part/form-retrieve-password.php:27
+msgid "Enter Password and Confirm Password to reset your password"
+msgstr ""
+
+#: 404.php:35
+msgid "Error 404"
+msgstr ""
+
+#: inc/kirki-customizer.php:1199
+msgid "Error Image"
+msgstr ""
+
+#: inc/kirki-customizer.php:1241
+msgid "Error Link Text"
+msgstr ""
+
+#: tutor/dashboard/assignments/submitted.php:100
+msgid "Evaluate"
+msgstr ""
+
+#: tutor/dashboard/assignments/review.php:141
+msgid "Evaluate mark can not be greater than total mark"
+msgstr ""
+
+#. %s: max mark
+#: tutor/dashboard/assignments/review.php:145
+#, php-format
+msgid "Evaluate this assignment out of %s"
+msgstr ""
+
+#: tutor/dashboard/assignments/review.php:160
+msgid "Evaluate this submission"
+msgstr ""
+
+#: tutor/dashboard/assignments/review.php:131
+msgid "Evaluation"
+msgstr ""
+
+#: inc/common/edcare-etn-breadcrumb.php:41
+msgid "Event"
+msgstr ""
+
+#: inc/kirki-customizer.php:2040
+msgid "Event Calendar On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:2039
+msgid "Event Calendar Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:2026
+msgid "Event Description On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:2025
+msgid "Event Description Switch"
+msgstr ""
+
+#: eventin/templates/event-one.php:46
+msgid "Event Details"
+msgstr ""
+
+#: inc/common/edcare-etn-breadcrumb.php:50
+msgid "Event Expired"
+msgstr ""
+
+#: inc/add_plugin.php:69
+msgid "Event Manager"
+msgstr ""
+
+#: inc/kirki-customizer.php:2004
+msgid "Event Settings"
+msgstr ""
+
+#: eventin/templates/event-one.php:195
+msgid "Event Speakers"
+msgstr ""
+
+#: tutor/single/lesson/content.php:136 tutor/single/lesson/content.php:178
+msgid "Exercise Files"
+msgstr ""
+
+#: tutor/single/assignment/content.php:146
+#: tutor/single/course/course-topics.php:115
+msgid "Expired"
+msgstr ""
+
+#: eventin/templates/event/archive/thumbnail-content.php:19
+msgid "Expired!"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:168 tutor/dashboard/dashboard.php:182
+#: tutor/dashboard/dashboard.php:197 tutor/dashboard/dashboard.php:215
+#: tutor/dashboard/dashboard.php:228 tutor/dashboard/dashboard.php:241
+msgid "fact-icon"
+msgstr ""
+
+#: tutor/views/quiz/attempt-details.php:308
+#: tutor/views/quiz/attempt-table.php:191
+msgid "Fail"
+msgstr ""
+
+#: tutor/single/assignment/content.php:468
+msgid "Failed"
+msgstr ""
+
+#: tutor/single/course/reviews.php:108
+msgid "Featured Review"
+msgstr ""
+
+#: tutor/dashboard/reviews.php:62 tutor/dashboard/assignments/review.php:151
+msgid "Feedback"
+msgstr ""
+
+#: tutor/dashboard/reviews/given-reviews.php:61
+msgid "Feedback: "
+msgstr ""
+
+#: tutor/single/assignment/content.php:310
+#: tutor/views/fragments/thumbnail-uploader.php:47
+#: tutor/views/fragments/thumbnail-uploader.php:52
+msgid "File Support: "
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:49
+#: tutor/course-filter/course-archive-filter-bar.php:178
+#: tutor/course-filter/course-archive-filter-bar.php:662
+msgid "Filter"
+msgstr ""
+
+#: tutor/shortcode/instructor-filter.php:45
+msgid "Filters"
+msgstr ""
+
+#: tutor/single/quiz/body.php:73
+msgid "Finish"
+msgstr ""
+
+#: tutor/dashboard/my-profile.php:29 tutor/dashboard/registration.php:61
+#: tutor/dashboard/registration.php:62
+#: tutor/dashboard/instructor/registration.php:58
+#: tutor/dashboard/instructor/registration.php:61
+#: tutor/dashboard/settings/profile.php:125
+#: tutor/dashboard/settings/profile.php:127
+msgid "First Name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:28
+msgid "First name"
+msgstr ""
+
+#: inc/kirki-customizer.php:2263 inc/tp-metabox.php:225
+msgid "Footer"
+msgstr ""
+
+#: inc/common/edcare-widgets.php:43
+#, php-format
+msgid "Footer %1$s"
+msgstr ""
+
+#: inc/tp-metabox.php:245
+msgid "Footer 1"
+msgstr ""
+
+#: inc/common/edcare-widgets.php:45
+#, php-format
+msgid "Footer column %1$s"
+msgstr ""
+
+#: inc/kirki-customizer.php:2354
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/kirki-customizer.php:2290
+msgid "Footer Custom/Elementor On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:2289
+msgid "Footer Custom/Elementor Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:2303
+msgid "Footer Layout Control"
+msgstr ""
+
+#: inc/kirki-customizer.php:2264
+msgid "Footer Settings."
+msgstr ""
+
+#: inc/kirki-customizer.php:2273
+msgid "Footer Widget Number"
+msgstr ""
+
+#: tutor/login-form.php:107 woocommerce/myaccount/form-login.php:124
+msgid "Forgot Password?"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:36
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:64
+#: tutor/course-filter/filters.php:15 tutor/dashboard/my-courses.php:153
+#: tutor/loop/course-in-cart.php:19
+#: tutor/single/course/course-entry-box.php:256
+#: tutor/single/course/wc-price-html.php:20
+msgid "Free"
+msgstr ""
+
+#: tutor/single/course/course-entry-box.php:272
+msgid "Free access this course"
+msgstr ""
+
+#: inc/kirki-customizer.php:1877
+msgid "Free Shipping Settings"
+msgstr ""
+
+#: inc/kirki-customizer.php:1878
+msgid "Free Shipping Settings."
+msgstr ""
+
+#: inc/template-helper.php:149 inc/template-helper.php:204
+#: inc/template-helper.php:263 inc/template-helper.php:296
+msgid "French"
+msgstr ""
+
+#: inc/tp-metabox.php:297
+msgid "Full Width"
+msgstr ""
+
+#: tutor/loop/course-price-edd.php:80
+#: tutor/loop/course-price-woocommerce.php:60 tutor/loop/course-price.php:72
+msgid "Fully Booked"
+msgstr ""
+
+#: eventin/templates/archive-event.php:145
+msgid "Get Ticket"
+msgstr ""
+
+#: tutor/dashboard/reviews/given-reviews.php:185
+msgid "Given"
+msgstr ""
+
+#: tutor/dashboard/reviews.php:41 tutor/dashboard/reviews/given-reviews.php:39
+msgid "Given ("
+msgstr ""
+
+#: tutor/views/quiz/contexts.php:98
+msgid "Given Answer"
+msgstr ""
+
+#: tutor/dashboard/instructor/logged-in.php:86
+msgid "Go to Dashboard"
+msgstr ""
+
+#: tutor/dashboard/registration.php:21
+#: tutor/dashboard/instructor/registration.php:22
+msgid "Go to Home"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:125
+msgid "Go To Shop"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:235
+msgid "Good"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: inc/common/edcare-scripts.php:72
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/kirki-customizer.php:1395 inc/kirki-customizer.php:1442
+#: tutor/course-filter/course-archive-filter-bar.php:105
+#: tutor/course-filter/course-archive-filter-bar.php:343
+#: tutor/course-filter/course-archive-filter-bar.php:491
+msgid "Grid"
+msgstr ""
+
+#: inc/kirki-customizer.php:1420
+msgid "Grid List"
+msgstr ""
+
+#: inc/kirki-customizer.php:1807
+msgid "Guaranteed safe & secure checkout"
+msgstr ""
+
+#: inc/kirki-customizer.php:1418
+msgid "Gym"
+msgstr ""
+
+#: inc/kirki-customizer.php:2067
+msgid "H1 Typography Control"
+msgstr ""
+
+#: inc/kirki-customizer.php:2091
+msgid "H2 Typography Control"
+msgstr ""
+
+#: inc/kirki-customizer.php:2115
+msgid "H3 Typography Control"
+msgstr ""
+
+#: inc/kirki-customizer.php:2139
+msgid "H4 Typography Control"
+msgstr ""
+
+#: inc/kirki-customizer.php:2163
+msgid "H5 Typography Control"
+msgstr ""
+
+#: inc/kirki-customizer.php:2187
+msgid "H6 Typography Control"
+msgstr ""
+
+#: inc/tp-metabox.php:133
+msgid "Has Certificate?"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:66 woocommerce/myaccount/orders.php:56
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: inc/tp-metabox.php:175
+msgid "Header"
+msgstr ""
+
+#: inc/tp-metabox.php:152
+msgid "Header & Footer"
+msgstr ""
+
+#: inc/tp-metabox.php:195
+msgid "Header 1"
+msgstr ""
+
+#: inc/kirki-customizer.php:182
+msgid "Header Black Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:140
+msgid "Header Cart On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:139
+msgid "Header Cart Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:60
+msgid "Header Custom/Elementor On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:59
+msgid "Header Custom/Elementor Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:153
+msgid "Header Hamburger On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:152
+msgid "Header Hamburger Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:171
+msgid "Header Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:172
+msgid "Header Logo Settings."
+msgstr ""
+
+#: inc/kirki-customizer.php:50
+msgid "Header Main Controls."
+msgstr ""
+
+#: inc/kirki-customizer.php:49
+msgid "Header Main Settings"
+msgstr ""
+
+#: inc/kirki-customizer.php:126
+msgid "Header Right On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:125
+msgid "Header Right Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:30
+msgid "Header Sticky On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:29
+msgid "Header Sticky Switcher"
+msgstr ""
+
+#: inc/kirki-customizer.php:191
+msgid "Header White Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:299 template-parts/offcanvas/offcanvas-1.php:15
+msgid "Hello There!"
+msgstr ""
+
+#. %s: user login
+#: tutor/email/send-reset-password.php:19
+#, php-format
+msgid "Hi %s,"
+msgstr ""
+
+#: tutor/login.php:35
+msgid "Hi, Welcome back!"
+msgstr ""
+
+#: inc/kirki-customizer.php:556 inc/kirki-customizer.php:1682
+#: inc/kirki-customizer.php:1697 inc/kirki-customizer.php:1712
+#: inc/kirki-customizer.php:1727
+msgid "Hide"
+msgstr ""
+
+#: inc/class-navwalker.php:383
+msgid "Home"
+msgstr ""
+
+#: tutor/single/quiz/top.php:75
+msgid "Hour"
+msgstr ""
+
+#: inc/common/edcare-etn-breadcrumb.php:57
+#: tutor/single/assignment/content.php:63 tutor/single/quiz/top.php:75
+msgid "Hours"
+msgstr ""
+
+#: tutor/single-course.php:237
+msgid "Hours of classes"
+msgstr ""
+
+#: tutor/dashboard/reviews/given-reviews.php:125
+#: tutor/dashboard/reviews/given-reviews.php:252
+msgid "How would you rate this course?"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/theme_pure/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wp.themepure.net/edcare/"
+msgstr ""
+
+#: tutor/email/send-reset-password.php:37
+msgid ""
+"If you didn't make this request, just ignore this email. If you'd like to "
+"proceed:"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:33
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing section."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid ""
+"If you've lost your password, don't worry. Simply provide your username or "
+"email address below, and we'll assist you in creating a new one."
+msgstr ""
+
+#: inc/template-functions.php:87
+msgid "Image Alt Text"
+msgstr ""
+
+#: tutor/course-embed.php:102 tutor/loop/course-author.php:36
+msgid "In"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:264
+msgid "In Progress Courses"
+msgstr ""
+
+#: inc/woocommerce/single/product-single.php:51
+msgid "In Stock"
+msgstr ""
+
+#: tutor/views/quiz/attempt-details.php:709
+msgid "Incorrect"
+msgstr ""
+
+#: tutor/views/quiz/contexts.php:22 tutor/views/quiz/contexts.php:73
+msgid "Incorrect Answer"
+msgstr ""
+
+#: inc/kirki-customizer.php:1964
+msgid "Initial Message"
+msgstr ""
+
+#: inc/template-helper.php:1003
+msgid "Instagram"
+msgstr ""
+
+#: inc/add_plugin.php:111
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/add_plugin.php:110
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/add_plugin.php:112
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: tutor/course-filter/filters.php:159 tutor/dashboard/question-answer.php:63
+msgid "Instructor"
+msgstr ""
+
+#: tutor/dashboard/instructor/apply_for_instructor.php:22
+msgid "Instructor Application"
+msgstr ""
+
+#: tutor/dashboard/instructor/logged-in.php:53
+msgid "Instructor Application Received"
+msgstr ""
+
+#: tutor/instructor/cover.php:16
+msgid "Instructor Cover Photo"
+msgstr ""
+
+#: tutor/single/assignment/content.php:491
+#: tutor/views/quiz/attempt-details.php:331
+msgid "Instructor Note"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:243
+msgid "Instructors"
+msgstr ""
+
+#: eventin/templates/archive-event.php:21
+msgid "It looks like nothing was found here. Maybe try a search?"
+msgstr ""
+
+#: tutor/single/quiz/no_course_belongs.php:16
+msgid ""
+"It seems there is no course belongs with this quiz, you can not attempt on "
+"this quiz without a course belongs, please notify to your instructor to fix "
+"this issue."
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: tutor/single/lesson/comment.php:73
+msgid "Join the conversation"
+msgstr ""
+
+#: inc/add_plugin.php:64
+msgid "Kirki Customizer Framework"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:48 woocommerce/order/tracking.php:47
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:299
+msgid "label-danger"
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:289
+msgid "label-success"
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:294
+msgid "label-warning"
+msgstr ""
+
+#: inc/tp-metabox.php:126 tutor/single-course.php:270
+#: tutor/single-course.php:656
+msgid "Language"
+msgstr ""
+
+#: inc/template-helper.php:230
+msgid "language"
+msgstr ""
+
+#: tutor/dashboard/my-profile.php:30 tutor/dashboard/registration.php:68
+#: tutor/dashboard/registration.php:69
+#: tutor/dashboard/instructor/registration.php:68
+#: tutor/dashboard/instructor/registration.php:71
+#: tutor/dashboard/settings/profile.php:132
+#: tutor/dashboard/settings/profile.php:134
+msgid "Last Name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:32
+msgid "Last name"
+msgstr ""
+
+#: tutor/single-course.php:494 tutor/single/course/course-entry-box.php:44
+#: tutor/single/course/course-entry-box.php:45
+msgid "Last Updated"
+msgstr ""
+
+#: tutor/single-course.php:173
+msgid "Last updated"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:196
+#: tutor/course-filter/course-archive-filter-bar.php:403
+#: tutor/dashboard/assignments/submitted.php:65
+msgid "Latest"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:179
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: tutor/single-course.php:228 tutor/single-course.php:592
+msgid "Lectures"
+msgstr ""
+
+#: inc/kirki-customizer.php:862
+msgid "Left"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:294
+msgid "lesson"
+msgid_plural "lessons"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tutor/single-course.php:244
+#: tutor/course-filter/course-archive-filter-bar.php:286
+#: tutor/course-filter/filters.php:94
+#: tutor/single/course/course-entry-box.php:55
+msgid "Level"
+msgstr ""
+
+#: inc/kirki-customizer.php:1396 inc/kirki-customizer.php:1443
+#: tutor/course-filter/course-archive-filter-bar.php:121
+#: tutor/course-filter/course-archive-filter-bar.php:359
+#: tutor/course-filter/course-archive-filter-bar.php:507
+msgid "List"
+msgstr ""
+
+#: inc/kirki-customizer.php:1444
+msgid "List Grid"
+msgstr ""
+
+#: tutor/single/course/course-topics.php:117
+msgid "Live"
+msgstr ""
+
+#: tutor/single/course/reviews.php:142 tutor/single/lesson/comment.php:39
+#: tutor/single/course/enrolled/question_and_answer.php:67
+msgid "Load More"
+msgstr ""
+
+#: header.php:33 inc/kirki-customizer.php:457
+msgid "Loading"
+msgstr ""
+
+#: eventin/templates/event-one.php:146
+msgid "Location"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:133
+msgid "Log in"
+msgstr ""
+
+#: inc/template-helper.php:1248 woocommerce/myaccount/form-lost-password.php:53
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:38
+msgid "Login to your account"
+msgstr ""
+
+#: inc/tp-metabox.php:161
+msgid "Logo Black"
+msgstr ""
+
+#: inc/tp-metabox.php:168
+msgid "Logo White"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:57
+msgid "Logout"
+msgstr ""
+
+#: inc/kirki-customizer.php:316 template-parts/offcanvas/offcanvas-1.php:16
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, "
+msgstr ""
+
+#: tutor/template-part/retrieve-password.php:29
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: functions.php:49
+msgid "Main Menu"
+msgstr ""
+
+#: tutor/single/lesson/complete_form.php:29
+msgid "Mark as Complete"
+msgstr ""
+
+#: tutor/views/quiz/attempt-details.php:720
+msgid "Mark as correct"
+msgstr ""
+
+#: tutor/views/quiz/attempt-details.php:724
+msgid "Mark as In correct"
+msgstr ""
+
+#: tutor/single/quiz/parts/question.php:117
+msgid "Marks : "
+msgstr ""
+
+#: tutor/single/course/course-benefits.php:48
+#: tutor/single/course/material-includes.php:24
+msgid "Material Includes"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:31
+#: woocommerce/content-widget-price-filter.php:33
+msgid "Max price"
+msgstr ""
+
+#: tutor/single/assignment/content.php:319
+msgid "MB"
+msgstr ""
+
+#: tutor/dashboard.php:60
+msgid "Menu"
+msgstr ""
+
+#: inc/kirki-customizer.php:1984
+msgid "Message to show after reaching 100%."
+msgstr ""
+
+#: inc/kirki-customizer.php:1967
+msgid ""
+"Message to show before reaching the goal. Use shortcode [remainder] to "
+"display the amount left to reach the minimum."
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:27
+#: woocommerce/content-widget-price-filter.php:29
+msgid "Min price"
+msgstr ""
+
+#: tutor/dashboard/settings/withdraw-settings.php:53
+msgid "Min withdraw"
+msgstr ""
+
+#: tutor/views/quiz/attempt-details.php:232
+msgid "min-width:180px"
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:184
+msgid "Minimum withdraw amount is"
+msgstr ""
+
+#: tutor/single/quiz/top.php:74
+msgid "Minute"
+msgstr ""
+
+#: inc/common/edcare-etn-breadcrumb.php:58 tutor/single/quiz/top.php:74
+msgid "Minutes"
+msgstr ""
+
+#: inc/kirki-customizer.php:667
+msgid "Mobile"
+msgstr ""
+
+#: tutor/dashboard/purchase_history.php:49
+msgid "Monthly"
+msgstr ""
+
+#: tutor/dashboard/enrolled-courses.php:72
+#: tutor/dashboard/settings/nav-bar.php:54
+#: tutor/single/course/enrolled/nav.php:32
+msgid "More"
+msgstr ""
+
+#: tutor/dashboard/my-courses.php:239
+msgid "Move to Draft"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:115
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "My account"
+msgstr ""
+
+#: inc/template-helper.php:1252 tutor/dashboard.php:48
+#: tutor/dashboard/dashboard.php:327 tutor/dashboard/my-courses.php:47
+msgid "My Courses"
+msgstr ""
+
+#: tutor/public-profile.php:188
+msgid "My Popular Courses"
+msgstr ""
+
+#: inc/template-helper.php:1250 tutor/dashboard/my-profile.php:43
+msgid "My Profile"
+msgstr ""
+
+#: tutor/dashboard/my-quiz-attempts.php:36
+msgid "My Quiz Attempts"
+msgstr ""
+
+#: inc/template-helper.php:1256
+msgid "My quiz attempts"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:38
+msgid "N/A"
+msgstr ""
+
+#: tutor/single/assignment/content.php:151
+msgid "N\\A"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:192
+msgid "Name"
+msgstr ""
+
+#: inc/common/comments-form-list.php:17
+msgid "Name*"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:108
+#: woocommerce/myaccount/my-address.php:207
+#: woocommerce/order/order-details-customer.php:54
+#: woocommerce/order/order-details-customer.php:123
+msgid "Name:"
+msgstr ""
+
+#: woocommerce/order/order-downloads.php:62
+msgid "Never"
+msgstr ""
+
+#: tutor/shortcode/instructor-filter.php:19
+msgid "New"
+msgstr ""
+
+#: tutor/dashboard/settings/reset-password.php:40
+msgid "New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:28
+#: woocommerce/myaccount/form-reset-password.php:78
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:56
+msgid "New password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:60
+msgid ""
+"New payment methods can only be added during checkout. Please contact us if "
+"you require assistance."
+msgstr ""
+
+#: comments.php:31 tutor/single/next-previous-pagination.php:25
+#: woocommerce/myaccount/orders.php:104 tutor/single/common/footer.php:40
+msgid "Next"
+msgstr ""
+
+#: inc/kirki-customizer.php:571 inc/kirki-customizer.php:585
+#: inc/kirki-customizer.php:1379 inc/kirki-customizer.php:1485
+#: tutor/single-course.php:262 tutor/views/quiz/contexts.php:95
+msgid "No"
+msgstr ""
+
+#: inc/add_plugin.php:163
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: tutor/global/attachments.php:45
+msgid "No Attachment Found"
+msgstr ""
+
+#: tutor/dashboard/announcements.php:102 tutor/dashboard/assignments.php:51
+#: tutor/dashboard/announcements/create.php:41
+#: tutor/dashboard/announcements/update.php:42
+#: tutor/dashboard/elements/filters.php:39
+#: tutor/views/fragments/announcement-list.php:64
+msgid "No course found"
+msgstr ""
+
+#: tutor/single/quiz/no_course_belongs.php:15
+msgid "No course found for this quiz"
+msgstr ""
+
+#: tutor/profile/courses_taken.php:49
+msgid "No course yet."
+msgstr ""
+
+#: tutor/single/lesson/sidebar_question_and_answer.php:43
+msgid "No Data Available in this Section"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:52
+msgid "No downloads available yet."
+msgstr ""
+
+#: tutor/dashboard/assignments/submitted.php:26
+msgid "No Limit"
+msgstr ""
+
+#: tutor/single/assignment/content.php:137 tutor/single/quiz/parts/meta.php:41
+msgid "No limit"
+msgstr ""
+
+#: template-parts/blog/blog-single-navigation.php:76
+msgid "No Next Post Available"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:111
+msgid "No order has been made yet."
+msgstr ""
+
+#: template-parts/blog/blog-single-navigation.php:30
+msgid "No Previous Post Available"
+msgstr ""
+
+#: tutor/single/lesson/sidebar_question_and_answer.php:45
+msgid "No questions yet"
+msgstr ""
+
+#: tutor/single/course/reviews.php:63
+msgid "No Review Yet"
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:70
+msgid "No saved methods found."
+msgstr ""
+
+#: inc/kirki-customizer.php:863
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/kirki-customizer.php:1230
+msgid "Not Found description"
+msgstr ""
+
+#: inc/kirki-customizer.php:1210
+msgid "Not Found Title"
+msgstr ""
+
+#: eventin/templates/event-one.php:245
+msgid "Not Speaker Found For This Event!"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:237
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/order/order-details.php:106
+msgid "Note:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: eventin/templates/archive-event.php:20
+msgid "Nothing found!"
+msgstr ""
+
+#: tutor/dashboard/announcements.php:78
+msgid "Notify all students of your course"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:292 tutor/views/elements/pagination.php:20
+msgid "of"
+msgstr ""
+
+#: tutor/single/common/header.php:73
+msgid "of "
+msgstr ""
+
+#: inc/kirki-customizer.php:314
+msgid "Offcanvas Content"
+msgstr ""
+
+#: inc/kirki-customizer.php:284
+msgid "Offcanvas Content On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:283
+msgid "Offcanvas Content Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:239
+msgid "Offcanvas Controls."
+msgstr ""
+
+#: inc/kirki-customizer.php:248
+msgid "Offcanvas Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:238
+msgid "Offcanvas Settings"
+msgstr ""
+
+#: inc/kirki-customizer.php:297
+msgid "Offcanvas Title"
+msgstr ""
+
+#: tutor/modal/alert.php:37
+msgid "Ok"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:204
+#: tutor/course-filter/course-archive-filter-bar.php:406
+#: tutor/dashboard/assignments/submitted.php:66
+msgid "Oldest"
+msgstr ""
+
+#: tutor/dashboard/purchase_history.php:134
+msgid "On Hold"
+msgstr ""
+
+#: inc/add_plugin.php:59
+msgid "One Click Demo Import"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:253
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: tutor/dashboard/registration.php:18
+#: tutor/dashboard/instructor/registration.php:19
+msgid "Oooh! Access Denied"
+msgstr ""
+
+#: 404.php:14
+msgid "Oops!"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Order"
+msgstr ""
+
+#. 1: order number 2: order date 3: order status
+#: woocommerce/order/tracking.php:30
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:31
+#, php-format
+msgid "Order %1$s was placed on %2$s and is currently %3$s"
+msgstr ""
+
+#: woocommerce/order/order-again.php:22
+msgid "Order again"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:70
+msgid "Order Date:"
+msgstr ""
+
+#: woocommerce/order/order-details.php:46
+msgid "Order details"
+msgstr ""
+
+#: tutor/dashboard/purchase_history.php:74
+#: tutor/dashboard/purchase_history.php:90
+msgid "Order History"
+msgstr ""
+
+#: tutor/dashboard/purchase_history.php:95
+#: woocommerce/order/form-tracking.php:36
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:87
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:25
+msgid "Order number:"
+msgstr ""
+
+#: woocommerce/myaccount/view-order.php:42 woocommerce/order/tracking.php:41
+msgid "Order updates"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:88
+msgid "Orders"
+msgstr ""
+
+#: inc/woocommerce/single/product-single.php:57
+msgid "Out Of Stock"
+msgstr ""
+
+#: tutor/single/lesson/content.php:127
+msgid "Overview"
+msgstr ""
+
+#: inc/kirki-customizer.php:793
+msgid "Padding"
+msgstr ""
+
+#: template-parts/content-page.php:9 tutor/views/elements/pagination.php:16
+msgid "Page"
+msgstr ""
+
+#: tutor/single-course.php:765
+msgid "Page Link"
+msgstr ""
+
+#: inc/common/edcare-breadcrumb.php:45
+msgid "Page not Found"
+msgstr ""
+
+#. Name of the template
+#: page-sidebar.php:3
+msgid "Page Sidebar"
+msgstr ""
+
+#: template-parts/content-page.php:5 template-parts/content-search.php:32
+#: template-parts/content.php:29
+msgid "Pages:"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:65
+#: tutor/course-filter/filters.php:16
+msgid "Paid"
+msgstr ""
+
+#: inc/kirki-customizer.php:2235
+msgid "Paragraph Typography Control"
+msgstr ""
+
+#: tutor/views/quiz/attempt-details.php:306
+#: tutor/views/quiz/attempt-table.php:189
+msgid "Pass"
+msgstr ""
+
+#: tutor/single/assignment/content.php:431 tutor/views/quiz/contexts.php:71
+msgid "Pass Marks"
+msgstr ""
+
+#: tutor/dashboard/assignments/submitted.php:55
+msgid "Pass Points"
+msgstr ""
+
+#: tutor/single/assignment/content.php:464
+msgid "Passed"
+msgstr ""
+
+#: tutor/single/quiz/top.php:103
+msgid "Passing Grade"
+msgstr ""
+
+#: tutor/single/assignment/content.php:166
+msgid "Passing Mark:"
+msgstr ""
+
+#: tutor/views/quiz/header-context/course-single-previous-attempts.php:59
+msgid "Passing Marks:"
+msgstr ""
+
+#: tutor/login-form.php:65 tutor/login-form.php:67
+#: tutor/dashboard/registration.php:97 tutor/dashboard/registration.php:98
+#: tutor/template-part/form-retrieve-password.php:36
+#: woocommerce/myaccount/form-login.php:59
+#: woocommerce/myaccount/form-login.php:66
+#: woocommerce/myaccount/form-login.php:189
+#: woocommerce/myaccount/form-login.php:194
+#: tutor/dashboard/instructor/registration.php:107
+#: tutor/dashboard/instructor/registration.php:110
+#: tutor/dashboard/settings/nav-bar.php:25
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:49
+msgid "Password change"
+msgstr ""
+
+#: tutor/dashboard/registration.php:118
+#: tutor/dashboard/instructor/registration.php:133
+msgid "Password Confirmation"
+msgstr ""
+
+#: tutor/dashboard/registration.php:117
+#: tutor/dashboard/instructor/registration.php:128
+msgid "Password confirmation"
+msgstr ""
+
+#: woocommerce/myaccount/lost-password-confirmation.php:20
+msgid "Password reset email has been sent."
+msgstr ""
+
+#: tutor/dashboard/purchase_history.php:199
+#: woocommerce/checkout/thankyou.php:38
+msgid "Pay"
+msgstr ""
+
+#: inc/kirki-customizer.php:1823
+msgid "Payment Image"
+msgstr ""
+
+#: inc/kirki-customizer.php:1824
+msgid "Payment Image add/remove"
+msgstr ""
+
+#: inc/kirki-customizer.php:1790
+msgid "Payment Info On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:1789
+msgid "Payment Info Switch"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:96
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:38
+msgid "Payment method:"
+msgstr ""
+
+#: inc/kirki-customizer.php:1805
+msgid "Payment Text"
+msgstr ""
+
+#: inc/woocommerce/tp-woocommerce.php:461
+msgid "payment-img"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:153 tutor/dashboard/my-courses.php:58
+#: tutor/dashboard/purchase_history.php:146
+#: tutor/single/assignment/content.php:475
+#: tutor/views/quiz/attempt-details.php:304
+#: tutor/views/quiz/attempt-details.php:705
+#: tutor/views/quiz/attempt-table.php:185
+msgid "Pending"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:234
+msgid "Perfect"
+msgstr ""
+
+#: tutor/permission-denied.php:25 tutor/single/lesson/required-enroll.php:15
+msgid "Permission Denied"
+msgstr ""
+
+#: tutor/dashboard/my-profile.php:33 tutor/dashboard/settings/profile.php:148
+#: tutor/dashboard/settings/profile.php:150
+msgid "Phone Number"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:117
+#: woocommerce/myaccount/my-address.php:212
+#: woocommerce/order/order-details-customer.php:63
+#: woocommerce/order/order-details-customer.php:128
+msgid "Phone number:"
+msgstr ""
+
+#: inc/common/comments-form-list.php:84
+msgid "Pingback:"
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:82
+#: tutor/dashboard/settings/profile.php:83
+msgid "pixels"
+msgstr ""
+
+#: inc/tp-metabox.php:358
+msgid "Place your audio url.."
+msgstr ""
+
+#: inc/tp-metabox.php:339
+msgid "Place your video url."
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:152
+msgid ""
+"Please check your transaction notification on your connected withdrawal "
+"method"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:59
+msgid "Please complete profile"
+msgstr ""
+
+#: inc/add_plugin.php:168
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: tutor/dashboard/instructor/logged-in.php:79
+msgid "Please contact the site administrator for further information."
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:38
+msgid "Please contact the site administrator for more information."
+msgstr ""
+
+#: tutor/global/alert.php:27
+msgid "Please define alert class"
+msgstr ""
+
+#: tutor/single/lesson/required-enroll.php:16
+msgid "Please enroll in this course to view course content."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: tutor/single/course/add-to-cart-edd.php:20
+msgid "Please make sure that your EDD product exists and valid for this course"
+msgstr ""
+
+#: tutor/single/course/add-to-cart-woocommerce.php:88
+msgid "Please make sure that your product exists and valid for this course"
+msgstr ""
+
+#: tutor/permission-denied.php:29
+msgid ""
+"Please make sure you are logged in to correct account if the content needs "
+"authorization."
+msgstr ""
+
+#: inc/add_plugin.php:161
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/add_plugin.php:164
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: tutor/shortcode/instructor-filter.php:20
+msgid "Popular"
+msgstr ""
+
+#: inc/kirki-customizer.php:2453
+msgid "Portfolios Slug"
+msgstr ""
+
+#: inc/kirki-customizer.php:1109
+msgid "Post Box Social On/Off"
+msgstr ""
+
+#: comments.php:55
+msgid "Post Comment"
+msgstr ""
+
+#: inc/tp-metabox.php:283
+msgid "Post Single Layout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:87
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:86
+msgid "Postcode / ZIP:"
+msgstr ""
+
+#: inc/kirki-customizer.php:415
+msgid "Preloader Controls."
+msgstr ""
+
+#: inc/kirki-customizer.php:455
+msgid "Preloader Loading Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:438
+msgid "Preloader Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:425
+msgid "Preloader On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:414
+msgid "Preloader Settings"
+msgstr ""
+
+#: inc/kirki-customizer.php:424
+msgid "Preloader Switch"
+msgstr ""
+
+#: template-parts/blog/blog-single-navigation.php:20
+msgid "PREVIOUS"
+msgstr ""
+
+#: comments.php:30 tutor/single/next-previous-pagination.php:18
+#: woocommerce/myaccount/orders.php:100 tutor/single/common/footer.php:34
+msgid "Previous"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:265
+#: tutor/course-filter/filters.php:137 tutor/dashboard/purchase_history.php:104
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:92
+msgid "Price"
+msgstr ""
+
+#. Filter: verb "to filter"
+#: woocommerce/content-widget-price-filter.php:46
+msgid "Price:"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr ""
+
+#: tutor/dashboard/purchase_history.php:130
+#: tutor/dashboard/purchase_history.php:138
+msgid "Processing"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:70
+#: woocommerce/checkout/form-pay.php:28
+#: woocommerce/checkout/review-order.php:23
+#: woocommerce/order/order-details.php:53
+msgid "Product"
+msgstr ""
+
+#: inc/kirki-customizer.php:1737
+msgid "Product Compare On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:1736
+msgid "Product Compare Switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:1778
+msgid "Product Message"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:48
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/common/edcare-widgets.php:28
+msgid "Product Sidebar"
+msgstr ""
+
+#: inc/kirki-customizer.php:1767
+msgid "product Single Repeater Control"
+msgstr ""
+
+#: inc/kirki-customizer.php:1753
+msgid "Product Social On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:1752
+msgid "Product Social Switch"
+msgstr ""
+
+#: tutor/dashboard/settings/nav-bar.php:20
+msgid "Profile"
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:82
+msgid "Profile Photo Size"
+msgstr ""
+
+#: tutor/dashboard/my-courses.php:52 tutor/dashboard/my-courses.php:198
+#: tutor/dashboard/announcements/create.php:64
+#: tutor/views/fragments/announcement-list.php:91
+msgid "Publish"
+msgstr ""
+
+#: tutor/dashboard/announcements/details.php:35
+msgid "Publish Date"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:152
+msgid "Published"
+msgstr ""
+
+#: tutor/views/fragments/announcement-list.php:157
+msgid "Published Date"
+msgstr ""
+
+#: tutor/loop/add-to-cart-edd.php:26
+msgid "Purchase"
+msgstr ""
+
+#: inc/template-helper.php:1257
+msgid "Purchase History"
+msgstr ""
+
+#: inc/add_plugin.php:49
+msgid "Pure Metafields"
+msgstr ""
+
+#: tutor/dashboard.php:54
+msgid "Q&A"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:29
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:98
+#: woocommerce/single-product/add-to-cart/simple.php:34
+#: woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php:20
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity s"
+msgstr ""
+
+#: tutor/views/quiz/contexts.php:19 tutor/views/quiz/contexts.php:67
+msgid "Question"
+msgstr ""
+
+#: inc/template-helper.php:1258 tutor/dashboard/question-answer.php:53
+#: tutor/single/course/enrolled/question_and_answer.php:114
+msgid "Question & Answer"
+msgstr ""
+
+#: tutor/single/quiz/top.php:60 tutor/views/quiz/contexts.php:97
+msgid "Questions"
+msgstr ""
+
+#: tutor/single/quiz/parts/meta.php:22
+msgid "Questions No"
+msgstr ""
+
+#: tutor/views/quiz/header-context/course-single-previous-attempts.php:38
+msgid "Questions:"
+msgstr ""
+
+#: inc/woocommerce/product-action.php:16
+msgid "Quick View"
+msgstr ""
+
+#: tutor/single/quiz/top.php:43
+#: tutor/views/quiz/header-context/course-single-previous-attempts.php:28
+msgid "Quiz"
+msgstr ""
+
+#: tutor/dashboard.php:54 tutor/dashboard/quiz-attempts.php:31
+msgid "Quiz Attempts"
+msgstr ""
+
+#: inc/template-helper.php:1261
+msgid "Quiz attempts"
+msgstr ""
+
+#: tutor/views/quiz/contexts.php:17
+msgid "Quiz Info"
+msgstr ""
+
+#: tutor/views/quiz/attempt-details.php:341
+msgid "Quiz Overview"
+msgstr ""
+
+#: tutor/single/quiz/top.php:81 tutor/views/quiz/contexts.php:68
+msgid "Quiz Time"
+msgstr ""
+
+#: tutor/views/quiz/header-context/frontend-dashboard-my-attempts.php:43
+#: tutor/views/quiz/header-context/frontend-dashboard-students-attempts.php:44
+msgid "Quiz Time:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:233
+msgid "Rate&hellip;"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:351
+msgid "Rating"
+msgstr ""
+
+#: tutor/shortcode/instructor-filter.php:86
+msgid "Ratings"
+msgstr ""
+
+#: tutor/single/course/reviews.php:57
+msgid "Ratings & Reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:34
+#: woocommerce/myaccount/form-reset-password.php:132
+msgid "Re-enter new password"
+msgstr ""
+
+#: tutor/dashboard/settings/reset-password.php:70
+msgid "Re-type New Password"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: tutor/single/quiz/parts/meta.php:106
+msgid "Reattempt"
+msgstr ""
+
+#: tutor/dashboard/reviews/given-reviews.php:182
+msgid "Received"
+msgstr ""
+
+#: tutor/dashboard/reviews.php:35 tutor/dashboard/reviews/given-reviews.php:33
+msgid "Received ("
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:40
+msgid "Recent orders"
+msgstr ""
+
+#: tutor/dashboard/registration.php:149
+#: woocommerce/myaccount/form-login.php:251
+msgid "Register"
+msgstr ""
+
+#: tutor/dashboard/instructor/registration.php:164
+msgid "Register as instructor"
+msgstr ""
+
+#: tutor/login.php:45
+msgid "Register Now"
+msgstr ""
+
+#: tutor/dashboard/my-profile.php:28
+msgid "Registration Date"
+msgstr ""
+
+#: inc/kirki-customizer.php:1339
+msgid "Related Course Description"
+msgstr ""
+
+#: inc/kirki-customizer.php:1329
+msgid "Related Course Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:1331 tutor/single-course.php:90
+msgid "Related Courses"
+msgstr ""
+
+#: inc/kirki-customizer.php:1158
+msgid "Related Post For Single On/Off"
+msgstr ""
+
+#: template-parts/blog/blog-single-related.php:12
+msgid "Related Posts"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related Products"
+msgstr ""
+
+#: tutor/shortcode/instructor-filter.php:18
+msgid "Relevant"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:120
+msgid "Remember Me"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:53
+msgid "Remember Password?"
+msgstr ""
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:131
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/cart/cart.php:133 woocommerce/cart/mini-cart.php:77
+msgid "Remove this item"
+msgstr ""
+
+#: tutor/dashboard/question-answer/answers.php:107
+#: tutor/single/lesson/comments-loop.php:38
+#: tutor/single/lesson/comments-loop.php:88
+msgid "Reply"
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:231
+msgid "Requested On"
+msgstr ""
+
+#: tutor/single/course/course-requirements.php:25
+msgid "Requirements"
+msgstr ""
+
+#: inc/template-helper.php:1249 woocommerce/myaccount/form-lost-password.php:49
+#: tutor/dashboard/settings/reset-password.php:92
+msgid "Reset Password"
+msgstr ""
+
+#: inc/template-helper.php:1262
+#: tutor/template-part/form-retrieve-password.php:59
+#: tutor/template-part/retrieve-password.php:47
+#: tutor/template-part/retrieve-password.php:48
+#: woocommerce/myaccount/form-lost-password.php:49
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:29
+#: woocommerce/myaccount/form-reset-password.php:67
+msgid "Reset your password"
+msgstr ""
+
+#: tutor/dashboard/assignments/submitted.php:86
+#: tutor/single/assignment/content.php:437 tutor/views/quiz/contexts.php:24
+#: tutor/views/quiz/contexts.php:75 tutor/views/quiz/contexts.php:100
+msgid "Result"
+msgstr ""
+
+#: tutor/single/course/course-entry-box.php:132
+msgid "Retake This Course"
+msgstr ""
+
+#: inc/add_plugin.php:160
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:38
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: tutor/views/quiz/attempt-table.php:208 tutor/views/quiz/contexts.php:101
+msgid "Review"
+msgstr ""
+
+#: tutor/single/course/reviews.php:175
+msgid "Review Content"
+msgstr ""
+
+#: tutor/loop/course-continue.php:45
+#: tutor/single/course/course-entry-box.php:162
+msgid "Review Progress"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:177
+msgid "Review this product"
+msgstr ""
+
+#: inc/template-helper.php:1255 woocommerce/single-product-reviews.php:128
+#: tutor/dashboard/reviews.php:29 tutor/dashboard/reviews/given-reviews.php:27
+#: tutor/dashboard/reviews/given-reviews.php:177
+msgid "Reviews"
+msgstr ""
+
+#: inc/kirki-customizer.php:861
+msgid "Right"
+msgstr ""
+
+#: inc/kirki-customizer.php:1200
+msgid "rror Image Here"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:27
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/form-reset-password.php:51
+#: woocommerce/myaccount/form-reset-password.php:196
+#: woocommerce/myaccount/form-reset-password.php:196
+msgid "Save"
+msgstr ""
+
+#: tutor/login-form.php:102
+msgid "Save account"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:48
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:70
+msgid "Save changes"
+msgstr ""
+
+#: comments.php:63
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: tutor/dashboard/settings/withdraw-settings.php:146
+msgid "Save Withdrawal Account"
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:84
+msgid "Saving..."
+msgstr ""
+
+#: inc/kirki-customizer.php:1419
+msgid "School"
+msgstr ""
+
+#: functions.php:290
+msgid "Search"
+msgstr ""
+
+#: tutor/shortcode/instructor-filter.php:109
+msgid "Search any instructor..."
+msgstr ""
+
+#: inc/common/edcare-breadcrumb.php:276
+msgid "Search by :"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:141
+#: tutor/course-filter/course-archive-filter-bar.php:378
+#: tutor/course-filter/course-archive-filter-bar.php:526
+#: tutor/course-filter/filters.php:37
+msgid "Search Courses..."
+msgstr ""
+
+#: inc/common/edcare-breadcrumb.php:267
+msgid "Search for product..."
+msgstr ""
+
+#: inc/common/edcare-breadcrumb.php:43
+msgid "Search Results for : "
+msgstr ""
+
+#: search.php:26
+msgid "Search Results For:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:30
+msgid "Search..."
+msgstr ""
+
+#: tutor/single/quiz/top.php:73
+msgid "Second"
+msgstr ""
+
+#: inc/common/edcare-etn-breadcrumb.php:59 tutor/single/quiz/top.php:73
+msgid "Seconds"
+msgstr ""
+
+#: inc/tp-metabox.php:51
+msgid "Select a breadcrumb"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:32
+msgid "Select a country / region&hellip;"
+msgstr ""
+
+#: inc/tp-metabox.php:247
+msgid "Select a footer"
+msgstr ""
+
+#: inc/tp-metabox.php:197
+msgid "Select a header"
+msgstr ""
+
+#: inc/tp-metabox.php:66 inc/tp-metabox.php:213 inc/tp-metabox.php:263
+msgid "Select a template"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:58
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:436
+msgid "Select Author"
+msgstr ""
+
+#: inc/tp-metabox.php:45
+msgid "Select Breadcrumb Style"
+msgstr ""
+
+#: inc/tp-metabox.php:63
+msgid "Select Breadcrumb Template"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:421
+msgid "Select Category"
+msgstr ""
+
+#: inc/kirki-customizer.php:871
+msgid "Select Color/Image"
+msgstr ""
+
+#: inc/kirki-customizer.php:1526
+msgid "Select Column LG"
+msgstr ""
+
+#: inc/kirki-customizer.php:1556
+msgid "Select Column MD"
+msgstr ""
+
+#: inc/kirki-customizer.php:1586
+msgid "Select Column SM"
+msgstr ""
+
+#: inc/kirki-customizer.php:1495
+msgid "Select Column XL"
+msgstr ""
+
+#: inc/kirki-customizer.php:1616
+msgid "Select Column XS"
+msgstr ""
+
+#: tutor/dashboard/announcements/create.php:31
+#: tutor/dashboard/announcements/update.php:32
+#: tutor/views/fragments/announcement-list.php:54
+msgid "Select Course"
+msgstr ""
+
+#: inc/kirki-customizer.php:1461
+msgid "Select Filter Style"
+msgstr ""
+
+#: inc/tp-metabox.php:241
+msgid "Select Footer Style"
+msgstr ""
+
+#: inc/tp-metabox.php:260
+msgid "Select Footer Template"
+msgstr ""
+
+#: inc/tp-metabox.php:191
+msgid "Select Header Style"
+msgstr ""
+
+#: inc/tp-metabox.php:210
+msgid "Select Header Template"
+msgstr ""
+
+#: inc/woocommerce/tp-woocommerce.php:150
+msgid "Select Options"
+msgstr ""
+
+#: tutor/views/fragments/thumbnail-uploader.php:24
+msgid "Select or Upload Media Of Your Chosen Persuasion"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:448
+msgid "Select Price"
+msgstr ""
+
+#: tutor/dashboard/reviews/given-reviews.php:126
+#: tutor/dashboard/reviews/given-reviews.php:253
+msgid "Select Rating"
+msgstr ""
+
+#: inc/tp-metabox.php:111 inc/tp-metabox.php:291 inc/tp-metabox.php:366
+#: inc/tp-metabox.php:373
+msgid "Select Single Layout"
+msgstr ""
+
+#: inc/kirki-customizer.php:1436
+msgid "Select View Style"
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:161
+msgid "Selected Payment Method"
+msgstr ""
+
+#: inc/kirki-customizer.php:2463
+msgid "Services Slug"
+msgstr ""
+
+#: inc/kirki-customizer.php:1020
+msgid "Set Height"
+msgstr ""
+
+#: inc/kirki-customizer.php:473 inc/kirki-customizer.php:677
+msgid "Set typography for desktop"
+msgstr ""
+
+#: inc/kirki-customizer.php:739
+msgid "Set typography for mobile"
+msgstr ""
+
+#: inc/kirki-customizer.php:708
+msgid "Set typography for tablet"
+msgstr ""
+
+#: tutor/dashboard/notifications/profile-completion.php:27
+msgid "Set Your"
+msgstr ""
+
+#: inc/common/edcare-widgets.php:17
+msgid "Set Your Blog Widget"
+msgstr ""
+
+#: inc/common/edcare-widgets.php:30
+msgid "Set Your Product Widget"
+msgstr ""
+
+#: inc/template-helper.php:1253 tutor/dashboard/settings.php:15
+#: tutor/dashboard/notifications/profile-completion.php:22
+#: tutor/dashboard/settings/reset-password.php:15
+#: tutor/dashboard/settings/social-profile.php:16
+#: tutor/dashboard/settings/withdraw-settings.php:22
+msgid "Settings"
+msgstr ""
+
+#: tutor/single-course.php:762
+msgid "Share Course"
+msgstr ""
+
+#: tutor/single-course.php:774
+msgid "Share On Social Media"
+msgstr ""
+
+#: tutor/single-course.php:748
+msgid "Share this course"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:200
+#: woocommerce/order/order-details-customer.php:119
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:21
+#: woocommerce/myaccount/my-address.php:27
+msgid "Shipping address"
+msgstr ""
+
+#: inc/kirki-customizer.php:1888
+msgid "Shipping Bar On/Off"
+msgstr ""
+
+#: inc/kirki-customizer.php:1887
+msgid "Shipping Bar Switch"
+msgstr ""
+
+#: inc/common/edcare-breadcrumb.php:39
+msgid "Shop"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:33
+msgid "Shop Grid"
+msgstr ""
+
+#: inc/woocommerce/cart-mini.php:47
+msgid "Shopping cart"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:543
+#: tutor/course-filter/course-archive-filter-bar.php:624
+msgid "Shor by: Latest"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:546
+#: tutor/course-filter/course-archive-filter-bar.php:627
+msgid "Shor by: Oldest"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:400
+msgid "SHORT BY"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:434
+msgid "SHORT BY AUTHOR"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:419
+msgid "SHORT BY CATEGORY"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:446
+msgid "SHORT BY PRICE"
+msgstr ""
+
+#: inc/kirki-customizer.php:555 inc/kirki-customizer.php:1681
+#: inc/kirki-customizer.php:1696 inc/kirki-customizer.php:1711
+#: inc/kirki-customizer.php:1726
+msgid "Show"
+msgstr ""
+
+#: inc/tp-metabox.php:20
+msgid "Show Breadcrumb ?"
+msgstr ""
+
+#: inc/kirki-customizer.php:550
+msgid "Show Breadcrumb Globally"
+msgstr ""
+
+#: inc/kirki-customizer.php:579
+msgid "Show Breadcrumb On Single Course ?"
+msgstr ""
+
+#: inc/kirki-customizer.php:565
+msgid "Show Breadcrumb On Single Page ?"
+msgstr ""
+
+#: tutor/shortcode/instructor-filter.php:78
+#: tutor/single/assignment/content.php:392
+#: tutor/single/assignment/content.php:608
+#: tutor/single/course/course-content.php:55
+msgid "Show More"
+msgstr ""
+
+#: inc/kirki-customizer.php:1373
+msgid "Show View Switcher?"
+msgstr ""
+
+#: inc/kirki-customizer.php:1676
+msgid "Show/Hide Product Category "
+msgstr ""
+
+#: inc/kirki-customizer.php:1677
+msgid "Show/Hide Product Category on single page"
+msgstr ""
+
+#: inc/kirki-customizer.php:1691
+msgid "Show/Hide Product SKU "
+msgstr ""
+
+#: inc/kirki-customizer.php:1692
+msgid "Show/Hide Product SKU on single page"
+msgstr ""
+
+#: inc/kirki-customizer.php:1706
+msgid "Show/Hide Product Tag "
+msgstr ""
+
+#: inc/kirki-customizer.php:1707
+msgid "Show/Hide Product Tag on single page"
+msgstr ""
+
+#: inc/kirki-customizer.php:1721
+msgid "Show/Hide Wishlist"
+msgstr ""
+
+#: inc/kirki-customizer.php:1722
+msgid "Show/Hide wishlist on single page"
+msgstr ""
+
+#: inc/kirki-customizer.php:1467
+msgid "Sidebar"
+msgstr ""
+
+#: inc/kirki-customizer.php:856
+msgid "Sidebar Controls"
+msgstr ""
+
+#: tutor/login-form.php:115
+msgid "Sign In"
+msgstr ""
+
+#: inc/kirki-customizer.php:1280
+msgid "Signle Breadcrumb Background"
+msgstr ""
+
+#: inc/kirki-customizer.php:1304
+msgid "Signle Course Background"
+msgstr ""
+
+#. $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: inc/kirki-customizer.php:1129
+msgid "Single Blog Social Share"
+msgstr ""
+
+#: inc/kirki-customizer.php:1265
+msgid "Single Layout"
+msgstr ""
+
+#: tutor/global/attachments.php:30 tutor/dashboard/assignments/review.php:110
+#: tutor/single/assignment/content.php:567
+#: tutor/views/fragments/attachments.php:30
+msgid "Size"
+msgstr ""
+
+#: tutor/single/assignment/content.php:231
+#: tutor/views/fragments/thumbnail-uploader.php:35
+#: tutor/views/fragments/thumbnail-uploader.php:40
+msgid "Size: "
+msgstr ""
+
+#: tutor/single-course.php:632
+msgid "Skill Level"
+msgstr ""
+
+#: tutor/dashboard/my-profile.php:34 tutor/dashboard/settings/profile.php:157
+msgid "Skill/Occupation"
+msgstr ""
+
+#: tutor/single/quiz/parts/question.php:198
+msgid "Skip Question"
+msgstr ""
+
+#: tutor/single/quiz/top.php:127
+msgid "Skip Quiz"
+msgstr ""
+
+#: tutor/single/assignment/content.php:402
+#: tutor/single/assignment/content.php:638
+msgid "Skip To Next"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:37
+msgid "SKU:"
+msgstr ""
+
+#: inc/kirki-customizer.php:2444
+msgid "Slug Settings"
+msgstr ""
+
+#: tutor/dashboard/settings/nav-bar.php:35
+msgid "Social Profile"
+msgstr ""
+
+#: tutor/dashboard/settings/social-profile.php:24
+msgid "Social Profile Link"
+msgstr ""
+
+#. %s: site name
+#: tutor/email/send-reset-password.php:26
+#, php-format
+msgid "Someone has requested a new password for the following account on %s:"
+msgstr ""
+
+#: inc/add_plugin.php:114
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: 404.php:15 inc/kirki-customizer.php:1219
+msgid "Something went Wrong..."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: tutor/dashboard/assignments/review.php:19
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:90
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:22
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: 404.php:17
+msgid "Sorry, we couldn't find your page."
+msgstr ""
+
+#: tutor/dashboard/announcements.php:108 tutor/dashboard/assignments.php:57
+#: tutor/dashboard/question-answer.php:72
+#: tutor/dashboard/elements/filters.php:44
+msgid "Sort By"
+msgstr ""
+
+#: tutor/course-filter/course-archive-filter-bar.php:187
+#: tutor/shortcode/instructor-filter.php:114
+msgid "Sort by"
+msgstr ""
+
+#: tutor/dashboard/assignments/submitted.php:63
+msgid "Sort By:"
+msgstr ""
+
+#: inc/template-helper.php:148 inc/template-helper.php:203
+#: inc/template-helper.php:262 inc/template-helper.php:295
+msgid "Spanish"
+msgstr ""
+
+#: eventin/templates/archive-event.php:125
+msgid "Speaker Img"
+msgstr ""
+
+#: inc/kirki-customizer.php:1271 inc/tp-metabox.php:116 inc/tp-metabox.php:296
+#: inc/tp-metabox.php:378
+msgid "Standard"
+msgstr ""
+
+#: tutor/single/course/reviews.php:90
+msgid "star"
+msgstr ""
+
+#: tutor/single/assignment/content.php:631
+msgid "Start Assignment Submit"
+msgstr ""
+
+#: tutor/dashboard/instructor/logged-in.php:77
+msgid ""
+"Start building your first course today and let your eLearning journey begin."
+msgstr ""
+
+#: eventin/templates/event-one.php:72
+msgid "Start Date"
+msgstr ""
+
+#: tutor/loop/course-continue.php:20 tutor/loop/course-continue.php:40
+#: tutor/single/course/course-entry-box.php:146
+#: tutor/single/course/course-entry-box.php:225
+msgid "Start Learning"
+msgstr ""
+
+#: tutor/single/quiz/previous-attempts.php:58 tutor/single/quiz/top.php:122
+msgid "Start Quiz"
+msgstr ""
+
+#: eventin/templates/event-one.php:86
+msgid "Start Time"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:57
+#: woocommerce/cart/shipping-calculator.php:70
+msgid "State / County"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:56
+#: woocommerce/cart/shipping-calculator.php:69
+msgid "State / County:"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:138
+#: woocommerce/myaccount/my-address.php:233
+#: woocommerce/order/order-details-customer.php:83
+#: woocommerce/order/order-details-customer.php:148
+msgid "State/province/area:"
+msgstr ""
+
+#: tutor/dashboard/purchase_history.php:107 tutor/dashboard/withdraw.php:237
+#: woocommerce/myaccount/my-orders.php:16
+msgid "Status"
+msgstr ""
+
+#: tutor/public-profile.php:130 tutor/dashboard/question-answer.php:61
+#: tutor/dashboard/reviews.php:56 tutor/dashboard/assignments/review.php:60
+#: tutor/dashboard/assignments/submitted.php:80
+#: tutor/single/course/course-topics.php:232
+msgid "Student"
+msgid_plural "Students"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tutor/views/quiz/attempt-table.php:146
+#: tutor/views/quiz/header-context/frontend-dashboard-my-attempts.php:36
+#: tutor/views/quiz/header-context/frontend-dashboard-students-attempts.php:37
+msgid "Student:"
+msgstr ""
+
+#: tutor/public-profile.php:130
+msgid "Students"
+msgstr ""
+
+#: inc/kirki-customizer.php:1468
+msgid "Style 1"
+msgstr ""
+
+#: inc/kirki-customizer.php:1469
+msgid "Style 2"
+msgstr ""
+
+#: inc/kirki-customizer.php:1470
+msgid "Style 3"
+msgstr ""
+
+#: tutor/dashboard/assignments/submitted.php:47
+msgid "Submission Deadline"
+msgstr ""
+
+#: tutor/dashboard/my-courses.php:200 tutor/single/lesson/comment.php:90
+#: tutor/views/qna/qna-new.php:36
+msgid "Submit"
+msgstr ""
+
+#: tutor/single/quiz/parts/question.php:194
+msgid "Submit &amp; Next"
+msgstr ""
+
+#: tutor/single/assignment/content.php:366
+msgid "Submit Assignment"
+msgstr ""
+
+#: woocommerce/product-searchform.php:32
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: tutor/single/quiz/parts/question.php:194
+#: tutor/single/quiz/parts/question.php:212
+msgid "Submit Quiz"
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:201
+msgid "Submit Request"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:183
+#: tutor/single/course/reviews.php:180
+msgid "Submit Review"
+msgstr ""
+
+#: tutor/dashboard/assignments/review.php:69
+msgid "Submitted Date"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:120
+#: woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:56
+msgid "Subtotal"
+msgstr ""
+
+#: inc/kirki-customizer.php:1981
+msgid "Success message"
+msgstr ""
+
+#: tutor/dashboard/announcements/create.php:53
+#: tutor/dashboard/announcements/update.php:54
+#: tutor/views/fragments/announcement-list.php:78
+msgid "Summary"
+msgstr ""
+
+#: tutor/dashboard/announcements/create.php:55
+#: tutor/dashboard/announcements/update.php:56
+#: tutor/views/fragments/announcement-list.php:80
+msgid "Summary..."
+msgstr ""
+
+#: inc/kirki-customizer.php:666
+msgid "Tablet"
+msgstr ""
+
+#: tutor/course-filter/filters.php:78
+msgid "Tag"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:50
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: tutor/single/course/tags.php:18
+msgid "Tags"
+msgstr ""
+
+#: tutor/single-course.php:150 tutor/single-course.php:471
+msgid "Teacher"
+msgstr ""
+
+#: tutor/dashboard/instructor/apply_for_instructor.php:35
+msgid ""
+"Tell us your qualifications, show us your passion, and begin teaching with "
+"us!"
+msgstr ""
+
+#: tutor/dashboard/registration.php:144
+#: tutor/dashboard/instructor/registration.php:159
+#: tutor/dashboard/instructor/registration.php:159
+msgid "Terms and Conditions"
+msgstr ""
+
+#: tutor/dashboard/instructor/logged-in.php:62
+msgid "Thank you for registering as an instructor! "
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:124
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:63
+msgid "Thanks for completing your profile"
+msgstr ""
+
+#: tutor/email/send-reset-password.php:44
+msgid "Thanks for reading."
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:191
+msgid ""
+"The display name is shown in all public fields, such as the author name, "
+"instructor name, student name, and name that will be printed on the "
+"certificate."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: inc/add_plugin.php:125
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:162
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/add_plugin.php:140
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:135
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/kirki-customizer.php:2068 inc/kirki-customizer.php:2092
+#: inc/kirki-customizer.php:2116 inc/kirki-customizer.php:2140
+#: inc/kirki-customizer.php:2164 inc/kirki-customizer.php:2188
+#: inc/kirki-customizer.php:2212 inc/kirki-customizer.php:2236
+msgid "The full set of options."
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:122
+#, php-format
+msgid "The preferred payment method is selected as %s. "
+msgstr ""
+
+#: inc/kirki-customizer.php:2368
+msgid "Theme Color Settings."
+msgstr ""
+
+#: inc/kirki-customizer.php:2367
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/kirki-customizer.php:20
+msgid "Theme Controls."
+msgstr ""
+
+#: inc/kirki-customizer.php:183
+msgid "Theme Default/Primary Logo Here"
+msgstr ""
+
+#: inc/kirki-customizer.php:19
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/kirki-customizer.php:192
+msgid "Theme White Logo Here"
+msgstr ""
+
+#. Author of the theme
+msgid "Theme_Pure"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:160
+msgid "There are no reviews yet."
+msgstr ""
+
+#: inc/add_plugin.php:167
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/add_plugin.php:130
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: tutor/dashboard/settings/withdraw-settings.php:158
+msgid ""
+"There's no Withdrawal method selected yet! To select a Withdraw method, "
+"please contact the Site Admin."
+msgstr ""
+
+#: tutor/single-course.php:573
+msgid "This course includes:"
+msgstr ""
+
+#: tutor/single/course/course-entry-box.php:240
+msgid ""
+"This course is full right now. We limit the number of students to create an "
+"optimized and productive group dynamic."
+msgstr ""
+
+#: tutor/single/course/q_and_a_turned_off.php:17
+msgid "This feature has been disabled by the administrator"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: inc/add_plugin.php:120
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:115
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/form-edit-account.php:39
+msgid ""
+"This will be how your name will be displayed in the account section and in "
+"reviews"
+msgstr ""
+
+#: inc/kirki-customizer.php:1480
+msgid "This will disable column system from Tutor LMS"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+msgid "Thumbnail"
+msgstr ""
+
+#: eventin/templates/event/event-sidebar-meta-free.php:51
+msgid "Time"
+msgstr ""
+
+#: tutor/single/quiz/parts/meta.php:71
+msgid "Time remaining: "
+msgstr ""
+
+#: inc/kirki-customizer.php:2014
+msgid "Title Count"
+msgstr ""
+
+#: inc/kirki-customizer.php:2017
+msgid "Title Count Number"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:34
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: tutor/dashboard/purchase_history.php:44
+msgid "Today"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:103
+#: woocommerce/myaccount/my-orders.php:17
+#: woocommerce/order/order-details.php:54
+msgid "Total"
+msgstr ""
+
+#: tutor/single/course/reviews.php:75
+msgid "Total "
+msgstr ""
+
+#: tutor/single/quiz/top.php:93 tutor/single/quiz/parts/meta.php:33
+msgid "Total Attempted"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:224
+msgid "Total Courses"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:237
+msgid "Total Earnings"
+msgstr ""
+
+#: tutor/single/course/course-entry-box.php:34
+#: tutor/single/course/course-entry-box.php:35
+msgid "Total Enrolled"
+msgstr ""
+
+#: tutor/single/assignment/content.php:316
+msgid "Total File Size: Max"
+msgstr ""
+
+#: tutor/dashboard/assignments.php:80 tutor/single/assignment/content.php:428
+#: tutor/views/quiz/contexts.php:20 tutor/views/quiz/contexts.php:70
+msgid "Total Marks"
+msgstr ""
+
+#: tutor/single/assignment/content.php:160
+#: tutor/views/quiz/header-context/course-single-previous-attempts.php:45
+msgid "Total Marks:"
+msgstr ""
+
+#. %s: total pending withdrawal
+#: tutor/dashboard/withdraw.php:90
+#, php-format
+msgid "Total Pending Withdrawal %s"
+msgstr ""
+
+#: tutor/dashboard/assignments/submitted.php:51
+#: tutor/dashboard/assignments/submitted.php:83
+msgid "Total Points"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:211
+msgid "Total Students"
+msgstr ""
+
+#: tutor/dashboard/assignments.php:83
+msgid "Total Submit"
+msgstr ""
+
+#: woocommerce/checkout/order-receipt.php:33
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:30
+msgid "Totals"
+msgstr ""
+
+#: inc/tp-metabox.php:347
+msgid "TP Audio Post"
+msgstr ""
+
+#: inc/tp-metabox.php:310
+msgid "TP Gallery Post"
+msgstr ""
+
+#: inc/tp-metabox.php:13
+msgid "TP Page Info"
+msgstr ""
+
+#: inc/tp-metabox.php:328
+msgid "TP Video Post"
+msgstr ""
+
+#: inc/kirki-customizer.php:2455
+msgid "tp-portfolios"
+msgstr ""
+
+#: inc/kirki-customizer.php:2465
+msgid "tp-services"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:49
+msgid "Track"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:154
+msgid "Trash"
+msgstr ""
+
+#: inc/add_plugin.php:74
+msgid "Tutor LMS"
+msgstr ""
+
+#: inc/add_plugin.php:42
+msgid "Tutor Pro "
+msgstr ""
+
+#: tutor/views/fragments/thumbnail-uploader.php:54
+msgctxt "tutor-supported-image-type"
+msgid "jpg, .jpeg,. gif, or .png"
+msgstr ""
+
+#: tutor/views/quiz/contexts.php:96
+msgid "Type"
+msgstr ""
+
+#: tutor/dashboard/settings/reset-password.php:48
+#: tutor/dashboard/settings/reset-password.php:78
+msgid "Type Password"
+msgstr ""
+
+#: inc/kirki-customizer.php:2057
+msgid "Typography"
+msgstr ""
+
+#: inc/kirki-customizer.php:472 inc/kirki-customizer.php:660
+#: inc/kirki-customizer.php:676 inc/kirki-customizer.php:707
+#: inc/kirki-customizer.php:738
+msgid "Typography Control"
+msgstr ""
+
+#: inc/kirki-customizer.php:2058
+msgid "Typography Settings."
+msgstr ""
+
+#: tutor/single/course/lead-info.php:92
+msgid "Uncategorized"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:35
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: tutor/dashboard/instructor/logged-in.php:66
+msgid "Unfortunately, your instructor status has been removed."
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:91
+#: tutor/dashboard/announcements/update.php:63
+msgid "Update"
+msgstr ""
+
+#: tutor/dashboard/announcements/update.php:18
+msgid "Update Announcement"
+msgstr ""
+
+#: woocommerce/cart/cart.php:177
+msgid "Update cart"
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:76
+msgid "Update Cover Photo"
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:200
+#: tutor/dashboard/settings/social-profile.php:52
+msgid "Update Profile"
+msgstr ""
+
+#: tutor/dashboard/reviews/edit-review-form.php:25
+#: tutor/dashboard/reviews/given-reviews.php:145
+#: tutor/dashboard/reviews/given-reviews.php:272
+msgid "Update Review"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: inc/add_plugin.php:113
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: tutor/views/fragments/attachments.php:51
+msgid "Upload Attachments"
+msgstr ""
+
+#: inc/kirki-customizer.php:1841
+msgid "Upload cartmini empty thumbnail here"
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:76
+msgid "Upload Cover Photo"
+msgstr ""
+
+#: tutor/views/fragments/thumbnail-uploader.php:61
+msgid "Upload Image"
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:97
+msgid "Upload Photo"
+msgstr ""
+
+#: tutor/views/fragments/thumbnail-uploader.php:24
+msgid "Use this media"
+msgstr ""
+
+#: tutor/dashboard/registration.php:78 tutor/dashboard/registration.php:79
+#: tutor/dashboard/instructor/registration.php:82
+#: tutor/dashboard/instructor/registration.php:85
+#: tutor/dashboard/settings/profile.php:141
+msgid "User Name"
+msgstr ""
+
+#: tutor/dashboard/my-profile.php:31 woocommerce/myaccount/form-login.php:46
+#: woocommerce/myaccount/form-login.php:50
+#: woocommerce/myaccount/form-login.php:156
+#: woocommerce/myaccount/form-login.php:160
+msgid "Username"
+msgstr ""
+
+#: tutor/template-part/retrieve-password.php:34
+msgid "Username or email"
+msgstr ""
+
+#: tutor/login-form.php:60 tutor/login-form.php:61
+msgid "Username or Email Address"
+msgstr ""
+
+#. %s: user login
+#: tutor/email/send-reset-password.php:33
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: tutor/dashboard/settings/profile.php:159
+msgid "UX Designer"
+msgstr ""
+
+#: eventin/templates/event/event-sidebar-meta-free.php:82
+msgid "Venue"
+msgstr ""
+
+#: inc/kirki-customizer.php:895 inc/kirki-customizer.php:937
+#: inc/kirki-customizer.php:978
+msgid "Vertical Padding"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:238
+msgid "Very poor"
+msgstr ""
+
+#: inc/tp-metabox.php:334
+msgid "Video"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:332
+msgid "View All"
+msgstr ""
+
+#: tutor/loop/course-in-cart.php:18
+#: tutor/single/course/add-to-cart-woocommerce.php:26
+msgid "View Cart"
+msgstr ""
+
+#: tutor/single/lesson/required-enroll.php:21
+msgid "View Course"
+msgstr ""
+
+#: tutor/course-embed.php:128 inc/woocommerce/product-card.php:37
+#: inc/woocommerce/tp-woocommerce.php:255
+msgid "View Details"
+msgstr ""
+
+#: inc/woocommerce/tp-woocommerce.php:154
+msgid "View Products"
+msgstr ""
+
+#: inc/kirki-customizer.php:1374
+msgid "View Toggle Switch On/Off"
+msgstr ""
+
+#: inc/woocommerce/product-action.php:73
+msgid "View Wishlist"
+msgstr ""
+
+#: inc/kirki-customizer.php:1351
+msgid "We found [course_number] courses available for you"
+msgstr ""
+
+#: inc/common/edcare-breadcrumb.php:159
+msgid "We have the largest collection of"
+msgstr ""
+
+#: tutor/dashboard/instructor/logged-in.php:75
+msgid ""
+"We've received your application, and we will review it soon. Please hang "
+"tight!"
+msgstr ""
+
+#: inc/common/comments-form-list.php:34
+msgid "Website"
+msgstr ""
+
+#: tutor/single/quiz/top.php:77
+msgid "Week"
+msgstr ""
+
+#: tutor/single/quiz/top.php:77
+msgid "Weeks"
+msgstr ""
+
+#: tutor/dashboard.php:193 woocommerce/myaccount/dashboard.php:50
+msgid "Welcome"
+msgstr ""
+
+#: tutor/single/course/reviews.php:161
+msgid "What is it like to Course?"
+msgstr ""
+
+#: tutor/single/course/course-benefits.php:23
+msgid "What Will You Learn?"
+msgstr ""
+
+#: inc/kirki-customizer.php:201 inc/kirki-customizer.php:258
+msgid "Width"
+msgstr ""
+
+#: inc/template-helper.php:1254 tutor/dashboard/wishlist.php:39
+#: tutor/single/course/lead-info.php:101
+msgid "Wishlist"
+msgstr ""
+
+#: inc/template-helper.php:1260 tutor/dashboard/settings/nav-bar.php:30
+msgid "Withdraw"
+msgstr ""
+
+#: inc/template-helper.php:1263
+msgid "Withdraw Settings"
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:156
+msgid "Withdrawable Balance"
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:219
+msgid "Withdrawal History"
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:228
+msgid "Withdrawal Method"
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:101 tutor/dashboard/withdraw.php:151
+msgid "Withdrawal Request"
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:39
+msgid "Withdrawal request is pending for approval, please hold tight."
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:57
+msgid "Withdrawals"
+msgstr ""
+
+#: inc/add_plugin.php:79
+msgid "WooCommerce"
+msgstr ""
+
+#: tutor/views/quiz/attempt-table.php:245
+msgid ""
+"Would you like to delete Quiz Attempt permanently? We suggest you proceed "
+"with caution."
+msgstr ""
+
+#: inc/add_plugin.php:89
+msgid "WPC Smart Quick View"
+msgstr ""
+
+#: inc/add_plugin.php:84
+msgid "WPC Smart Wishlist"
+msgstr ""
+
+#: tutor/single/course/reviews.php:160
+msgid "Write a Review"
+msgstr ""
+
+#: tutor/single/course/reviews.php:128 tutor/single/course/reviews.php:176
+msgid "Write a review"
+msgstr ""
+
+#: tutor/dashboard/reviews/edit-review-form.php:22
+#: tutor/dashboard/reviews/given-reviews.php:138
+#: tutor/dashboard/reviews/given-reviews.php:265
+msgid "write a review"
+msgstr ""
+
+#: tutor/single/quiz/parts/image-answer.php:36
+msgid "Write your answer here"
+msgstr ""
+
+#: tutor/single/lesson/comment.php:84 tutor/single/lesson/comments-loop.php:82
+msgid "Write your comment here…"
+msgstr ""
+
+#: tutor/dashboard/purchase_history.php:54
+msgid "Yearly"
+msgstr ""
+
+#: inc/kirki-customizer.php:570 inc/kirki-customizer.php:584
+#: inc/kirki-customizer.php:1378 inc/kirki-customizer.php:1484
+#: tutor/modal/confirm.php:19
+msgid "Yes"
+msgstr ""
+
+#: tutor/dashboard/my-courses.php:299
+#: tutor/dashboard/reviews/given-reviews.php:163
+#: tutor/dashboard/reviews/given-reviews.php:290
+#: tutor/views/fragments/announcement-list.php:220
+msgid "Yes, Delete This"
+msgstr ""
+
+#: tutor/single/quiz/top.php:139
+msgid "Yes, Skip This"
+msgstr ""
+
+#: inc/add_plugin.php:94
+msgid "YITH WooCommerce Ajax Product Filter"
+msgstr ""
+
+#: tutor/dashboard/dashboard.php:61
+msgid "You are almost done"
+msgstr ""
+
+#: tutor/dashboard/notifications/profile-completion.php:42
+msgid "You are almost done!"
+msgstr ""
+
+#: tutor/dashboard/logged-in.php:14
+msgid "You are already logged in"
+msgstr ""
+
+#: inc/kirki-customizer.php:363
+msgid "You can change Back To Top bg color from here."
+msgstr ""
+
+#: inc/kirki-customizer.php:386
+msgid "You can change Back To Top icon color from here."
+msgstr ""
+
+#: tutor/dashboard/withdraw.php:125
+#, php-format
+msgid "You can change your %1$s Withdraw Preference %2$s"
+msgstr ""
+
+#: tutor/dashboard/registration.php:19
+#: tutor/dashboard/instructor/registration.php:20
+msgid ""
+"You do not have access to this area of the application. Please refer to your "
+"system  administrator."
+msgstr ""
+
+#: tutor/permission-denied.php:28
+msgid "You don't have permission to access this page"
+msgstr ""
+
+#: tutor/single/course/course-entry-box.php:206
+msgid "You enrolled in this course on"
+msgstr ""
+
+#. %s: available balance
+#: tutor/dashboard/withdraw.php:82
+#, php-format
+msgid "You have %s and this is insufficient balance to withdraw"
+msgstr ""
+
+#. %s: available balance
+#: tutor/dashboard/withdraw.php:79
+#, php-format
+msgid "You have %s ready to withdraw now"
+msgstr ""
+
+#: tutor/dashboard/instructor/logged-in.php:42
+msgid "You have been blocked from being an instructor."
+msgstr ""
+
+#: tutor/dashboard/instructor/logged-in.php:20
+msgid "You have been rejected from being an instructor."
+msgstr ""
+
+#: tutor/single/assignment/content.php:186
+#: tutor/single/assignment/content.php:516
+msgid ""
+"You have missed the submission deadline. Please contact the instructor for "
+"more information."
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:223
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:30
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: tutor/dashboard/instructor/logged-in.php:40
+msgid ""
+"Your application has been accepted. Further necessary details have been sent "
+"to your registered email account."
+msgstr ""
+
+#: tutor/dashboard.php:170
+msgid "Your Application is pending as of"
+msgstr ""
+
+#: tutor/dashboard/instructor/logged-in.php:38
+msgid ""
+"Your application will be reviewed and the results will be sent to you by "
+"email."
+msgstr ""
+
+#: tutor/single/assignment/content.php:529
+msgid "Your Assignment"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:124
+msgid "Your Cart is empty"
+msgstr ""
+
+#: comments.php:47
+msgid "Your Comment Here..."
+msgstr ""
+
+#: inc/common/comments-form-list.php:113
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: tutor/single/course/course-topics.php:164
+msgid "Your Instructors"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:59
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:61
+msgid "Your Order Confirmed"
+msgstr ""
+
+#: tutor/dashboard/assignments/review.php:138
+msgid "Your Points"
+msgstr ""
+
+#: tutor/single/common/header.php:68
+msgid "Your Progress:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:231
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:244
+msgid "Your review"
+msgstr ""
+
+#: inc/template-helper.php:1009
+msgid "Youtube"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:143
+#: woocommerce/myaccount/my-address.php:238
+#: woocommerce/order/order-details-customer.php:87
+#: woocommerce/order/order-details-customer.php:152
+msgid "Zip code:"
+msgstr ""
+
+#: inc/kirki-customizer.php:2356 inc/template-helper.php:437
+msgid "© 2024 EdCare. All rights reserved."
+msgstr ""

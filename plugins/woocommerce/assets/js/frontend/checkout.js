@@ -537,11 +537,11 @@ jQuery( function( $ ) {
 					success:	function( result ) {
 						// Detach the unload handler that prevents a reload / redirect
 						wc_checkout_form.detachUnloadEventsOnSubmit();
-
+						
 						$( '.checkout-inline-error-message' ).remove();
 
 						try {
-							if ( 'success' === result.result &&
+							if ( 'success' === result.result && 
 								$form.triggerHandler( 'checkout_place_order_success', [ result, wc_checkout_form ] ) !== false ) {
 								if ( -1 === result.redirect.indexOf( 'https://' ) || -1 === result.redirect.indexOf( 'http://' ) ) {
 									window.location = result.redirect;
@@ -621,42 +621,29 @@ jQuery( function( $ ) {
 			$( document.body ).trigger( 'checkout_error' , [ error_message ] );
 		},
 		wrapMessagesInsideLink: function( $msgs ) {
-			$msgs.find( 'li[data-id]' ).each( function() {
-				const $this = $( this );
-				const dataId = $this.attr( 'data-id' );
-				if ( dataId ) {
-					const $link = $('<a>', {
-						href: '#' + dataId,
-						html: $this.html()
-					} );
-					$this.empty().append( $link );
-				}
+			$( 'li[data-id]', $msgs ).each( function() {
+				var $this = $( this );
+
+				$this.wrapInner( '<a href="#' + $this.attr( 'data-id' ) + '"></a>' );				
 			} );
 
 			return $msgs;
 		},
 		show_inline_errors: function( $messages ) {
 			$messages.find( 'li[data-id]' ).each( function() {
-				const $this = $( this );
-				const dataId = $this.attr( 'data-id' );
-				const $field = $( '#' + dataId );
+				var $this = $( this );
+				var dataId = $this.attr( 'data-id' );
+				var $field = $( '#' + dataId );
 
 				if ( $field.length === 1 ) {
-					const descriptionId = dataId + '_description';
-					const msg = $this.text().trim();
-					const $formRow = $field.closest( '.form-row' );
-
-					const errorMessage = document.createElement( 'p' );
-					errorMessage.id = descriptionId;
-					errorMessage.className = 'checkout-inline-error-message';
-					errorMessage.textContent = msg;
-
-					if ( $formRow && errorMessage.textContent.length > 0 ) {
-						$formRow.append( errorMessage );
-					}
-
-					$field.attr( 'aria-describedby', descriptionId );
-					$field.attr( 'aria-invalid', 'true' );
+					var descriptionId = dataId + '_description';
+					var msg = $this.text().trim();
+					var $formRow = $field.closest( '.form-row' );
+					
+					$formRow.append( '<p id="' + descriptionId + '" class="checkout-inline-error-message">' + msg + '</p>' );
+					$field
+						.attr( 'aria-describedby', descriptionId )
+						.attr( 'aria-invalid', 'true' );
 				}
 			} );
 		},
@@ -678,17 +665,8 @@ jQuery( function( $ ) {
 			$( 'form.checkout_coupon' ).hide().on( 'submit', this.submit.bind( this ) );
 		},
 		show_coupon_form: function() {
-			var $showcoupon = $( this );
-
 			$( '.checkout_coupon' ).slideToggle( 400, function() {
-				var $coupon_form = $( this );
-
-				if ( $coupon_form.is( ':visible' ) ) {
-					$showcoupon.attr( 'aria-expanded', 'true' );
-					$coupon_form.find( ':input:eq(0)' ).trigger( 'focus' );
-				} else {
-					$showcoupon.attr( 'aria-expanded', 'false' );
-				}
+				$( '.checkout_coupon' ).find( ':input:eq(0)' ).trigger( 'focus' );
 			});
 			return false;
 		},
@@ -696,25 +674,19 @@ jQuery( function( $ ) {
 			if ( $target.length === 0 ) {
 				return;
 			}
-
+	
 			var msg = $( $.parseHTML( html_element ) ).text().trim();
 
 			if ( msg === '' ) {
 				return;
 			}
-
+				
 			$target.find( '#coupon_code' )
 				.focus()
 				.addClass( 'has-error' )
 				.attr( 'aria-invalid', 'true' )
 				.attr( 'aria-describedby', 'coupon-error-notice' );
-
-			$('<span>', {
-				class: 'coupon-error-notice',
-				id: 'coupon-error-notice',
-				role: 'alert',
-				text: msg
-			}).appendTo($target);
+			$target.append( '<span class="coupon-error-notice" id="coupon-error-notice" role="alert">' + msg + '</span>' );
 		},
 		remove_coupon_error: function( evt ) {
 			$( evt.currentTarget )
@@ -760,7 +732,6 @@ jQuery( function( $ ) {
 						// Coupon errors are shown under the input.
 						if ( response.indexOf( 'woocommerce-error' ) === -1 && response.indexOf( 'is-error' ) === -1 ) {
 							$form.slideUp( 400, function() {
-								$( 'a.showcoupon' ).attr( 'aria-expanded', 'false' );
 								$form.before( response );
 							} );
 						} else {
@@ -811,9 +782,7 @@ jQuery( function( $ ) {
 
 						// Remove coupon code from coupon field
 						$( 'form.checkout_coupon' ).find( 'input[name="coupon_code"]' ).val( '' );
-						$( 'form.checkout_coupon' ).slideUp( 400, function() {
-							$( 'a.showcoupon' ).attr( 'aria-expanded', 'false' );
-						} );
+						$( 'form.checkout_coupon' ).slideUp();
 					}
 				},
 				error: function ( jqXHR ) {

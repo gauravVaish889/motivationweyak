@@ -1,0 +1,397 @@
+@use "../utilities" as *;
+
+/**----------------------------------------
+START: Event CSS
+----------------------------------------*/
+
+.event-section{
+    background-color: var(--ed-color-theme-primary);
+    position: relative;
+    z-index: 1;
+    .shapes{
+        .shape{
+            position: absolute;
+            z-index: -1;
+            @include breakpoint(sm){
+                display: none;
+            }
+            &.shape-1{
+                top: 60px;
+                left: 40px;
+            }
+            &.shape-2{
+                top: 0;
+                right: 15%;
+            }
+            &.shape-3{
+                bottom: 0;
+                left: 17%;
+            }
+            &.shape-4{
+                top: 35%;
+                right: 40px;
+            }
+        }
+    }
+}
+
+.event-card{
+    background-color: var(--ed-color-common-white);
+    display: grid;
+    align-items: center;
+    grid-template-columns: 192px 1fr;
+    grid-gap: 30px;
+    padding: 30px;
+    border-radius: 10px;
+    @include breakpoint(md){
+        grid-template-columns: 1fr;
+    }
+    .event-thumb{
+        max-width: 192px 1fr;
+        width: 100%;
+        height: 211px;
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 10px;
+        }
+    }
+    .event-content{
+        .title{
+            font-size: 22px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            line-height: 1.5;
+        }
+        .event-list{
+            margin-bottom: 20px;
+            li{
+                @include flex-vertical-center;
+                column-gap: 10px;
+            }
+        }
+        .ed-primary-btn{
+            background-color: rgba(206, 214, 229, 0.15);
+            border: 1px solid #C9CFDA;
+            color: var(--ed-color-heading-primary);
+            &:before{
+                background-color: var(--ed-color-theme-primary);
+                border: 1px solid var(--ed-color-theme-primary);
+            }
+            &:hover{
+                color: var(--ed-color-common-white);
+            }
+        }
+    }
+}
+
+.event-carousel{
+    padding-bottom: 90px;
+    .swiper-pagination{
+        bottom: 0;
+        .swiper-pagination-bullet{
+            background-color: transparent;
+            height: 20px;
+            width: 20px;
+            border: 2px solid var(--ed-color-common-white);
+            opacity: 1;
+            border-radius: 50%;
+            position: relative;
+            &:before{
+                background-color: var(--ed-color-common-white);
+                content: "";
+                height: 7px;
+                width: 7px;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                border-radius: 50%;
+                visibility: hidden;
+                opacity: 0;
+            }
+            &.swiper-pagination-bullet-active{
+                border: 2px solid var(--ed-color-common-white);
+                &:before{
+                    visibility: visible;
+                    opacity: 1;
+                }
+            }
+        }
+    }
+}
+
+
+
+// Event Details
+
+.event-details-content{
+    background-color: var(--ed-color-grey-1);
+    padding: 30px;
+    border: 1px solid #E0E5EB;
+    border-radius: 15px;
+    @include breakpoint(sm){
+        padding: 30px 20px;
+    }
+    .event-details-img{
+        height: 450px;
+        margin-bottom: 30px;
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 15px;
+        }
+    }
+    .title{
+        font-size: 30px;
+        font-weight: 600;
+        margin-bottom: 20px;
+    }
+    .event-details-list{
+        margin-bottom: 40px;
+        li{
+            list-style: none;
+            @include flex-vertical-center;
+            align-items: baseline;
+            column-gap: 10px;
+            &:not(:last-of-type){
+                margin-bottom: 15px;
+            }
+            i{
+                color: var(--ed-color-theme-primary);
+            }
+            p{
+                margin-bottom: 0;
+                span{
+                    color: var(--ed-color-heading-primary);
+                    font-weight: 500;
+                }
+            }
+        }
+    }
+    .event-map-wrapper{
+        height: 350px;
+        overflow: hidden;
+        border-radius: 15px;
+        margin-bottom: 40px;
+        iframe{
+            border-radius: 15px;
+        }
+    }
+    .inner-team-wrap{
+        margin-top: 30px;
+        @include breakpoint(lg){
+            margin-top: -20px;
+        }
+        .team-item-3{
+            background-color: var(--ed-color-common-white);
+            .team-content{
+                .social-list{
+                    li{
+                        &:not(:last-of-type){
+                            margin-right: 15px;
+                        }
+                    }
+                    a{
+                        color: var(--ed-color-text-body);
+                        background-color: transparent;
+                        height: auto;
+                        width: auto;
+                        border: none;
+                        &:hover{
+                            background-color: transparent;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.event-sidebar{
+    background-color: var(--ed-color-grey-1);
+}
+
+/* !END: Event CSS */
+
+
+// Event Details Breadcrumb CSS Start
+.tp-event-details-countdown ul li:not(:last-of-type) {
+    margin-right: 24px;
+}
+.tp-event-details-countdown ul li {
+    position: relative;
+    font-size: 11px;
+    font-weight: 500;
+    height: 64px;
+    width: 74px;
+    stroke-width: 1px;
+    line-height: 1.5;
+    text-align: center;
+    border-radius: 5px;
+    display: inline-block;
+    letter-spacing: 0.44px;
+    text-transform: uppercase;
+    backdrop-filter: blur(5px);
+    border: 1px solid #00c7b6;
+    fill: rgba(0, 0, 0, 0.06);
+    color: #fff;
+    stroke: rgba(255, 255, 255, 0.21);
+    filter: drop-shadow(0px 20px 20px rgba(6, 12, 20, 0.2));
+}
+.tp-event-details-countdown ul li span {
+    display: block;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+}
+.tp-event-details-countdown ul li:not(:last-of-type)::after {
+    position: absolute;
+    top: 8px;
+    content: ":";
+    right: -18px;
+    opacity: 0.7;
+    font-size: 28px;
+}
+.tp-event-details-breadcrumb-subtitle {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 3px 17px;
+    margin-bottom: 15px;
+    border-radius: 100px;
+    display: inline-block;
+    backdrop-filter: blur(5px);
+    color: #fff;
+    border: 1px solid rgba(255, 255, 255, 0.21);
+    background: transparent;
+}
+.tp-event-details-breadcrumb-title {
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 1.1;
+    margin-bottom: 20px;
+    letter-spacing: -1.2px;
+    color: #fff;
+}
+.tp-event-details-breadcrumb-area::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    content: "";
+    z-index: -1;
+    background: #07A698;
+    opacity: 0.6;
+}
+.etn-es-events-page-container {
+    padding-top: 0 !important;
+}
+// Event Details Breadcrumb CSS End
+
+// Event Details Sidebar CSS Start
+.tp-event-details-box {
+    padding: 30px;
+    border: 1px solid #E0E5EB;
+    border-radius: 15px;
+    background-color: var(--ed-color-grey-1);
+    position: sticky;
+    top: 120px;
+    @include breakpoint(md){
+        margin-top: 50px;
+    }
+    @include breakpoint(sm){
+        margin-top: 50px;
+    }
+}
+
+.tp-event-details-box-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+.tp-event-details-list:not(:last-of-type) {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px dashed #CED4E2;
+}
+.tp-event-details-list h5 {
+    color: #162726;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.tp-event-details-list h5 i {
+    color: var(--ed-color-theme-primary);
+    margin-right: 10px;
+}
+.tp-event-details-ticket {
+    margin-top: 40px;
+}
+.tp-event-details-box .etn-calender-list a{
+    transition: all 0.3s;
+}
+.tp-event-details-box .etn-calender-list a:hover {
+    background-color: var(--ed-color-theme-primary);
+}
+.tp-event-details-area .etn-calender-list a:hover .calender-name {
+    color: var(--ed-color-common-white);
+}
+.etn-calender-list a {
+    border: 1px solid #dfe3eb;
+}
+
+
+.etn-widget.etn-event-organizers {
+    margin-top: 40px;
+}
+h4.etn-organizer-name {
+    margin-top: 15px;
+}
+
+.etn-organizer-logo {
+    width: 180px;
+    object-fit: cover;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.tp-event-details-wrapper {
+    background-color: var(--ed-color-grey-1);
+    padding: 30px;
+    border: 1px solid #E0E5EB;
+    border-radius: 15px;
+}
+.tp-event-details-wrapper .schedule-tab-wrapper .etn-nav li a.etn-active,
+.tp-event-details-wrapper .etn-speaker-item.style-3 .etn-speaker-content {
+    border-bottom-color: var(--ed-color-theme-primary);
+}
+
+.tp-event-details-wrapper .schedule-tab-wrapper .etn-nav li a:after,
+.tp-event-details-wrapper .etn-event-list2 .etn-event-content,
+.tp-event-details-wrapper .schedule-tab-1 .etn-nav li a.etn-active:after {
+    border-color: #07A698 transparent transparent transparent;
+}
+
+.tp-event-details-wrapper .schedule-tab-wrapper .etn-nav li a {
+    border-bottom: 4px solid #e7e7e7;
+}
+.tp-event-details-wrapper .etn-schedule-wrap .etn-schedule-info .etn-schedule-time {
+    background: rgb(7 166 152 / 13%);
+    color: var(--ed-color-theme-primary);
+}
+.tp-event-details-wrapper .etn-schedule-wrap .etn-schedule-info .etn-schedule-location {
+    font-size: 16px;
+    color: var(--ed-color-text-body);
+    font-weight: 400;
+}
+.tp-event-details-wrapper .etn-schedule-wrap .etn-schedule-info .etn-schedule-location i {
+    font-size: 16px;
+    color: var(--ed-color-theme-primary);
+}
+// Event Details Sidebar CSS End

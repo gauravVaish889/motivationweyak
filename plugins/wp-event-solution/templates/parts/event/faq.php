@@ -1,0 +1,1 @@
+<div class="etn-block-components faq">Event FAQ</div>

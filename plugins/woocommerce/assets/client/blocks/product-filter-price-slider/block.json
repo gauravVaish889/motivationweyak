@@ -11,8 +11,7 @@
 			"enableContrastChecker": false,
 			"background": false,
 			"text": false
-		},
-		"interactivity": true
+		}
 	},
 	"attributes": {
 		"showInputFields": {

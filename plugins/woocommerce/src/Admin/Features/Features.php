@@ -8,7 +8,6 @@ namespace Automattic\WooCommerce\Admin\Features;
 use Automattic\WooCommerce\Admin\PageController;
 use Automattic\WooCommerce\Internal\Admin\Loader;
 use Automattic\WooCommerce\Internal\Admin\WCAdminAssets;
-use Automattic\WooCommerce\Utilities\FeaturesUtil;
 
 /**
  * Features Class.
@@ -146,10 +145,6 @@ class Features {
 			if ( $feature_class ) {
 				new $feature_class();
 			}
-		}
-
-		if ( FeaturesUtil::feature_is_enabled( 'blueprint' ) ) {
-			new \Automattic\WooCommerce\Admin\Features\Blueprint\Init();
 		}
 	}
 
@@ -341,14 +336,6 @@ class Features {
 		$features = self::get_features();
 		foreach ( $features as $feature_key ) {
 			$classes[] = sanitize_html_class( 'woocommerce-feature-enabled-' . $feature_key );
-		}
-
-		// Add the Reactify settings payments class if the feature is enabled.
-		if (
-			FeaturesUtil::feature_is_enabled( 'reactify-classic-payments-settings' ) &&
-			! in_array( 'woocommerce-feature-enabled-reactify-classic-payments-settings', $classes, true )
-		) {
-			$classes[] = 'woocommerce-feature-enabled-reactify-classic-payments-settings';
 		}
 
 		$admin_body_class = implode( ' ', array_unique( $classes ) );
