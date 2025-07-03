@@ -1,0 +1,665 @@
+# <!=Copyright (C) 2025 
+# This file is distributed under the same license as the  package.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://example.com/support\n"
+"POT-Creation-Date: 2025-03-11T09:03:29.838Z\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2025-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Your Team <team@example.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: build/blocks/abstract/render.php:90 resources/blocks/abstract/render.php:90
+msgid "Affiliations"
+msgstr ""
+
+#: build/blocks/abstract/render.php:118
+#: resources/blocks/abstract/render.php:118
+msgid "Published on:"
+msgstr ""
+
+#: build/blocks/abstract/render.php:146
+#: resources/blocks/abstract/render.php:146
+msgid "Share"
+msgstr ""
+
+#: build/blocks/abstract/render.php:158
+#: resources/blocks/abstract/render.php:158
+msgid "Facebook"
+msgstr ""
+
+#: build/blocks/abstract/render.php:169
+#: resources/blocks/abstract/render.php:169
+msgid "X (Twitter)"
+msgstr ""
+
+#: build/blocks/abstract/render.php:182
+#: resources/blocks/abstract/render.php:182
+msgid "LinkedIn"
+msgstr ""
+
+#: build/blocks/abstract/render.php:214
+#: resources/blocks/abstract/render.php:214
+msgid "Copy link"
+msgstr ""
+
+#: build/blocks/abstract/render.php:222
+#: resources/blocks/abstract/render.php:222
+msgid "Abstract"
+msgstr ""
+
+#: build/blocks/abstract/render.php:231
+#: resources/blocks/abstract/render.php:231
+msgid "Keywords:"
+msgstr ""
+
+#: build/blocks/cta/render.php:77 build/blocks/search/render.php:82
+#: patterns/cta.php:22 patterns/search.php:20
+#: resources/blocks/cta/render.php:77 resources/blocks/search/render.php:82
+msgid "What is JoVE Visualize?"
+msgstr ""
+
+#: build/blocks/cta/render.php:83 resources/blocks/cta/render.php:83
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim "
+"veniam, quis nost."
+msgstr ""
+
+#: build/blocks/experiment/render.php:30
+#: resources/blocks/experiment/render.php:30
+msgid ""
+"<p>These videos have been matched automatically. <a "
+"href=\"https://www.jove.com/about/contact\">Contact us</a> if they are not "
+"relevant.</p>"
+msgstr ""
+
+#: build/blocks/experiment/render.php:31
+#: resources/blocks/experiment/render.php:31
+msgid "See all related videos"
+msgstr ""
+
+#: build/blocks/experiment/render.php:94
+#: resources/blocks/experiment/render.php:94
+msgid "Published on: "
+msgstr ""
+
+#: build/blocks/experiment/render.php:114
+#: resources/blocks/experiment/render.php:114
+msgid "Hmm, We Couldn't Find Related Videos."
+msgstr ""
+
+#: build/blocks/experiment/render.php:115
+#: resources/blocks/experiment/render.php:115
+msgid ""
+"<p>Don't worry—JoVE has <strong>over 10,000 Video Journals</strong> across "
+"<strong>Medicine, Neuroscience, Biology</strong> and more to facilitate "
+"<strong>Your Next Breakthrough!</strong></p>"
+msgstr ""
+
+#: build/blocks/experiment/render.php:116
+#: resources/blocks/experiment/render.php:116
+msgid "Explore JoVE Research"
+msgstr ""
+
+#: build/blocks/hero/render.php:66 patterns/hero.php:22
+#: resources/blocks/hero/render.php:66
+msgid "Visualize the world of science"
+msgstr ""
+
+#: build/blocks/hero/render.php:73 patterns/hero.php:26
+#: resources/blocks/hero/render.php:73
+msgid "Discover video protocols for 37 million+ research papers"
+msgstr ""
+
+#: build/blocks/hero/render.php:80 build/blocks/search/render.php:75
+#: resources/blocks/hero/render.php:80 resources/blocks/search/render.php:75
+msgid "Search"
+msgstr ""
+
+#: build/blocks/hero/render.php:81 build/blocks/search/render.php:74
+#: resources/blocks/hero/render.php:81 resources/blocks/search/render.php:74
+msgid "| Search from 37,123,123 articles in science research"
+msgstr ""
+
+#: build/blocks/search-filter/render.php:53
+#: build/blocks/search-filter/render.php:80
+#: resources/blocks/search-filter/render.php:53
+#: resources/blocks/search-filter/render.php:80
+msgid "Filters"
+msgstr ""
+
+#: build/blocks/search-filter/render.php:63
+#: resources/blocks/search-filter/render.php:63
+msgid "Sort By Publication Date:"
+msgstr ""
+
+#: build/blocks/search-filter/render.php:65
+#: resources/blocks/search-filter/render.php:65
+msgid "Latest"
+msgstr ""
+
+#: build/blocks/search-filter/render.php:66
+#: resources/blocks/search-filter/render.php:66
+msgid "Oldest"
+msgstr ""
+
+#: build/blocks/search-filter/render.php:94
+#: resources/blocks/search-filter/render.php:94
+msgid "Reset all filters"
+msgstr ""
+
+#: build/blocks/search-filter/render.php:106
+#: resources/blocks/search-filter/render.php:106
+msgid "Results by Years"
+msgstr ""
+
+#: build/blocks/search-filter/render.php:142
+#: resources/blocks/search-filter/render.php:142
+msgid "Reset all"
+msgstr ""
+
+#: inc/classes/class-blocks.php:117
+msgid "Secondary"
+msgstr ""
+
+#: inc/classes/class-blocks.php:121
+msgid "Check"
+msgstr ""
+
+#: inc/classes/class-blocks.php:122
+msgid "Check Circle"
+msgstr ""
+
+#: inc/classes/class-blocks.php:123 inc/classes/class-blocks.php:164
+#: inc/classes/class-blocks.php:176
+msgid "Boxed"
+msgstr ""
+
+#: inc/classes/class-blocks.php:124
+msgid "Jove: None Style"
+msgstr ""
+
+#: inc/classes/class-blocks.php:125
+msgid "Jove: Inline Sept"
+msgstr ""
+
+#: inc/classes/class-blocks.php:129
+msgid "Jove: Outline"
+msgstr ""
+
+#: inc/classes/class-blocks.php:133
+msgid "Dark"
+msgstr ""
+
+#: inc/classes/class-blocks.php:137
+msgid "Blur Image Less"
+msgstr ""
+
+#: inc/classes/class-blocks.php:138
+msgid "Blur Image More"
+msgstr ""
+
+#: inc/classes/class-blocks.php:139
+msgid "Rounded"
+msgstr ""
+
+#: inc/classes/class-blocks.php:143 inc/classes/class-blocks.php:153
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/classes/class-blocks.php:147
+msgid "Truncate 2 Lines"
+msgstr ""
+
+#: inc/classes/class-blocks.php:148
+msgid "Truncate 3 Lines"
+msgstr ""
+
+#: inc/classes/class-blocks.php:149
+msgid "Truncate 4 Lines"
+msgstr ""
+
+#: inc/classes/class-blocks.php:154
+msgid "Background Blur"
+msgstr ""
+
+#: inc/classes/class-blocks.php:158
+msgid "Dotted"
+msgstr ""
+
+#: inc/classes/class-blocks.php:159
+msgid "Thin"
+msgstr ""
+
+#: inc/classes/class-blocks.php:163
+msgid "Rounded Full"
+msgstr ""
+
+#: inc/classes/class-blocks.php:168
+msgid "Dark Style"
+msgstr ""
+
+#: inc/classes/class-blocks.php:172
+msgid "Button Style"
+msgstr ""
+
+#: inc/classes/class-blocks.php:238
+msgid "Cards"
+msgstr ""
+
+#: inc/classes/class-blocks.php:249
+msgid "Call To Action"
+msgstr ""
+
+#: inc/classes/class-blocks.php:260
+msgid "Features"
+msgstr ""
+
+#: inc/classes/class-blocks.php:271
+msgid "Hero"
+msgstr ""
+
+#: inc/classes/class-blocks.php:282
+msgid "Pages"
+msgstr ""
+
+#: inc/classes/class-blocks.php:293
+msgid "Posts"
+msgstr ""
+
+#: inc/classes/class-blocks.php:304
+msgid "Pricing"
+msgstr ""
+
+#: inc/classes/class-blocks.php:315 patterns/footer.php:164
+msgid "Testimonials"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:268
+msgid "Browse:"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:270
+msgid "Home"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:271
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:272
+msgid "Archives"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:274
+#. Translators: %s is the search query.
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:276
+#. Translators: %s is the page number.
+msgid "Page %s"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:278
+#. Translators: %s is the page number.
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:280
+#. Translators: Minute archive title. %s is the minute time format.
+msgid "Minute %s"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:282
+#. Translators: Weekly archive title. %s is the week date format.
+msgid "Week %s"
+msgstr ""
+
+#: inc/classes/class-customize.php:70
+msgid "Google Analytics"
+msgstr ""
+
+#: inc/classes/class-customize.php:72
+msgid "Enter your Google AdSense Analytics Tracking ID."
+msgstr ""
+
+#: inc/classes/class-customize.php:90
+msgid "Tag ID"
+msgstr ""
+
+#: inc/classes/class-customize.php:91
+msgid "Enter your Google AdSense Analytics Tag ID (e.g %s)."
+msgstr ""
+
+#: inc/classes/class-jove.php:249
+msgid "Sidebar"
+msgstr ""
+
+#: inc/classes/class-jove.php:250
+msgid "Sidebar for the Page (With Sidebar) template."
+msgstr ""
+
+#: inc/classes/class-register-post-types.php:53
+msgid "jove"
+msgstr ""
+
+#: inc/classes/class-register-post-types.php:87
+msgid "Not found"
+msgstr ""
+
+#: inc/classes/class-register-post-types.php:88
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/classes/class-register-post-types.php:89
+msgid "Featured Image"
+msgstr ""
+
+#: inc/classes/class-register-post-types.php:90
+msgid "Set featured image"
+msgstr ""
+
+#: inc/classes/class-register-post-types.php:91
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/classes/class-register-post-types.php:92
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/classes/class-register-post-types.php:158
+#: inc/classes/class-register-post-types.php:160
+msgid "Videos"
+msgstr ""
+
+#: inc/classes/class-register-post-types.php:159
+msgid "Video"
+msgstr ""
+
+#: inc/classes/class-register-post-types.php:168
+msgid "video"
+msgstr ""
+
+#: inc/classes/class-register-taxonomies.php:190
+msgid "Author"
+msgstr ""
+
+#: inc/classes/class-register-taxonomies.php:192
+msgid "Authors"
+msgstr ""
+
+#: inc/classes/class-register-taxonomies.php:202
+msgid "Institution"
+msgstr ""
+
+#: inc/classes/class-register-taxonomies.php:204
+msgid "Institutions"
+msgstr ""
+
+#: inc/classes/class-register-taxonomies.php:214
+msgid "Journal"
+msgstr ""
+
+#: inc/classes/class-register-taxonomies.php:216
+msgid "Journals"
+msgstr ""
+
+#: inc/classes/class-register-taxonomies.php:226
+msgid "Keyword"
+msgstr ""
+
+#: inc/classes/class-register-taxonomies.php:228
+msgid "Keywords"
+msgstr ""
+
+#: inc/classes/class-search-api.php:92
+msgid "Search query"
+msgstr ""
+
+#: inc/classes/class-search-api.php:104
+msgid "Filter posts by sort order"
+msgstr ""
+
+#: inc/classes/class-search-api.php:116
+msgid "Comma-separated author IDs"
+msgstr ""
+
+#: inc/classes/class-search-api.php:128
+msgid "Comma-separated institution IDs"
+msgstr ""
+
+#: inc/classes/class-search-api.php:140
+msgid "Comma-separated journal IDs"
+msgstr ""
+
+#: inc/classes/class-search-api.php:152
+msgid "Filter posts published before this date (YYYY-MM-DD)"
+msgstr ""
+
+#: inc/classes/class-search-api.php:164
+msgid "Filter posts published after this date (YYYY-MM-DD)"
+msgstr ""
+
+#: inc/classes/class-search-api.php:176
+msgid "Page number"
+msgstr ""
+
+#: inc/classes/class-search-api.php:188
+msgid "Number of posts per page"
+msgstr ""
+
+#: inc/classes/class-video-rest-api.php:66
+msgid "You do not have permissions to create video posts."
+msgstr ""
+
+#: patterns/cta.php:26
+msgid ""
+"JoVE Visualize aligns the vast landscape of scientific literature with "
+"peer-reviewed experiments and methods\n"
+"            videos."
+msgstr ""
+
+#: patterns/cta.php:31
+msgid ""
+"Designed for researchers, students, and scientists, it enhances the "
+"research workflow by showcasing visual\n"
+"            demonstrations of complex experimental techniques referenced in "
+"major research publications, saving valuable\n"
+"            research time and accelerating discoveries."
+msgstr ""
+
+#: patterns/footer.php:67
+msgid "ABOUT JoVE"
+msgstr ""
+
+#: patterns/footer.php:73
+msgid "Overview"
+msgstr ""
+
+#: patterns/footer.php:79
+msgid "Leadership"
+msgstr ""
+
+#: patterns/footer.php:84
+msgid "Blog"
+msgstr ""
+
+#: patterns/footer.php:89
+msgid "JoVE Help Center"
+msgstr ""
+
+#: patterns/footer.php:105
+msgid "AUTHORS"
+msgstr ""
+
+#: patterns/footer.php:112
+msgid "Publishing Process"
+msgstr ""
+
+#: patterns/footer.php:118
+msgid "Editorial Board"
+msgstr ""
+
+#: patterns/footer.php:124
+msgid "Scope &amp; Policies"
+msgstr ""
+
+#: patterns/footer.php:130
+msgid "Peer Review"
+msgstr ""
+
+#: patterns/footer.php:135 patterns/footer.php:191
+msgid "FAQ"
+msgstr ""
+
+#: patterns/footer.php:141
+msgid "Submit"
+msgstr ""
+
+#: patterns/footer.php:157
+msgid "LIBRARIANS"
+msgstr ""
+
+#: patterns/footer.php:170
+msgid "Subscriptions"
+msgstr ""
+
+#: patterns/footer.php:175
+msgid "Access"
+msgstr ""
+
+#: patterns/footer.php:180
+msgid "Resources"
+msgstr ""
+
+#: patterns/footer.php:186
+msgid "Library Advisory Board"
+msgstr ""
+
+#: patterns/footer.php:215
+msgid "RESEARCH"
+msgstr ""
+
+#: patterns/footer.php:222
+msgid "JoVE Journal"
+msgstr ""
+
+#: patterns/footer.php:228
+msgid "Methods Collections"
+msgstr ""
+
+#: patterns/footer.php:234
+msgid "JoVE Encyclopedia of Experiments"
+msgstr ""
+
+#: patterns/footer.php:239
+msgid "Archive"
+msgstr ""
+
+#: patterns/footer.php:256
+msgid "EDUCATION"
+msgstr ""
+
+#: patterns/footer.php:263
+msgid "JoVE Core"
+msgstr ""
+
+#: patterns/footer.php:269
+msgid "JoVE Business"
+msgstr ""
+
+#: patterns/footer.php:275
+msgid "JoVE Science Education"
+msgstr ""
+
+#: patterns/footer.php:281
+msgid "JoVE Lab Manual"
+msgstr ""
+
+#: patterns/footer.php:287
+msgid "Faculty Resource Center"
+msgstr ""
+
+#: patterns/footer.php:293
+msgid "Faculty Site"
+msgstr ""
+
+#: patterns/footer.php:317
+msgid "Terms &amp; Conditions of Use"
+msgstr ""
+
+#: patterns/footer.php:322
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer.php:326
+msgid "Policies"
+msgstr ""
+
+#: patterns/header.php:42
+msgid "Contact Us"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:269
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:743
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:760
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:777
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:793
+#: inc/classes/class-breadcrumb-trail.php:822
+#: inc/classes/class-breadcrumb-trail.php:849
+#: inc/classes/class-breadcrumb-trail.php:876
+#: inc/classes/class-breadcrumb-trail.php:1216
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:794
+#: inc/classes/class-breadcrumb-trail.php:850
+#: inc/classes/class-breadcrumb-trail.php:1220
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:795
+#: inc/classes/class-breadcrumb-trail.php:1224
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/classes/class-breadcrumb-trail.php:823
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
